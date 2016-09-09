@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\menu\\menu_call_safe.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\menu\\menu_call_safe.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\menu\\main.xml"
+    }
+]

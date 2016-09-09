@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/leakcanary-analyzer" />
+            <option value="$PROJECT_DIR$/leakcanary-android" />
+            <option value="$PROJECT_DIR$/leakcanary-android-no-op" />
+            <option value="$PROJECT_DIR$/leakcanary-sample" />
+            <option value="$PROJECT_DIR$/leakcanary-watcher" />
+            <option value="$PROJECT_DIR$/moblieSafe" />
+            <option value="$PROJECT_DIR$/slidingmenulibrary" />
+            <option value="$PROJECT_DIR$/timber_player" />
+            <option value="$PROJECT_DIR$/viewPagerIndicatorLibrary" />
+            <option value="$PROJECT_DIR$/zhbj" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/leakcanary-analyzer" />
+            <option value="$PROJECT_DIR$/leakcanary-android" />
+            <option value="$PROJECT_DIR$/leakcanary-android-no-op" />
+            <option value="$PROJECT_DIR$/leakcanary-sample" />
+            <option value="$PROJECT_DIR$/leakcanary-watcher" />
+            <option value="$PROJECT_DIR$/moblieSafe" />
+            <option value="$PROJECT_DIR$/slidingmenulibrary" />
+            <option value="$PROJECT_DIR$/timber_player" />
+            <option value="$PROJECT_DIR$/viewPagerIndicatorLibrary" />
+            <option value="$PROJECT_DIR$/zhbj" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

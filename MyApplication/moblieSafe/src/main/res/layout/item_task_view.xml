@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <ImageView
+        android:layout_marginLeft="5dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/iv_task"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="手机卫士"
+            android:id="@+id/tv_taskname"
+            android:singleLine="true"
+            android:textColor="@color/black"/>
+            <TextView
+                android:layout_below="@id/tv_taskname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="3dp"
+                android:text="手机内存"
+                android:id="@+id/tv_taskramsize"
+                android:textSize="16sp"/>
+
+        <CheckBox
+            android:focusable="false"
+            android:clickable="false"
+            android:layout_marginTop="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_alignParentRight="true"
+            android:id="@+id/cb_task"
+            android:button="@drawable/button"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

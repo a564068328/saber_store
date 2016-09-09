@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_text_color_indicator.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\viewPagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_text_color_indicator.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\viewPagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    }
+]

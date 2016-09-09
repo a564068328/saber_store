@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\tran_previous_out.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\tran_previous_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\tran_out.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\tran_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\tran_previous_in.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\tran_previous_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\anim\\tran_in.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\anim\\tran_in.xml"
+    }
+]

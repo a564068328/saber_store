@@ -1,0 +1,391 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:2:1-196:12
+	package
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:18:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:24:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:25:22-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:26:5-72
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:26:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:29:22-64
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:30:22-85
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:31:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:33:22-72
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:39:5-76
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:39:22-73
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:46:5-48:38
+	android:maxSdkVersion
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:48:9-35
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:47:9-64
+application
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:50:5-194:19
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:53:9-41
+	android:allowBackup
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:51:9-35
+	android:icon
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:52:9-43
+	android:theme
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:54:9-40
+activity#com.itheima52.mobilesafe.activity.SplashActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:55:9-63:20
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:56:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:61:27-74
+activity#com.itheima52.mobilesafe.activity.HomeActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:64:9-72:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:64:19-56
+intent-filter#android.intent.action.Home+android.intent.category.DEFAULT
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:65:13-71:29
+action#android.intent.action.Home
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:68:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:70:17-76
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:70:27-73
+activity#com.itheima52.mobilesafe.activity.SettingActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:73:9-62
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:73:19-59
+activity#com.itheima52.mobilesafe.activity.LostFindActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:74:9-63
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:74:19-60
+activity#com.itheima52.mobilesafe.activity.Setup1Activity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:75:9-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:75:19-58
+activity#com.itheima52.mobilesafe.activity.Setup2Activity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:76:9-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:76:19-58
+activity#com.itheima52.mobilesafe.activity.Setup3Activity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:77:9-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:77:19-58
+activity#com.itheima52.mobilesafe.activity.Setup4Activity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:78:9-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:78:19-58
+activity#com.itheima52.mobilesafe.activity.ContactActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:79:9-62
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:79:19-59
+activity#com.itheima52.mobilesafe.activity.AToolsActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:80:9-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:80:19-58
+activity#com.itheima52.mobilesafe.activity.AddressActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:81:9-62
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:81:19-59
+activity#com.itheima52.mobilesafe.activity.DragViewActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:82:9-84:75
+	android:theme
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:84:13-72
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:83:13-54
+activity#com.itheima52.mobilesafe.activity.AppManagerActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:85:9-87:66
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:87:13-63
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:86:13-56
+activity#com.itheima52.mobilesafe.activity.TaskManagerActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:90:13-64
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:89:13-57
+activity#com.itheima52.mobilesafe.activity.TaskManagerSettingActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:94:13-72
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:93:13-64
+activity#com.itheima52.mobilesafe.activity.AntivirusActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:98:13-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:97:13-55
+activity#com.itheima52.mobilesafe.activity.AppLockActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:100:9-62
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:100:19-59
+activity#com.itheima52.mobilesafe.activity.CallSafeActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:101:9-103:64
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:103:13-61
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:102:13-54
+activity#com.itheima52.mobilesafe.activity.EnterPwdActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:105:9-107:51
+	android:launchMode
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:107:13-48
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:106:13-54
+activity#com.itheima52.mobilesafe.activity.CleanCacheActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:108:9-65
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:108:19-62
+receiver#com.itheima52.mobilesafe.receiver.BootCompleteReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:110:9-114:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:110:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:111:13-113:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:112:17-79
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:112:25-76
+receiver#com.itheima52.mobilesafe.receiver.SmsReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:115:9-119:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:115:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:116:13-118:29
+	android:priority
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:116:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:117:17-82
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:117:25-79
+receiver#com.itheima52.mobilesafe.receiver.MyAppWidget
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:121:9-129:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:121:19-55
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:122:13-124:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:123:17-84
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:123:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:126:13-128:66
+	android:resource
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:128:17-63
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:127:17-58
+receiver#com.itheima52.mobilesafe.receiver.KillProcessAllReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:131:9-135:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:131:19-66
+intent-filter#com.appwidget.action.KillProcessAllReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:132:13-134:29
+action#com.appwidget.action.KillProcessAllReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:133:17-86
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:133:25-83
+service#com.itheima52.mobilesafe.service.LocationService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:144:9-60
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:144:18-57
+service#com.itheima52.mobilesafe.service.AddressService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:145:9-59
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:145:18-56
+service#com.itheima52.mobilesafe.service.CallSafeService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:146:9-149:39
+	android:enabled
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:148:13-35
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:149:13-36
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:147:13-52
+service#com.itheima52.mobilesafe.service.KillProcessService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:150:9-154:19
+	android:enabled
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:152:13-35
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:153:13-36
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:151:13-55
+service#com.itheima52.mobilesafe.service.KillProcesWidgetService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:155:9-159:19
+	android:enabled
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:157:13-35
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:158:13-36
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:156:13-60
+service#com.itheima52.mobilesafe.service.WatchDogService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:160:9-164:19
+	android:enabled
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:162:13-35
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:163:13-36
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:161:13-52
+activity#net.youmi.android.AdBrowser
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:167:9-171:20
+	android:configChanges
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:169:13-83
+	android:theme
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:170:13-66
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:168:13-55
+service#net.youmi.android.AdService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:173:9-176:19
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:175:13-37
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:174:13-55
+service#net.youmi.android.ExpService
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:177:9-180:19
+	android:exported
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:179:13-37
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:178:13-56
+receiver#net.youmi.android.AdReceiver
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:182:9-188:20
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:182:19-62
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:183:13-187:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:184:17-78
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:184:25-75
+data
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:186:17-50
+	android:scheme
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:186:23-47
+activity#com.itheima52.mobilesafe.activity.TrafficManagerActivity
+ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:190:9-193:20
+	android:label
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:192:13-67
+	android:name
+		ADDED from D:\Users\asus\AndroidStudioProjects\MyApplication\moblieSafe\src\main\AndroidManifest.xml:191:13-60
