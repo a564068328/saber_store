@@ -1,1 +1,1 @@
-include ':app', ':moblieSafe', ':zhbj', ':viewPagerIndicatorLibrary', ':slidingmenulibrary', ':leakcanary-android-no-op', ':leakcanary-watcher', ':leakcanary-sample', ':leakcanary-analyzer', ':leakcanary-android', ':timber_player'
+include ':app', ':moblieSafe', ':zhbj', ':viewPagerIndicatorLibrary', ':slidingmenulibrary',':timber_player'
