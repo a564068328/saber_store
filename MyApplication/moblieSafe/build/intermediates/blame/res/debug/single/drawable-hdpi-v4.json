@@ -1,67 +1,95 @@
 [
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_lock_default.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_lock_default.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local_popup_bg.9.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\local_popup_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_green.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_orange.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drag.bmp",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\drag.bmp"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.9.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_scanner_malware.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_scanner_malware.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_trojan.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_callmsgsafe.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_lock_big.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\icon_lock_big.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_taskmanager.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_bg.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
-    },
-    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_taskmanager.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_gray.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_gray.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_default.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_left_default.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\unlock.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\unlock.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_default.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_default.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_progress_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait.9.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_lock_default.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_lock_default.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.9.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_lock_pressed.png",
@@ -76,40 +104,44 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.9.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\button_normal.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_green.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_default.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_default.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\previous.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\previous.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
-    },
-    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_unlock_pressed.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_unlock_pressed.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon_36.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon_36.png"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
-    },
-    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_callmsgsafe.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_trojan.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_lock_big.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\icon_lock_big.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_unlock_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_unlock_pressed.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
@@ -124,24 +156,32 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_settings.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timepicker_up_selected.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\timepicker_up_selected.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon_36.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon_36.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_pressed.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_blue.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_blue.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_progress.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\security_progress.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_settings.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_settings.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_tools.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\desktop_button_1.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\desktop_button_1.9.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
@@ -150,6 +190,242 @@
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listview_divider.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_sysoptimize.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_orange.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.jpg",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timepicker_up_selected.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\timepicker_up_selected.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_pressed.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_tools.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_safe.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_lock_default.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_lock_default.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local_popup_bg.9.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\local_popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_green.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.9.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listview_divider.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_trojan.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_lock_big.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\icon_lock_big.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img2.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local_popup_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\local_popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_default.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_default.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img3.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\img3.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon_36.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_safe.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_lock_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_lock_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_progress.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_apps.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timepicker_up_selected.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\timepicker_up_selected.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.9.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_pressed.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setup1.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drag.bmp",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\drag.bmp"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_progress.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_green_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_tools.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_tools.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_normal.png",
@@ -168,28 +444,16 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\phone.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_orange.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\next.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_unlock_default.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_unlock_default.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_unlock_default.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_unlock_default.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_default.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.jpg",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_bg.jpg"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bind.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\bind.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_green_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.png",
@@ -200,28 +464,16 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img1.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\img1.png"
-    },
-    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.9.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.9.png"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_button_clean_pressed.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\list_button_clean_pressed.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\jiantou1_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_netmanager.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_gray.png",
@@ -236,19 +488,19 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\desktop_button_1.9.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\desktop_button_1.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.jpg",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\main_bg.jpg"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\desktop_button_1.9.png",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\desktop_button_1.9.png"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_apps.png",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_apps.png"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_safe.png",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_blue.png",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable-hdpi\\call_locate_blue.png"
     }
 ]

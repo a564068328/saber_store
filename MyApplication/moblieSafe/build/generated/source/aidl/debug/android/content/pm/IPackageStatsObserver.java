@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\aidl\\android\\content\\pm\\IPackageStatsObserver.aidl
+ * Original file: E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\aidl\\android\\content\\pm\\IPackageStatsObserver.aidl
  */
 package android.content.pm;
 /**

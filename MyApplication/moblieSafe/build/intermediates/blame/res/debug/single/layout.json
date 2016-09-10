@@ -1,11 +1,139 @@
 [
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_contact.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_call_safe.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_call_safe.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\home_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_clean_cache.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_lock_fragment.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock_fragment.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_unlock_fragment.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_clean_cache.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_input_password.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dailog_input_password.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_click.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\view_setting_click.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_lock.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drag_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_drag_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_safe.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_call_safe.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_task_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_item.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\view_setting_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_black_number.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dialog_add_black_number.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_set_password.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dailog_set_password.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_applock.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_safe2.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_call_safe2.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_lock_fragment.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_set_password.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dailog_set_password.xml"
+    },
+    {
+        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_contact.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock_fragment.xml",
@@ -20,28 +148,52 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_task_view.xml"
     },
     {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\home_list_item.xml"
+    },
+    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_traffic_view.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_traffic_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_safe.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_call_safe.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\process_widget.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup2.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_traffic_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_traffic_view.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\home_list_item.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antivirus.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_antivirus.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_lock_fragment.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_unlock.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_clean_cache.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\view_setting_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_pwd.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_set_pwd.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
@@ -56,16 +208,20 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\toast_address.xml"
     },
     {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_maneger_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_maneger_view.xml"
+    },
+    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antivirus.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_antivirus.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_input_password.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dailog_input_password.xml"
-    },
-    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_lock.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_atools.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
@@ -80,28 +236,28 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_clean_cache.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\toast_address.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\toast_address.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindom.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_popupwindom.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_black_number.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dialog_add_black_number.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\contact_list_item.xml"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup1.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_app_manager.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_safe2.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_call_safe2.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_safe.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_call_safe.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_applock.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
@@ -112,8 +268,12 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_set_pwd.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup4.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\list_view.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_click.xml",
@@ -140,31 +300,39 @@
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_atools.xml"
     },
     {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setting.xml"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_item.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\view_setting_item.xml"
-    },
-    {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_address.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_task_manager.xml"
     },
     {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_input_password.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dailog_input_password.xml"
     },
     {
         "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
         "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\item_unlock.xml"
     },
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_applock.xml"
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_address.xml"
     }
 ]
