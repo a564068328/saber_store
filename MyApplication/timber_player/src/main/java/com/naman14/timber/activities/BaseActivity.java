@@ -175,6 +175,8 @@ public class BaseActivity extends ATEActivity implements ServiceConnection, Musi
         }
     }
 
+    //创建 Options menu 这个菜单,Options menu 是一个Activity中的菜单选项的主要组成部分，
+    // 它是作用在全局的app中的，比如说 "Search","Compose email","Settings."
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -185,6 +187,7 @@ public class BaseActivity extends ATEActivity implements ServiceConnection, Musi
         return true;
     }
 
+    //用户选择从菜单选项触发点击事件
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
