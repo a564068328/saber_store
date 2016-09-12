@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
-        "source": "D:\\Users\\asus\\AndroidStudioProjects\\MyApplication\\slidingmenulibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
         "source": "E:\\GitStore\\MyApplication\\slidingmenulibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
     }
