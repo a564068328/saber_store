@@ -17,6 +17,7 @@ package com.naman14.timber.activities;
 import android.Manifest;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
@@ -27,13 +28,19 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.afollestad.appthemeengine.customizers.ATEActivityThemeCustomizer;
+import com.google.android.gms.appindexing.Action;
+import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.common.api.GoogleApiClient;
 import com.naman14.timber.MusicPlayer;
 import com.naman14.timber.R;
 import com.naman14.timber.fragments.AlbumDetailFragment;
@@ -132,6 +139,11 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     };
     private DrawerLayout mDrawerLayout;
     private boolean isDarkTheme;
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    private GoogleApiClient client;
 
     public static MainActivity getInstance() {
         return sMainActivity;
@@ -158,12 +170,20 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         panelLayout = (SlidingUpPanelLayout) findViewById(R.id.sliding_layout);
 
+        //给NavigationView设置headerview
         navigationView = (NavigationView) findViewById(R.id.nav_view);
         View header = navigationView.inflateHeaderView(R.layout.nav_header);
 
         albumart = (ImageView) header.findViewById(R.id.album_art);
         songtitle = (TextView) header.findViewById(R.id.song_title);
         songartist = (TextView) header.findViewById(R.id.song_artist);
+        albumart.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+
+            }
+
+        });
 
         setPanelSlideListeners(panelLayout);
 
@@ -184,7 +204,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         addBackstackListener();
 
-        if(Intent.ACTION_VIEW.equals(action)) {
+        if (Intent.ACTION_VIEW.equals(action)) {
             Handler handler = new Handler();
             handler.postDelayed(new Runnable() {
                 @Override
@@ -196,6 +216,17 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 }
             }, 350);
         }
+
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+//            Window window = getWindow();
+//            // Translucent status bar
+//            window.setFlags(
+//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,
+//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+//        }
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
     private void loadEverything() {
@@ -269,8 +300,10 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
                     }
                 });
+
     }
 
+    //设置侧滑菜单的图标
     private void setupNavigationIcons(NavigationView navigationView) {
 
         //material-icon-lib currently doesn't work with navigationview of design support library 22.2.0+
@@ -297,12 +330,15 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
     }
 
+    //监听NavigationView的点击事件
     private void updatePosition(final MenuItem menuItem) {
         runnable = null;
 
         switch (menuItem.getItemId()) {
+
             case R.id.nav_library:
                 runnable = navigateLibrary;
+
 
                 break;
             case R.id.nav_playlists:
@@ -351,6 +387,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         }
     }
 
+    //更改NavigationView的header
     public void setDetailsToHeader() {
         String name = MusicPlayer.getTrackName();
         String artist = MusicPlayer.getArtistName();
@@ -359,9 +396,11 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             songtitle.setText(name);
             songartist.setText(artist);
         }
+
+        //更改NavigationView的header的图片
         ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
                 new DisplayImageOptions.Builder().cacheInMemory(true)
-                        .showImageOnFail(R.drawable.ic_empty_music2)
+                        .showImageOnFail(R.drawable.picture_05_lake)
                         .resetViewBeforeLoading(true)
                         .build());
     }
@@ -405,6 +444,45 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         return isDarkTheme ? R.style.AppThemeNormalDark : R.style.AppThemeNormalLight;
     }
 
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "Main Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app URL is correct.
+                Uri.parse("android-app://com.naman14.timber.activities/http/host/path")
+        );
+        AppIndex.AppIndexApi.start(client, viewAction);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "Main Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app URL is correct.
+                Uri.parse("android-app://com.naman14.timber.activities/http/host/path")
+        );
+        AppIndex.AppIndexApi.end(client, viewAction);
+        client.disconnect();
+    }
 }
 
 
