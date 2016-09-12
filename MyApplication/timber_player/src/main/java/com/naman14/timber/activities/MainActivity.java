@@ -347,6 +347,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 break;
             case R.id.nav_nowplaying:
                 NavigationUtils.navigateToNowplaying(MainActivity.this, false);
+
                 break;
             case R.id.nav_queue:
                 runnable = navigateQueue;
