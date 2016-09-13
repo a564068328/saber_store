@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="5dp"
-        android:textSize="14sp" />
+        android:textSize="16sp" />
 
     <View android:layout_width="match_parent"
         android:layout_height="1dp"
@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="5dp"
-        android:textSize="14sp" />
+        android:textSize="16sp" />
 
     <TextView
         android:id="@+id/tv_cancel"
@@ -33,5 +33,5 @@
         android:gravity="center"
         android:padding="5dp"
         android:text="@string/ddc_dialog_cancel"
-        android:textSize="14sp" />
+        android:textSize="16sp" />
 </LinearLayout>

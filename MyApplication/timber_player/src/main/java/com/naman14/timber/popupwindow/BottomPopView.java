@@ -3,6 +3,8 @@ package com.naman14.timber.popupwindow;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.drawable.BitmapDrawable;
+import android.preference.PreferenceManager;
+import android.support.v4.content.ContextCompat;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -31,7 +33,7 @@ public abstract class BottomPopView {
     WindowManager.LayoutParams params;
     WindowManager windowManager;
     Window window;
-
+    boolean isDarkTheme;
     /**
      * @param context
      * @param anchor  依附在哪个View下面
@@ -47,6 +49,7 @@ public abstract class BottomPopView {
     }
 
     public void init() {
+        isDarkTheme = PreferenceManager.getDefaultSharedPreferences(mContext).getBoolean("dark_theme", false);
         View view = mInflater.inflate(R.layout.bottom_pop_window, null);
         params.dimAmount = 0.5f;
         window.addFlags(WindowManager.LayoutParams.FLAG_DIM_BEHIND);
@@ -93,6 +96,19 @@ public abstract class BottomPopView {
         mPopupWindow.setOutsideTouchable(true);
         // 动画效果 从底部弹起
         mPopupWindow.setAnimationStyle(R.style.popWindow_animation);
+        if(!isDarkTheme){
+            mTvTop.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
+            mTvBottom.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
+            mTvCancel.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
+
+        }else{
+            mTvTop.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
+            mTvBottom.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
+            mTvCancel.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
+        }
+        mTvTop.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
+        mTvBottom.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
+        mTvCancel.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
     }
 
     /**
