@@ -104,11 +104,5 @@
     <string name="count_albums"><xliff:g id="count">%d</xliff:g> 张专辑</string>
     <string name="count_artist"><xliff:g id="count">%d</xliff:g> 位艺术家</string>
     <string name="count_artists"><xliff:g id="count">%d</xliff:g> 位艺术家</string>
-
-    <string name="play">播放</string>
-    <string name="paly_next">下一曲</string>
-    <string name="add_to_queue">添加到播放队列</string>
-    <string name="add_to_playlist">添加到播放列表</string>
-    <string name="go_to_album">查看唱片集</string>
-    <string name="go_to_artist">查看艺术家</string>
+    <string name="go_to_set_bg">点击更改背景图片</string>
 </resources>

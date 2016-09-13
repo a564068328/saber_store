@@ -55,7 +55,6 @@ public class Helpers {
                 "dark_theme" : "light_theme";
     }
 
-    //关于
     public static class AboutDialog extends DialogFragment {
 
         String urlgooglelus = "https://plus.google.com/u/0/+NamanDwivedi14";

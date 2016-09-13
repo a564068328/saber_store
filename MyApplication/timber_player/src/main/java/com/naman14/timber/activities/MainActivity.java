@@ -16,8 +16,8 @@ package com.naman14.timber.activities;
 
 import android.Manifest;
 import android.content.Intent;
+import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
@@ -26,21 +26,19 @@ import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.util.Log;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
+import android.widget.PopupWindow;
 import android.widget.TextView;
 
 import com.afollestad.appthemeengine.customizers.ATEActivityThemeCustomizer;
-import com.google.android.gms.appindexing.Action;
-import com.google.android.gms.appindexing.AppIndex;
-import com.google.android.gms.common.api.GoogleApiClient;
 import com.naman14.timber.MusicPlayer;
 import com.naman14.timber.R;
 import com.naman14.timber.fragments.AlbumDetailFragment;
@@ -70,6 +68,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     TextView songtitle, songartist;
     ImageView albumart;
     String action;
+    PopupWindow popupWindow;
     Map<String, Runnable> navigationMap = new HashMap<String, Runnable>();
     Handler navDrawerRunnable = new Handler();
     Runnable runnable;
@@ -139,11 +138,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     };
     private DrawerLayout mDrawerLayout;
     private boolean isDarkTheme;
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-    private GoogleApiClient client;
 
     public static MainActivity getInstance() {
         return sMainActivity;
@@ -169,7 +163,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         panelLayout = (SlidingUpPanelLayout) findViewById(R.id.sliding_layout);
-
         //给NavigationView设置headerview
         navigationView = (NavigationView) findViewById(R.id.nav_view);
         View header = navigationView.inflateHeaderView(R.layout.nav_header);
@@ -180,10 +173,18 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         albumart.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-
+                getPopupWindow();
+                popupWindow.showAtLocation(navigationView, Gravity.CENTER, 0,0);
             }
 
         });
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+//            Window window = getWindow();
+//            // Translucent status bar
+//            window.setFlags(
+//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,
+//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+//        }
 
         setPanelSlideListeners(panelLayout);
 
@@ -204,7 +205,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         addBackstackListener();
 
-        if (Intent.ACTION_VIEW.equals(action)) {
+        if(Intent.ACTION_VIEW.equals(action)) {
             Handler handler = new Handler();
             handler.postDelayed(new Runnable() {
                 @Override
@@ -216,17 +217,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 }
             }, 350);
         }
-
-//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-//            Window window = getWindow();
-//            // Translucent status bar
-//            window.setFlags(
-//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,
-//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-//        }
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
     private void loadEverything() {
@@ -300,10 +290,8 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
                     }
                 });
-
     }
 
-    //设置侧滑菜单的图标
     private void setupNavigationIcons(NavigationView navigationView) {
 
         //material-icon-lib currently doesn't work with navigationview of design support library 22.2.0+
@@ -329,16 +317,13 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         }
 
     }
-
     //监听NavigationView的点击事件
     private void updatePosition(final MenuItem menuItem) {
         runnable = null;
 
         switch (menuItem.getItemId()) {
-
             case R.id.nav_library:
                 runnable = navigateLibrary;
-
 
                 break;
             case R.id.nav_playlists:
@@ -347,7 +332,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 break;
             case R.id.nav_nowplaying:
                 NavigationUtils.navigateToNowplaying(MainActivity.this, false);
-
                 break;
             case R.id.nav_queue:
                 runnable = navigateQueue;
@@ -388,7 +372,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         }
     }
 
-    //更改NavigationView的header
     public void setDetailsToHeader() {
         String name = MusicPlayer.getTrackName();
         String artist = MusicPlayer.getArtistName();
@@ -397,8 +380,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             songtitle.setText(name);
             songartist.setText(artist);
         }
-
-        //更改NavigationView的header的图片
         ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
                 new DisplayImageOptions.Builder().cacheInMemory(true)
                         .showImageOnFail(R.drawable.picture_05_lake)
@@ -444,45 +425,46 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     public int getActivityTheme() {
         return isDarkTheme ? R.style.AppThemeNormalDark : R.style.AppThemeNormalLight;
     }
+    /**
+     * 创建PopupWindow
+     */
+    protected void initPopuptMenuWindow() {
+        // TODO Auto-generated method stub
+        // 获取自定义布局文件activity_popupwindow_left.xml的视图
+        View popupWindow_view = getLayoutInflater().inflate(
+                R.layout.popupwindom_na_bg, null, false);
+        // 创建PopupWindow实例,200,LayoutParams.MATCH_PARENT分别是宽度和高度
+        popupWindow = new PopupWindow(popupWindow_view,
+                WindowManager.LayoutParams.WRAP_CONTENT, WindowManager.LayoutParams.WRAP_CONTENT, true);
+        // 设置动画效果
+        popupWindow.setAnimationStyle(R.style.DrawerArrowStyle);
+        // 这个是为了点击“返回Back”也能使其消失
+        popupWindow.setBackgroundDrawable(new BitmapDrawable());
+        // 使其聚集
+        popupWindow.setFocusable(true);
+        // 设置允许在外点击消失
+        popupWindow.setOutsideTouchable(true);
 
-    @Override
-    public void onStart() {
-        super.onStart();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client.connect();
-        Action viewAction = Action.newAction(
-                Action.TYPE_VIEW, // TODO: choose an action type.
-                "Main Page", // TODO: Define a title for the content shown.
-                // TODO: If you have web page content that matches this app activity's content,
-                // make sure this auto-generated web page URL is correct.
-                // Otherwise, set the URL to null.
-                Uri.parse("http://host/path"),
-                // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://com.naman14.timber.activities/http/host/path")
-        );
-        AppIndex.AppIndexApi.start(client, viewAction);
+        TextView tv_popuptv = (TextView) popupWindow_view.findViewById(R.id.tv_popuptv);
+        if (!isDarkTheme){
+//                    tv_popuptv.setBackground(ContextCompat.getDrawable(this,R.color.colorPrimaryLightDefault));
+            tv_popuptv.setTextColor(ContextCompat.getColor(this,R.color.colorPrimaryLightDefault));
+        }else{
+//                    tv_popuptv.setBackground(ContextCompat.getDrawable(MainActivity.this,R.color.colorPrimaryDarkDefault));
+            tv_popuptv.setTextColor(ContextCompat.getColor(this,R.color.colorPrimaryDarkDefault));
+        }
     }
 
-    @Override
-    public void onStop() {
-        super.onStop();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        Action viewAction = Action.newAction(
-                Action.TYPE_VIEW, // TODO: choose an action type.
-                "Main Page", // TODO: Define a title for the content shown.
-                // TODO: If you have web page content that matches this app activity's content,
-                // make sure this auto-generated web page URL is correct.
-                // Otherwise, set the URL to null.
-                Uri.parse("http://host/path"),
-                // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://com.naman14.timber.activities/http/host/path")
-        );
-        AppIndex.AppIndexApi.end(client, viewAction);
-        client.disconnect();
+    /***
+     * 获取PopupWindow实例
+     */
+    private void getPopupWindow() {
+        if (null != popupWindow) {
+            popupWindow.dismiss();
+            return;
+        } else {
+            initPopuptMenuWindow();
+        }
     }
 }
 

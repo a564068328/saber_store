@@ -10,7 +10,6 @@ import com.naman14.timber.utils.Helpers;
  */
 public class BaseThemedActivity extends ATEActivity {
 
-    //light theme or dark theme?
     @Nullable
     @Override
     public String getATEKey() {
