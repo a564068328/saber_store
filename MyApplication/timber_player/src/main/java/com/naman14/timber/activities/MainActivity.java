@@ -29,7 +29,6 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -48,6 +47,7 @@ import com.naman14.timber.fragments.PlaylistFragment;
 import com.naman14.timber.fragments.QueueFragment;
 import com.naman14.timber.permissions.Nammu;
 import com.naman14.timber.permissions.PermissionCallback;
+import com.naman14.timber.popupwindow.BottomPopView;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
 import com.naman14.timber.utils.Constants;
 import com.naman14.timber.utils.Helpers;
@@ -173,8 +173,25 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         albumart.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                getPopupWindow();
-                popupWindow.showAtLocation(navigationView, Gravity.CENTER, 0,0);
+//                getPopupWindow();
+//                popupWindow.showAtLocation(navigationView, Gravity.CENTER, 0,0);
+                BottomPopView bottomPopView = new BottomPopView(MainActivity.this, navigationView) {
+                    @Override
+                    public void onTopButtonClick() {
+                        //拍照
+//                        takePhoto();
+                    }
+
+                    @Override
+                    public void onBottomButtonClick() {
+                        //选择本地图片
+//                        choosePhoto();
+                    }
+                };
+                bottomPopView.setTopText("拍照");
+                bottomPopView.setBottomText("选择图片");
+                // 显示底部菜单
+                bottomPopView.show();
             }
 
         });
@@ -446,6 +463,12 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         popupWindow.setOutsideTouchable(true);
 
         TextView tv_popuptv = (TextView) popupWindow_view.findViewById(R.id.tv_popuptv);
+        tv_popuptv.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
         if (!isDarkTheme){
 //                    tv_popuptv.setBackground(ContextCompat.getDrawable(this,R.color.colorPrimaryLightDefault));
             tv_popuptv.setTextColor(ContextCompat.getColor(this,R.color.colorPrimaryLightDefault));

@@ -134,7 +134,11 @@
         <item name="cardBackgroundColor">@color/window_background_black</item>
     </style>
 
-
+    <style name="popWindow_animation">
+        <!-- PopupWindow上下弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/in_bottomtotop</item>
+        <item name="android:windowExitAnimation">@anim/out_toptobottom</item>
+    </style>
 
 
 </resources>
