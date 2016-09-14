@@ -16,25 +16,25 @@ package com.naman14.timber.activities;
 
 import android.Manifest;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
 import android.os.Handler;
 import android.preference.PreferenceManager;
+import android.provider.MediaStore;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.ImageView;
-import android.widget.PopupWindow;
 import android.widget.TextView;
 
 import com.afollestad.appthemeengine.customizers.ATEActivityThemeCustomizer;
@@ -49,6 +49,7 @@ import com.naman14.timber.permissions.Nammu;
 import com.naman14.timber.permissions.PermissionCallback;
 import com.naman14.timber.popupwindow.BottomPopView;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
+import com.naman14.timber.utils.Base64;
 import com.naman14.timber.utils.Constants;
 import com.naman14.timber.utils.Helpers;
 import com.naman14.timber.utils.NavigationUtils;
@@ -56,6 +57,8 @@ import com.naman14.timber.utils.TimberUtils;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
+import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -68,7 +71,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     TextView songtitle, songartist;
     ImageView albumart;
     String action;
-    PopupWindow popupWindow;
+    BottomPopView bottomPopView;
     Map<String, Runnable> navigationMap = new HashMap<String, Runnable>();
     Handler navDrawerRunnable = new Handler();
     Runnable runnable;
@@ -173,19 +176,19 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         albumart.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-//                getPopupWindow();
-//                popupWindow.showAtLocation(navigationView, Gravity.CENTER, 0,0);
-                BottomPopView bottomPopView = new BottomPopView(MainActivity.this, navigationView) {
+                bottomPopView = new BottomPopView(MainActivity.this, navigationView) {
                     @Override
                     public void onTopButtonClick() {
                         //拍照
-//                        takePhoto();
+                        bottomPopView.dismiss();
+                        takePhoto();
                     }
 
                     @Override
                     public void onBottomButtonClick() {
                         //选择本地图片
-//                        choosePhoto();
+                        bottomPopView.dismiss();
+                        choosePhoto();
                     }
                 };
                 bottomPopView.setTopText("拍照");
@@ -235,6 +238,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             }, 350);
         }
     }
+
 
     private void loadEverything() {
         Runnable navigation = navigationMap.get(action);
@@ -442,52 +446,85 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     public int getActivityTheme() {
         return isDarkTheme ? R.style.AppThemeNormalDark : R.style.AppThemeNormalLight;
     }
-    /**
-     * 创建PopupWindow
-     */
-    protected void initPopuptMenuWindow() {
-        // TODO Auto-generated method stub
-        // 获取自定义布局文件activity_popupwindow_left.xml的视图
-        View popupWindow_view = getLayoutInflater().inflate(
-                R.layout.popupwindom_na_bg, null, false);
-        // 创建PopupWindow实例,200,LayoutParams.MATCH_PARENT分别是宽度和高度
-        popupWindow = new PopupWindow(popupWindow_view,
-                WindowManager.LayoutParams.WRAP_CONTENT, WindowManager.LayoutParams.WRAP_CONTENT, true);
-        // 设置动画效果
-        popupWindow.setAnimationStyle(R.style.DrawerArrowStyle);
-        // 这个是为了点击“返回Back”也能使其消失
-        popupWindow.setBackgroundDrawable(new BitmapDrawable());
-        // 使其聚集
-        popupWindow.setFocusable(true);
-        // 设置允许在外点击消失
-        popupWindow.setOutsideTouchable(true);
 
-        TextView tv_popuptv = (TextView) popupWindow_view.findViewById(R.id.tv_popuptv);
-        tv_popuptv.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+    private void choosePhoto() {
+        Intent intent = new Intent(Intent.ACTION_PICK,
+                null);
+        intent.setDataAndType(
+                MediaStore.Images.Media.EXTERNAL_CONTENT_URI,
+                "image/*");
+        startActivityForResult(intent, 1);
+    }
 
-            }
-        });
-        if (!isDarkTheme){
-//                    tv_popuptv.setBackground(ContextCompat.getDrawable(this,R.color.colorPrimaryLightDefault));
-            tv_popuptv.setTextColor(ContextCompat.getColor(this,R.color.colorPrimaryLightDefault));
-        }else{
-//                    tv_popuptv.setBackground(ContextCompat.getDrawable(MainActivity.this,R.color.colorPrimaryDarkDefault));
-            tv_popuptv.setTextColor(ContextCompat.getColor(this,R.color.colorPrimaryDarkDefault));
+    private void takePhoto() {
+        Intent intent = new Intent(
+                MediaStore.ACTION_IMAGE_CAPTURE);
+        intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri
+                .fromFile(new File(Environment
+                        .getExternalStorageDirectory(),
+                        "navigationView_bg.jpg")));
+        startActivityForResult(intent, 2);
+    }
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        switch (requestCode) {
+            case 1:
+                if (data != null) {
+                    startPhotoZoom(data.getData());
+                }
+                break;
+            case 2:
+                try {
+                    File temp = new File(Environment.getExternalStorageDirectory()
+                            + "/navigationView_bg.jpg");
+                    startPhotoZoom(Uri.fromFile(temp));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                break;
+            case 3:
+                if (data != null) {
+                    setPicToView(data);
+                }
+                break;
+            default:
+                break;
+        }
+    }
+    private void startPhotoZoom(Uri uri) {
+        if (uri != null) {
+            Intent intent = new Intent("com.android.camera.action.CROP");
+            intent.setDataAndType(uri, "image/jpeg");
+            intent.putExtra("crop", "true");
+            intent.putExtra("aspectX", 1);
+            intent.putExtra("aspectY", 1);
+            intent.putExtra("outputX", albumart.getWidth());
+            intent.putExtra("outputY", albumart.getHeight());
+            intent.putExtra("return-data", true);
+            startActivityForResult(intent, 3);
+        }
+    }
+    boolean iconFlag;
+    private void setPicToView(Intent picdata) {
+        Bundle extras = picdata.getExtras();
+        if (extras != null) {
+            iconFlag = true;
+            Bitmap photo = extras.getParcelable("data");
+            BitmapDrawable drawable = new BitmapDrawable(photo);
+            updateIcon(drawable);
         }
     }
 
-    /***
-     * 获取PopupWindow实例
-     */
-    private void getPopupWindow() {
-        if (null != popupWindow) {
-            popupWindow.dismiss();
-            return;
-        } else {
-            initPopuptMenuWindow();
-        }
+    private void updateIcon(final BitmapDrawable drawable) {
+        Bitmap photo = drawable.getBitmap();
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        photo.compress(Bitmap.CompressFormat.JPEG, 80, stream);
+        byte[] b = stream.toByteArray();
+        String icon = new String(Base64.encode(b));
+//        progressDialog.show();
     }
 }
 

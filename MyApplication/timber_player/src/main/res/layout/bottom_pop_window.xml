@@ -4,7 +4,18 @@
     android:layout_alignParentBottom="true"
     android:orientation="vertical"
     android:padding="15dp">
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更换背景图片"
+        android:id="@+id/tv_title"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textSize="16sp"
+        />
+    <View android:layout_width="match_parent"
+          android:layout_height="1dp"
+          android:background="#10000000"/>
     <TextView
         android:id="@+id/tv_take_photo"
         android:layout_width="match_parent"
@@ -15,7 +26,7 @@
 
     <View android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="#40000000"/>
+        android:background="#10000000"/>
 
     <TextView
         android:id="@+id/tv_choose_photo"

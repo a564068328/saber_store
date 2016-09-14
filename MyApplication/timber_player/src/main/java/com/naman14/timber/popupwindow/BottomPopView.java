@@ -30,6 +30,7 @@ public abstract class BottomPopView {
     private TextView mTvBottom;
     private TextView mTvCancel;
     private PopupWindow mPopupWindow;
+    private TextView tv_title;
     WindowManager.LayoutParams params;
     WindowManager windowManager;
     Window window;
@@ -53,6 +54,7 @@ public abstract class BottomPopView {
         View view = mInflater.inflate(R.layout.bottom_pop_window, null);
         params.dimAmount = 0.5f;
         window.addFlags(WindowManager.LayoutParams.FLAG_DIM_BEHIND);
+        tv_title= (TextView) view.findViewById(R.id.tv_title);
         mTvBottom = (TextView) view.findViewById(R.id.tv_choose_photo);
         mTvTop = (TextView) view.findViewById(R.id.tv_take_photo);
         mTvCancel = (TextView) view.findViewById(R.id.tv_cancel);
@@ -100,15 +102,17 @@ public abstract class BottomPopView {
             mTvTop.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
             mTvBottom.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
             mTvCancel.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
-
+            tv_title.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryLightDefault));
         }else{
             mTvTop.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
             mTvBottom.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
             mTvCancel.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
+            tv_title.setBackground(ContextCompat.getDrawable(mContext,R.color.colorPrimaryDarkDefault));
         }
         mTvTop.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
         mTvBottom.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
         mTvCancel.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
+        tv_title.setTextColor(ContextCompat.getColor(mContext,R.color.colorPrimaryBlack));
     }
 
     /**
