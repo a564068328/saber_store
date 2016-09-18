@@ -35,6 +35,7 @@ public class TimberApp extends Application {
     public void onCreate() {
         super.onCreate();
         mInstance = this;
+        //初始化ImageLoader的基础配置
         ImageLoaderConfiguration localImageLoaderConfiguration = new ImageLoaderConfiguration.Builder(this).build();
         ImageLoader.getInstance().init(localImageLoaderConfiguration);
         L.writeLogs(false);

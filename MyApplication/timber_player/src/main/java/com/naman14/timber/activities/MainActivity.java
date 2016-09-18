@@ -16,7 +16,10 @@ package com.naman14.timber.activities;
 
 import android.Manifest;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
@@ -31,6 +34,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -51,6 +55,7 @@ import com.naman14.timber.popupwindow.BottomPopView;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
 import com.naman14.timber.utils.Base64;
 import com.naman14.timber.utils.Constants;
+import com.naman14.timber.utils.FileUtils;
 import com.naman14.timber.utils.Helpers;
 import com.naman14.timber.utils.NavigationUtils;
 import com.naman14.timber.utils.TimberUtils;
@@ -59,6 +64,8 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -401,11 +408,25 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             songtitle.setText(name);
             songartist.setText(artist);
         }
-        ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
-                new DisplayImageOptions.Builder().cacheInMemory(true)
-                        .showImageOnFail(R.drawable.picture_05_lake)
-                        .resetViewBeforeLoading(true)
-                        .build());
+        try {
+//            PackageManager packageManager = getPackageManager();
+//            PackageInfo packageInfo = packageManager.getPackageInfo(
+//                    getPackageName(), 0);// 获取包的信息
+//            String sourceDir = packageInfo.applicationInfo.sourceDir;
+            String path= FileUtils.copyFile(this,"bg.jpg");
+            Bitmap bm= BitmapFactory.decodeFile(path);
+            BitmapDrawable bd= new BitmapDrawable(bm);
+            ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
+                    new DisplayImageOptions.Builder().cacheInMemory(true)
+//                        .showImageOnFail(R.drawable.picture_05_lake)
+                            .showImageOnFail(bd)
+                            .resetViewBeforeLoading(true)
+                            .build());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+//        Uri uri = Uri.parse("android.resource://com.android123.Sample/raw/picture_05_lake.jpg");
+
     }
 
     @Override
