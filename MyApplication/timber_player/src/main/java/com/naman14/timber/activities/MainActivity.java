@@ -16,8 +16,6 @@ package com.naman14.timber.activities;
 
 import android.Manifest;
 import android.content.Intent;
-import android.content.pm.PackageInfo;
-import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
@@ -34,7 +32,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -53,7 +50,6 @@ import com.naman14.timber.permissions.Nammu;
 import com.naman14.timber.permissions.PermissionCallback;
 import com.naman14.timber.popupwindow.BottomPopView;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
-import com.naman14.timber.utils.Base64;
 import com.naman14.timber.utils.Constants;
 import com.naman14.timber.utils.FileUtils;
 import com.naman14.timber.utils.Helpers;
@@ -62,10 +58,7 @@ import com.naman14.timber.utils.TimberUtils;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
-import java.io.ByteArrayOutputStream;
 import java.io.File;
-import java.net.URI;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -482,8 +475,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 MediaStore.ACTION_IMAGE_CAPTURE);
         intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri
                 .fromFile(new File(Environment
-                        .getExternalStorageDirectory(),
-                        "navigationView_bg.jpg")));
+                        .getExternalStorageDirectory(), "bg.jpg")));
         startActivityForResult(intent, 2);
     }
 
@@ -499,8 +491,8 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 break;
             case 2:
                 try {
-                    File temp = new File(Environment.getExternalStorageDirectory()
-                            + "/navigationView_bg.jpg");
+                    File temp = new File(Environment
+                            .getExternalStorageDirectory(), "bg.jpg");
                     startPhotoZoom(Uri.fromFile(temp));
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -534,17 +526,19 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         if (extras != null) {
             iconFlag = true;
             Bitmap photo = extras.getParcelable("data");
+            FileUtils.deleteFile("bg.jpg");
+            FileUtils.saveBitmap(photo,"bg.jpg");
             BitmapDrawable drawable = new BitmapDrawable(photo);
             updateIcon(drawable);
         }
     }
 
     private void updateIcon(final BitmapDrawable drawable) {
-        Bitmap photo = drawable.getBitmap();
-        ByteArrayOutputStream stream = new ByteArrayOutputStream();
-        photo.compress(Bitmap.CompressFormat.JPEG, 80, stream);
-        byte[] b = stream.toByteArray();
-        String icon = new String(Base64.encode(b));
+//        Bitmap photo = drawable.getBitmap();
+//        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+//        photo.compress(Bitmap.CompressFormat.JPEG, 80, stream);
+//        byte[] b = stream.toByteArray();
+//        String icon = new String(Base64.encode(b));
 //        progressDialog.show();
     }
 }
