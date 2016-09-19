@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImageCrop" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/moblieSafe" />
             <option value="$PROJECT_DIR$/slidingmenulibrary" />
@@ -20,6 +21,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImageCrop" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/moblieSafe" />
             <option value="$PROJECT_DIR$/slidingmenulibrary" />

@@ -484,6 +484,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         switch (requestCode) {
+            //从相册选取
             case 1:
                 if (data != null) {
                     startPhotoZoom(data.getData());
