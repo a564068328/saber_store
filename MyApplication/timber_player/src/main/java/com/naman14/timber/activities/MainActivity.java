@@ -32,13 +32,16 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.afollestad.appthemeengine.customizers.ATEActivityThemeCustomizer;
+import com.kevin.crop.UCrop;
 import com.naman14.timber.MusicPlayer;
 import com.naman14.timber.R;
 import com.naman14.timber.fragments.AlbumDetailFragment;
@@ -59,6 +62,8 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -181,7 +186,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                     public void onTopButtonClick() {
                         //拍照
                         bottomPopView.dismiss();
-                        takePhoto();
+                        checkPermissionAndWriteSDCard();
                     }
 
                     @Override
@@ -198,14 +203,8 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             }
 
         });
-//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-//            Window window = getWindow();
-//            // Translucent status bar
-//            window.setFlags(
-//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,
-//                    WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-//        }
-
+        mDestinationUri = Uri.fromFile(new File(getCacheDir(), "cropImage.jpeg"));
+        mTempPhotoPath = Environment.getExternalStorageDirectory() + "/" +getPackageName()+"bg.jpeg";
         setPanelSlideListeners(panelLayout);
 
         navDrawerRunnable.postDelayed(new Runnable() {
@@ -402,11 +401,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             songartist.setText(artist);
         }
         try {
-//            PackageManager packageManager = getPackageManager();
-//            PackageInfo packageInfo = packageManager.getPackageInfo(
-//                    getPackageName(), 0);// 获取包的信息
-//            String sourceDir = packageInfo.applicationInfo.sourceDir;
-            String path= FileUtils.copyFile(this,"bg.jpg");
+            String path= FileUtils.copyFile(this,mTempPhotoPath,"bg.jpeg");
             Bitmap bm= BitmapFactory.decodeFile(path);
             BitmapDrawable bd= new BitmapDrawable(bm);
             ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
@@ -419,7 +414,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             e.printStackTrace();
         }
 //        Uri uri = Uri.parse("android.resource://com.android123.Sample/raw/picture_05_lake.jpg");
-
     }
 
     @Override
@@ -461,87 +455,150 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         return isDarkTheme ? R.style.AppThemeNormalDark : R.style.AppThemeNormalLight;
     }
 
+    private static final int GALLERY_REQUEST_CODE = 1;    // 相册选图标记
+    private static final int CAMERA_REQUEST_CODE = 2;    // 相机拍照标记
     private void choosePhoto() {
+        //因为已经校验过SD读权限了,故不重复
         Intent intent = new Intent(Intent.ACTION_PICK,
                 null);
         intent.setDataAndType(
                 MediaStore.Images.Media.EXTERNAL_CONTENT_URI,
                 "image/*");
-        startActivityForResult(intent, 1);
+        startActivityForResult(intent,GALLERY_REQUEST_CODE);
     }
 
+    private void checkPermissionAndWriteSDCard() {
+        //check for permission
+        if (Nammu.checkPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+            takePhoto();
+        } else {
+            if (Nammu.shouldShowRequestPermissionRationale(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+                Snackbar.make(panelLayout, "应用需要写入数据到您的SD卡中",
+                        Snackbar.LENGTH_INDEFINITE)
+                        .setAction("OK", new View.OnClickListener() {
+                            @Override
+                            public void onClick(View view) {
+                                Nammu.askForPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionWritestorageCallback);
+                            }
+                        }).show();
+            } else {
+                Nammu.askForPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionWritestorageCallback);
+            }
+        }
+    }
+    final PermissionCallback permissionWritestorageCallback = new PermissionCallback() {
+        @Override
+        public void permissionGranted() {
+            takePhoto();
+        }
+
+        @Override
+        public void permissionRefused() {
+//            finish();
+        }
+    };
     private void takePhoto() {
-        Intent intent = new Intent(
-                MediaStore.ACTION_IMAGE_CAPTURE);
-        intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri
-                .fromFile(new File(Environment
-                        .getExternalStorageDirectory(), "bg.jpg")));
-        startActivityForResult(intent, 2);
+        Intent takeIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        //下面这句指定调用相机拍照后的照片存储的路径
+        takeIntent.putExtra(MediaStore.EXTRA_OUTPUT, Uri.fromFile(new File(mTempPhotoPath)));
+        startActivityForResult(takeIntent, CAMERA_REQUEST_CODE);
     }
 
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+        if(data==null)
+            return;
         switch (requestCode) {
-            //从相册选取
-            case 1:
-                if (data != null) {
-                    startPhotoZoom(data.getData());
-                }
+            case CAMERA_REQUEST_CODE:   // 调用相机拍照
+                File temp = new File(mTempPhotoPath);
+                startCropActivity(Uri.fromFile(temp));
                 break;
-            case 2:
-                try {
-                    File temp = new File(Environment
-                            .getExternalStorageDirectory(), "bg.jpg");
-                    startPhotoZoom(Uri.fromFile(temp));
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+            case GALLERY_REQUEST_CODE:  // 直接从相册获取
+                startCropActivity(data.getData());
                 break;
-            case 3:
-                if (data != null) {
-                    setPicToView(data);
-                }
+            case UCrop.REQUEST_CROP:    // 裁剪图片结果
+                handleCropResult(data);
                 break;
-            default:
+            case UCrop.RESULT_ERROR:    // 裁剪图片错误
+                handleCropError(data);
                 break;
         }
     }
-    private void startPhotoZoom(Uri uri) {
-        if (uri != null) {
-            Intent intent = new Intent("com.android.camera.action.CROP");
-            intent.setDataAndType(uri, "image/jpeg");
-            intent.putExtra("crop", "true");
-            intent.putExtra("aspectX", 1);
-            intent.putExtra("aspectY", 1);
-            intent.putExtra("outputX", albumart.getWidth());
-            intent.putExtra("outputY", albumart.getHeight());
-            intent.putExtra("return-data", true);
-            startActivityForResult(intent, 3);
-        }
+    // 拍照临时图片
+    private String mTempPhotoPath;
+    // 剪切后图像文件
+    private Uri mDestinationUri;
+    /**
+     * 裁剪图片方法实现
+     *
+     * @param uri
+     */
+    public void startCropActivity(Uri uri) {
+        UCrop.of(uri, mDestinationUri)
+                .withAspectRatio(1, 1)
+                .withMaxResultSize(albumart.getWidth(), albumart.getHeight())
+                .withTargetActivity(CropActivity.class)
+                .start(this);
     }
-    boolean iconFlag;
-    private void setPicToView(Intent picdata) {
-        Bundle extras = picdata.getExtras();
-        if (extras != null) {
-            iconFlag = true;
-            Bitmap photo = extras.getParcelable("data");
-            FileUtils.deleteFile("bg.jpg");
-            FileUtils.saveBitmap(photo,"bg.jpg");
-            BitmapDrawable drawable = new BitmapDrawable(photo);
-            updateIcon(drawable);
+
+    /**
+     * 处理剪切成功的返回值
+     *
+     * @param result
+     */
+    private void handleCropResult(Intent result) {
+        if(result==null)
+            return;
+        deleteTempPhotoFile();
+        final Uri resultUri = UCrop.getOutput(result);
+        if (null != resultUri ) {
+            Bitmap bitmap = null;
+            try {
+                bitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(), resultUri);
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            String filePath = resultUri.getEncodedPath();
+            String imagePath = Uri.decode(filePath);
+            FileUtils.deleteFile(mTempPhotoPath);
+            FileUtils.saveBitmap(bitmap,mTempPhotoPath);
+//            Toast.makeText(this, "图片已经保存到:" + imagePath, Toast.LENGTH_LONG).show();
+        } else {
+            Toast.makeText(this, "无法剪切选择图片", Toast.LENGTH_SHORT).show();
         }
     }
 
-    private void updateIcon(final BitmapDrawable drawable) {
-//        Bitmap photo = drawable.getBitmap();
-//        ByteArrayOutputStream stream = new ByteArrayOutputStream();
-//        photo.compress(Bitmap.CompressFormat.JPEG, 80, stream);
-//        byte[] b = stream.toByteArray();
-//        String icon = new String(Base64.encode(b));
-//        progressDialog.show();
+    /**
+     * 处理剪切失败的返回值
+     *
+     * @param result
+     */
+    private void handleCropError(Intent result) {
+        deleteTempPhotoFile();
+        final Throwable cropError = UCrop.getError(result);
+        if (cropError != null) {
+            Log.e("TAG", "handleCropError: ", cropError);
+            Toast.makeText(this, cropError.getMessage(), Toast.LENGTH_LONG).show();
+        } else {
+            Toast.makeText(this, "无法剪切选择图片", Toast.LENGTH_SHORT).show();
+        }
     }
+
+    /**
+     * 删除拍照临时文件
+     */
+    private void deleteTempPhotoFile() {
+        File tempFile = new File(mTempPhotoPath);
+        if (tempFile.exists() && tempFile.isFile()) {
+            tempFile.delete();
+        }
+    }
+
 }
 
 

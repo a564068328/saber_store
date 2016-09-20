@@ -1,5 +1,6 @@
 package com.kevin.imagecrop.activity;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
@@ -39,7 +40,7 @@ import butterknife.Bind;
 public class CropActivity extends BaseActivity {
 
     private static final String TAG = "CropActivity";
-
+    public CropActivity cropActivity;
     @Bind(R.id.toolbar)
     Toolbar mToolBar;
     @Bind(R.id.weixin_act_ucrop)
@@ -54,6 +55,7 @@ public class CropActivity extends BaseActivity {
 
     @Override
     protected void initContentView() {
+        cropActivity=this;
         setContentView(R.layout.activity_crop);
     }
 
@@ -222,5 +224,9 @@ public class CropActivity extends BaseActivity {
 
     private void setResultException(Throwable throwable) {
         setResult(UCrop.RESULT_ERROR, new Intent().putExtra(UCrop.EXTRA_ERROR, throwable));
+    }
+
+    public  Activity getActivity(){
+        return cropActivity;
     }
 }

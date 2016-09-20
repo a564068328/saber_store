@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.net.Uri;
+import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -22,8 +23,6 @@ import com.naman14.timber.R;
 
 import java.io.OutputStream;
 
-import butterknife.Bind;
-
 /**
  * 版权所有：XXX有限公司
  *
@@ -39,32 +38,37 @@ public class CropActivity extends BaseThemedActivity {
 
     private static final String TAG = "CropActivity";
 
-    @Bind(R.id.toolbar)
     Toolbar mToolBar;
-    @Bind(R.id.weixin_act_ucrop)
     UCropView mUCropView;
     GestureCropImageView mGestureCropImageView;
     OverlayView mOverlayView;
 
-    @Bind(R.id.crop_act_save_fab)
     FloatingActionButton mSaveFab;
 
     private Uri mOutputUri;
 
     @Override
-    protected void initContentView() {
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crop);
-    }
-
-    @Override
-    protected void initViews() {
+        mToolBar= (Toolbar) findViewById(R.id.toolbar);
+        mUCropView= (UCropView) findViewById(R.id.weixin_act_ucrop);
+        mSaveFab= (FloatingActionButton) findViewById(R.id.crop_act_save_fab);
+        //initView
         initToolBar();
-
         mGestureCropImageView = mUCropView.getCropImageView();
         mOverlayView = mUCropView.getOverlayView();
-
         initCropView();
+        //initEvent
+        mGestureCropImageView.setTransformImageListener(mImageListener);
+        mSaveFab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cropAndSaveImage();
+            }
+        });
     }
+
 
     /**
      * 初始化ToolBar
@@ -139,16 +143,7 @@ public class CropActivity extends BaseThemedActivity {
         }
     }
 
-    @Override
-    protected void initEvents() {
-        mGestureCropImageView.setTransformImageListener(mImageListener);
-        mSaveFab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                cropAndSaveImage();
-            }
-        });
-    }
+
 
     private void cropAndSaveImage() {
         OutputStream outputStream = null;

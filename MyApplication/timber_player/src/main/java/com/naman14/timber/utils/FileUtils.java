@@ -2,7 +2,6 @@ package com.naman14.timber.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.os.Environment;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,10 +15,9 @@ import java.io.InputStream;
  * des：
  */
 public class FileUtils {
-    public static String copyFile(Context context,String fileName) {
+    public static String copyFile(Context context,String outfilepath,String infilename) {
         // File filesDir = getFilesDir();
-        File destFile = new File(Environment
-                .getExternalStorageDirectory(), fileName);// 要拷贝的目标地址
+        File destFile = new File(outfilepath);// 要拷贝的目标地址
 
         if (destFile.exists()) {
             return destFile.getPath();
@@ -29,7 +27,7 @@ public class FileUtils {
         InputStream in = null;
 
         try {
-            in = context.getAssets().open(fileName);
+            in = context.getAssets().open(infilename);
             out = new FileOutputStream(destFile);
 
             int len = 0;
@@ -52,18 +50,16 @@ public class FileUtils {
         return null;
     }
 
-    public static boolean deleteFile(String fileName){
-        File destFile = new File(Environment
-                .getExternalStorageDirectory(), fileName);
+    public static boolean deleteFile(String filePath){
+        File destFile = new File(filePath);
         if (destFile.exists()) {
             return destFile.delete();
         }
         return false;
     }
 
-    public static void saveBitmap(Bitmap photo,String fileName) {
-        File f = new File(Environment
-                .getExternalStorageDirectory() , fileName);
+    public static void saveBitmap(Bitmap photo,String filePath) {
+        File f = new File(filePath);
         try {
             f.createNewFile();
         } catch (IOException e) {
@@ -75,7 +71,7 @@ public class FileUtils {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        photo.compress(Bitmap.CompressFormat.PNG, 100, fOut);
+        photo.compress(Bitmap.CompressFormat.JPEG, 100, fOut);
         try {
             fOut.flush();
         } catch (IOException e) {

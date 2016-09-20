@@ -75,6 +75,9 @@
         <activity
             android:name=".activities.NowPlayingActivity"
             android:theme="@style/AppTheme.FullScreen.Light" />
+        <activity
+            android:name=".activities.CropActivity"
+            android:theme="@style/AppTheme.FullScreen.Light"/>
 
         <receiver android:name=".helpers.MediaButtonIntentReceiver">
             <intent-filter>
