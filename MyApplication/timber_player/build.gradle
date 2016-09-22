@@ -59,7 +59,7 @@ dependencies {
     }
     // butter knife
     compile 'com.jakewharton:butterknife:7.0.1'
-
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
 
     repositories {
         maven { url "https://jitpack.io" }

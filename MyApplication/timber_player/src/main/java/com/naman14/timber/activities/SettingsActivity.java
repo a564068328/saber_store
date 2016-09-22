@@ -14,6 +14,7 @@
 
 package com.naman14.timber.activities;
 
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
@@ -24,6 +25,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
+import android.widget.FrameLayout;
 
 import com.afollestad.appthemeengine.ATE;
 import com.afollestad.appthemeengine.Config;
@@ -32,8 +34,10 @@ import com.afollestad.materialdialogs.color.ColorChooserDialog;
 import com.naman14.timber.R;
 import com.naman14.timber.fragments.SettingsFragment;
 import com.naman14.timber.subfragments.StyleSelectorFragment;
+import com.naman14.timber.utils.ATEUtils;
 import com.naman14.timber.utils.Constants;
 import com.naman14.timber.utils.PreferencesUtility;
+import com.naman14.timber.utils.UIUtils;
 
 public class SettingsActivity extends BaseThemedActivity implements ColorChooserDialog.ColorCallback, ATEActivityThemeCustomizer {
 
@@ -50,6 +54,7 @@ public class SettingsActivity extends BaseThemedActivity implements ColorChooser
         setContentView(R.layout.activity_settings);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        FrameLayout flout= (FrameLayout) findViewById(R.id.flout);
         setSupportActionBar(toolbar);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -70,7 +75,11 @@ public class SettingsActivity extends BaseThemedActivity implements ColorChooser
             fragmentManager.beginTransaction()
                     .replace(R.id.fragment_container, fragment).commit();
         }
-
+//        StatusBarUtils.setTranslucentStatus(this,true,true);
+        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT){
+            flout.setPadding(flout.getPaddingLeft(), UIUtils.dip2px(this,25),flout.getPaddingRight(),
+                    flout.getPaddingBottom());
+        }
     }
 
     @Override
@@ -107,4 +116,9 @@ public class SettingsActivity extends BaseThemedActivity implements ColorChooser
         recreate(); // recreation needed to reach the checkboxes in the preferences layout
     }
 
+    @Override
+    public void onResume() {
+        super.onResume();
+        ATEUtils.setStatusColorForKitlat(this);
+    }
 }

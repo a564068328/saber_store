@@ -36,6 +36,7 @@ import com.naman14.timber.models.Album;
 import com.naman14.timber.models.Artist;
 import com.naman14.timber.models.Song;
 import com.naman14.timber.provider.SearchHistory;
+import com.naman14.timber.utils.ATEUtils;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -174,5 +175,11 @@ public class SearchActivity extends BaseThemedActivity implements SearchView.OnQ
 
             SearchHistory.getInstance(this).addSearchString(queryString);
         }
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        ATEUtils.setStatusColorForKitlat(this);
     }
 }

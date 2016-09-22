@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -20,6 +21,7 @@ import com.kevin.crop.view.OverlayView;
 import com.kevin.crop.view.TransformImageView;
 import com.kevin.crop.view.UCropView;
 import com.naman14.timber.R;
+import com.naman14.timber.utils.ATEUtils;
 
 import java.io.OutputStream;
 
@@ -48,7 +50,7 @@ public class CropActivity extends BaseThemedActivity {
     private Uri mOutputUri;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crop);
         mToolBar= (Toolbar) findViewById(R.id.toolbar);
@@ -76,9 +78,21 @@ public class CropActivity extends BaseThemedActivity {
     private void initToolBar() {
         mToolBar.setTitle("裁剪图片");
         setSupportActionBar(mToolBar);
-        mToolBar.setNavigationIcon(R.drawable.abc_ic_ab_back_mtrl_am_alpha);
+        //返回
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
+    @Override
+    public boolean onOptionsItemSelected(final MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+            default:
+                break;
+        }
+        return super.onOptionsItemSelected(item);
+    }
     /**
      * 初始化裁剪View
      */
@@ -216,5 +230,11 @@ public class CropActivity extends BaseThemedActivity {
 
     private void setResultException(Throwable throwable) {
         setResult(UCrop.RESULT_ERROR, new Intent().putExtra(UCrop.EXTRA_ERROR, throwable));
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        ATEUtils.setStatusColorForKitlat(this);
     }
 }

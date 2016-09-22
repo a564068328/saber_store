@@ -3,8 +3,8 @@
 
     <style name="AppTheme.FullScreen.Light" parent="ThemeBaseLight">
 
-        <!--<item name="android:windowTranslucentStatus">true</item>-->
-        <!--<item name="android:windowTranslucentNavigation">false</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
     </style>
 
     <style name="AppThemeLight" parent="ThemeBaseLight">
@@ -14,8 +14,8 @@
 
     <style name="AppTheme.FullScreen.Dark" parent="ThemeBaseDark">
 
-        <!--<item name="android:windowTranslucentStatus">true</item>-->
-        <!--<item name="android:windowTranslucentNavigation">false</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
     </style>
 
     <style name="AppThemeDark" parent="ThemeBaseDark">
@@ -28,8 +28,8 @@
 
     <style name="AppTheme.FullScreen.Black" parent="ThemeBaseBlack">
 
-        <!--<item name="android:windowTranslucentStatus">true</item>-->
-        <!--<item name="android:windowTranslucentNavigation">false</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
     </style>
 
     <style name="AppThemeBlack" parent="ThemeBaseBlack">
@@ -37,6 +37,6 @@
 
     </style>
 
-
+    
 
 </resources>

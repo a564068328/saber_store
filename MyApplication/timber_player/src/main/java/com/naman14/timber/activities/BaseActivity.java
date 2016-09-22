@@ -22,6 +22,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
@@ -30,6 +31,8 @@ import android.support.v4.app.FragmentManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.Window;
 import android.widget.Toast;
 
 import com.afollestad.appthemeengine.ATE;
@@ -38,11 +41,13 @@ import com.naman14.timber.ITimberService;
 import com.naman14.timber.MusicPlayer;
 import com.naman14.timber.MusicService;
 import com.naman14.timber.R;
+import com.naman14.timber.TimberApp;
 import com.naman14.timber.listeners.MusicStateListener;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
 import com.naman14.timber.subfragments.QuickControlsFragment;
 import com.naman14.timber.utils.Helpers;
 import com.naman14.timber.utils.NavigationUtils;
+import com.naman14.timber.utils.StatusBarUtils;
 import com.naman14.timber.utils.TimberUtils;
 
 import java.lang.ref.WeakReference;
@@ -64,6 +69,11 @@ public class BaseActivity extends ATEActivity implements ServiceConnection, Musi
 
         mPlaybackStatus = new PlaybackStatus(this);
 
+        ViewGroup contentFrameLayout = (ViewGroup) findViewById(Window.ID_ANDROID_CONTENT);
+        View parentView = contentFrameLayout.getChildAt(0);
+        if (parentView != null && Build.VERSION.SDK_INT == 19) {
+            parentView.setFitsSystemWindows(true);
+        }
     }
 
     @Override
@@ -81,7 +91,8 @@ public class BaseActivity extends ATEActivity implements ServiceConnection, Musi
         filter.addAction(MusicService.PLAYLIST_CHANGED);
         // If there is an error playing a track
         filter.addAction(MusicService.TRACK_ERROR);
-
+        //set statusbar color for API19
+//        filter.addAction(TimberApp.SET_STATUS_COLOR);
         registerReceiver(mPlaybackStatus, filter);
 
     }

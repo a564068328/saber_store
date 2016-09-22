@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/moblieSafe/moblieSafe.iml" filepath="$PROJECT_DIR$/moblieSafe/moblieSafe.iml" />
       <module fileurl="file://$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" filepath="$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timber_original/timber_original.iml" filepath="$PROJECT_DIR$/timber_original/timber_original.iml" />
       <module fileurl="file://$PROJECT_DIR$/timber_player/timber_player.iml" filepath="$PROJECT_DIR$/timber_player/timber_player.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhbj/zhbj.iml" filepath="$PROJECT_DIR$/zhbj/zhbj.iml" />

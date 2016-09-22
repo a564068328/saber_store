@@ -20,6 +20,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
@@ -53,11 +54,13 @@ import com.naman14.timber.permissions.Nammu;
 import com.naman14.timber.permissions.PermissionCallback;
 import com.naman14.timber.popupwindow.BottomPopView;
 import com.naman14.timber.slidinguppanel.SlidingUpPanelLayout;
+import com.naman14.timber.utils.ATEUtils;
 import com.naman14.timber.utils.Constants;
 import com.naman14.timber.utils.FileUtils;
 import com.naman14.timber.utils.Helpers;
 import com.naman14.timber.utils.NavigationUtils;
 import com.naman14.timber.utils.TimberUtils;
+import com.naman14.timber.utils.UIUtils;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
@@ -188,7 +191,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                         bottomPopView.dismiss();
                         checkPermissionAndWriteSDCard();
                     }
-
                     @Override
                     public void onBottomButtonClick() {
                         //选择本地图片
@@ -236,7 +238,16 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 }
             }, 350);
         }
+
+        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT){
+            panelLayout.setPadding(panelLayout.getPaddingLeft(), UIUtils.dip2px(this,25),panelLayout.getPaddingRight(),
+                    panelLayout.getPaddingBottom());
+        }
+
+
     }
+
+
 
 
     private void loadEverything() {
@@ -426,6 +437,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     public void onResume() {
         super.onResume();
         sMainActivity = this;
+        ATEUtils.setStatusColorForKitlat(this);
     }
 
     @Override
@@ -600,5 +612,3 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     }
 
 }
-
-

@@ -25,6 +25,7 @@ import com.nostra13.universalimageloader.utils.L;
 public class TimberApp extends Application {
 
 
+    public static final String SET_STATUS_COLOR="SET_STATUS_COLOR";
     private static TimberApp mInstance;
 
     public static synchronized TimberApp getInstance() {

@@ -34,7 +34,6 @@ public class NowPlayingActivity extends BaseActivity implements ATEActivityTheme
 
         fragmentManager.beginTransaction()
                 .replace(R.id.container, fragment).commit();
-
     }
 
     @StyleRes
@@ -49,10 +48,10 @@ public class NowPlayingActivity extends BaseActivity implements ATEActivityTheme
         return Config.LIGHT_TOOLBAR_AUTO;
     }
 
-//    @Override   修改了
-//    public int getToolbarColor() {
-//        return Color.TRANSPARENT;
-//    }
+    //    @Override
+    public int getToolbarColor() {
+        return Color.TRANSPARENT;
+    }
 
     @Override
     public void onResume() {
@@ -61,5 +60,6 @@ public class NowPlayingActivity extends BaseActivity implements ATEActivityTheme
             PreferencesUtility.getInstance(this).setNowPlayingThemeChanged(false);
             recreate();
         }
+
     }
 }

@@ -103,4 +103,14 @@ public class ATEUtils {
         );
         fab.setBackgroundTintList(fabColorStateList);
     }
+    @TargetApi(19)
+    public static  void setStatusColorForKitlat(Activity act) {
+        if(Build.VERSION.SDK_INT != Build.VERSION_CODES.KITKAT)
+            return;
+        String ateKey = Helpers.getATEKey(act);
+        int color = Config.primaryColor(act, ateKey);
+        int scolor=getStatusBarColor(color);
+//        ATEUtils.setStatusBarColor(act, ateKey, Config.primaryColor(getActivity(), ateKey));
+        StatusBarUtils.setTranslucentStatus(act,true,scolor);
+    }
 }

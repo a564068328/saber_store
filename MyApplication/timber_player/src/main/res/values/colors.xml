@@ -38,4 +38,5 @@
     <color name="colorAccentDarkDefault">#2196F3</color>
 
     <color name="colorPopupWindowBg">#44000000</color>
+    <color name="statusBarColor">@android:color/transparent</color>
 </resources>

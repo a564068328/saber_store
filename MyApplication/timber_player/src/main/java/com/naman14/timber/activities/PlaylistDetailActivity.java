@@ -113,7 +113,6 @@ public class PlaylistDetailActivity extends BaseThemedActivity implements ATEAct
         } else {
             setUpSongs();
         }
-
     }
 
     private void setAlbumart() {

@@ -1,1 +1,1 @@
-include ':app', ':moblieSafe', ':zhbj', ':viewPagerIndicatorLibrary', ':slidingmenulibrary', ':timber_player', ':ImageCrop'
+include ':app', ':moblieSafe', ':zhbj', ':viewPagerIndicatorLibrary', ':slidingmenulibrary', ':timber_player', ':ImageCrop', 'timber_original'
