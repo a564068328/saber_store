@@ -18,6 +18,7 @@ import android.animation.ObjectAnimator;
 import android.graphics.Bitmap;
 import android.graphics.PorterDuff;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
@@ -44,6 +45,7 @@ import com.naman14.timber.adapters.BaseQueueAdapter;
 import com.naman14.timber.dataloaders.QueueLoader;
 import com.naman14.timber.listeners.MusicStateListener;
 import com.naman14.timber.timely.TimelyView;
+import com.naman14.timber.utils.ATEUtils;
 import com.naman14.timber.utils.Helpers;
 import com.naman14.timber.utils.TimberUtils;
 import com.naman14.timber.widgets.CircularSeekBar;
@@ -640,6 +642,17 @@ public class BaseNowplayingFragment extends Fragment implements MusicStateListen
 
         @Override
         protected void onPreExecute() {
+        }
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        if(Build.VERSION.SDK_INT > Build.VERSION_CODES.KITKAT){
+            String ateKey = Helpers.getATEKey(getActivity());
+            ATEUtils.setStatusBarColor(getActivity(), ateKey, Config.primaryColor(getActivity(), ateKey));
+        }else if(Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT){
+            ATEUtils.setStatusColorForKitlat(getActivity());
         }
     }
 }

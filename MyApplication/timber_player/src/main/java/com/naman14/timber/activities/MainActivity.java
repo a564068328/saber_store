@@ -181,7 +181,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         albumart = (ImageView) header.findViewById(R.id.album_art);
         songtitle = (TextView) header.findViewById(R.id.song_title);
         songartist = (TextView) header.findViewById(R.id.song_artist);
-        albumart.setOnClickListener(new View.OnClickListener(){
+        albumart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 bottomPopView = new BottomPopView(MainActivity.this, navigationView) {
@@ -191,6 +191,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                         bottomPopView.dismiss();
                         checkPermissionAndWriteSDCard();
                     }
+
                     @Override
                     public void onBottomButtonClick() {
                         //选择本地图片
@@ -206,7 +207,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         });
         mDestinationUri = Uri.fromFile(new File(getCacheDir(), "cropImage.jpeg"));
-        mTempPhotoPath = Environment.getExternalStorageDirectory() + "/" +getPackageName()+"bg.jpeg";
+        mTempPhotoPath = Environment.getExternalStorageDirectory() + "/" + getPackageName() + "bg.jpeg";
         setPanelSlideListeners(panelLayout);
 
         navDrawerRunnable.postDelayed(new Runnable() {
@@ -226,7 +227,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         addBackstackListener();
 
-        if(Intent.ACTION_VIEW.equals(action)) {
+        if (Intent.ACTION_VIEW.equals(action)) {
             Handler handler = new Handler();
             handler.postDelayed(new Runnable() {
                 @Override
@@ -239,15 +240,15 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             }, 350);
         }
 
-        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT){
-            panelLayout.setPadding(panelLayout.getPaddingLeft(), UIUtils.dip2px(this,25),panelLayout.getPaddingRight(),
+        if (Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT) {
+            panelLayout.setPadding(panelLayout.getPaddingLeft(), panelLayout.getPaddingTop() + UIUtils.dip2px(this, 25), panelLayout.getPaddingRight(),
                     panelLayout.getPaddingBottom());
+            navigationView.setPadding(navigationView.getPaddingLeft(), navigationView.getPaddingTop() + UIUtils.dip2px(this, 25), navigationView.getPaddingRight(),
+                    navigationView.getPaddingBottom());
         }
 
 
     }
-
-
 
 
     private void loadEverything() {
@@ -293,7 +294,8 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             case android.R.id.home: {
                 if (isNavigatingMain()) {
                     mDrawerLayout.openDrawer(GravityCompat.START);
-                } else super.onBackPressed();
+                } else
+                    super.onBackPressed();
                 return true;
             }
         }
@@ -348,6 +350,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         }
 
     }
+
     //监听NavigationView的点击事件
     private void updatePosition(final MenuItem menuItem) {
         runnable = null;
@@ -412,9 +415,9 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             songartist.setText(artist);
         }
         try {
-            String path= FileUtils.copyFile(this,mTempPhotoPath,"bg.jpeg");
-            Bitmap bm= BitmapFactory.decodeFile(path);
-            BitmapDrawable bd= new BitmapDrawable(bm);
+            String path = FileUtils.copyFile(this, mTempPhotoPath, "bg.jpeg");
+            Bitmap bm = BitmapFactory.decodeFile(path);
+            BitmapDrawable bd = new BitmapDrawable(bm);
             ImageLoader.getInstance().displayImage(TimberUtils.getAlbumArtUri(MusicPlayer.getCurrentAlbumId()).toString(), albumart,
                     new DisplayImageOptions.Builder().cacheInMemory(true)
 //                        .showImageOnFail(R.drawable.picture_05_lake)
@@ -469,6 +472,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
     private static final int GALLERY_REQUEST_CODE = 1;    // 相册选图标记
     private static final int CAMERA_REQUEST_CODE = 2;    // 相机拍照标记
+
     private void choosePhoto() {
         //因为已经校验过SD读权限了,故不重复
         Intent intent = new Intent(Intent.ACTION_PICK,
@@ -476,7 +480,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         intent.setDataAndType(
                 MediaStore.Images.Media.EXTERNAL_CONTENT_URI,
                 "image/*");
-        startActivityForResult(intent,GALLERY_REQUEST_CODE);
+        startActivityForResult(intent, GALLERY_REQUEST_CODE);
     }
 
     private void checkPermissionAndWriteSDCard() {
@@ -498,6 +502,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             }
         }
     }
+
     final PermissionCallback permissionWritestorageCallback = new PermissionCallback() {
         @Override
         public void permissionGranted() {
@@ -509,6 +514,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 //            finish();
         }
     };
+
     private void takePhoto() {
         Intent takeIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         //下面这句指定调用相机拍照后的照片存储的路径
@@ -520,7 +526,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if(data==null)
+        if (data == null)
             return;
         switch (requestCode) {
             case CAMERA_REQUEST_CODE:   // 调用相机拍照
@@ -538,10 +544,12 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                 break;
         }
     }
+
     // 拍照临时图片
     private String mTempPhotoPath;
     // 剪切后图像文件
     private Uri mDestinationUri;
+
     /**
      * 裁剪图片方法实现
      *
@@ -561,11 +569,11 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
      * @param result
      */
     private void handleCropResult(Intent result) {
-        if(result==null)
+        if (result == null)
             return;
         deleteTempPhotoFile();
         final Uri resultUri = UCrop.getOutput(result);
-        if (null != resultUri ) {
+        if (null != resultUri) {
             Bitmap bitmap = null;
             try {
                 bitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(), resultUri);
@@ -578,7 +586,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             String filePath = resultUri.getEncodedPath();
             String imagePath = Uri.decode(filePath);
             FileUtils.deleteFile(mTempPhotoPath);
-            FileUtils.saveBitmap(bitmap,mTempPhotoPath);
+            FileUtils.saveBitmap(bitmap, mTempPhotoPath);
 //            Toast.makeText(this, "图片已经保存到:" + imagePath, Toast.LENGTH_LONG).show();
         } else {
             Toast.makeText(this, "无法剪切选择图片", Toast.LENGTH_SHORT).show();
