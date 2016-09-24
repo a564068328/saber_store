@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yunva.live.sdk.lib.view.face.FaceRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/liveSdkFaceRelativeLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="130dp"
+    android:background="@drawable/chat_room_footer_top_bg" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/live_sdk_vp_contains"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/live_sdk_iv_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+</com.yunva.live.sdk.lib.view.face.FaceRelativeLayout>

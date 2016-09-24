@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="42dip"
+    android:layout_height="42dip"
+    android:background="@drawable/iv_face"
+    android:gravity="center"
+    android:padding="6dip" >
+
+    <ImageView
+        android:id="@+id/live_sdk_item_iv_face"
+        android:layout_width="27dip"
+        android:layout_height="27dip"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY" />
+
+</RelativeLayout>

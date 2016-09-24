@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mpro="http://schemas.android.com/apk/res/com.icloud.listenbook"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/titleTxt"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="顿悟大讲堂" />
+
+        <ImageView
+            android:id="@+id/iv_list"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_help" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_class"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#fff" >
+
+        <TextView
+            android:id="@+id/tv_class"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center_horizontal"
+            android:text="国学精髓公益课堂"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <com.icloud.listenbook.base.view.lableview.LabelImageView
+            android:id="@+id/li_class"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@+id/tv_class"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/enter_gyk"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:id="@+id/ll_class"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/li_class"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_chant"
+                style="@style/TeachLectureItem"
+                android:gravity="center"
+                android:text="经典诵读" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_lesson"
+                style="@style/TeachLectureItem"
+                android:gravity="center"
+                android:text="顿悟功课" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv_gotit"
+        android:layout_margin="4dp"
+        android:background="@color/line" />
+
+    <TextView
+        android:id="@+id/yyTag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tab_bg"
+        android:gravity="center"
+        android:padding="4dp"
+        android:singleLine="true"
+        android:text="@string/yy_load_01"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="6dp"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="8dp"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="none" />
+
+        <com.icloud.listenbook.ui.custom.CustomProgressBar
+            android:id="@+id/progress"
+            style="@style/mycustomprocessbar"
+            android:layout_centerInParent="true" />
+
+        <TextView
+            android:id="@+id/progressTip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/progress"
+            android:layout_centerHorizontal="true"
+            android:text="@string/loading" />
+
+        <TextView
+            android:id="@+id/tip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/thingrey"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/zero_datas"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

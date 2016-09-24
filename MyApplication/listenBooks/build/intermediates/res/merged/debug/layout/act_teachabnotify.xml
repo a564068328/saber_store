@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4000"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="28dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/button_blue"
+        android:gravity="center"
+        android:text="顿悟大讲堂栏目公告"
+        android:textColor="@color/orange"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="@drawable/local_popup_bg" >
+
+        <com.icloud.listenbook.unit.JustifyTextView
+            android:id="@+id/tv_body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="\t顿悟大讲堂是现代禅悟学研修中心商道智慧、国学思想精髓、融通智慧、顿悟式教育等核心学问的远程实时授课或讲座平台。\n
+\t每周将安排多类主题的现场授课，具体包括国学经典融通、如何打通企业经管学、风水核心要点的识别识别与调理、养生与生命科学、学佛与参禅、融通智慧学系统讲座等等。\n
+\t希望大家根据自己需求关注具体课程的时间安排，及时进入讲堂，以免错过。"
+            android:textColor="#ffFFffff"
+            android:textSize="15sp" />
+
+        <CheckBox
+            android:text="不再提示"
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/base_checkbox"
+            android:layout_margin="4dp"
+            android:layout_below="@+id/tv_body"
+            android:checked="false"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_exit"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:layout_below="@id/checkBox"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/button_blue"
+            android:gravity="center"
+            android:text="我已经了解了"
+            android:textColor="@color/orange"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>

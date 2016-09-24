@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/video_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+        >
+
+    <FrameLayout
+            android:id="@+id/qcloud_player_video_surface_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+
+        <SurfaceView
+                android:id="@+id/qcloud_player_video_surface"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <RelativeLayout
+            android:id="@+id/qcloud_player_title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/qcloud_player_background"
+            android:visibility="gone"
+            >
+        <TextView
+                android:id="@+id/qcloud_player_back_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:drawableLeft="@drawable/qcloud_player_icon_ab_back_holo_dark"
+                android:textSize="16sp"
+                android:text="返回"
+                android:clickable="true"
+                android:focusable="true"/>
+        <ImageView
+                android:id="@+id/qcloud_player_action_btn"
+                android:src="@drawable/qcloud_player_icon_moreoverflow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="5dp"
+                android:clickable="true"
+                android:focusable="true"/>
+
+    </RelativeLayout>
+
+<!--    <TextView
+            android:id="@+id/qcloud_player_loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_centerInParent="true"
+            android:background="@color/qcloud_player_background"
+            android:text="@string/qcloud_player_dialog_video_loading"
+            android:visibility="gone"/>-->
+
+    <LinearLayout
+            android:id="@+id/qcloud_player_settings_container"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_alignParentRight="true"
+            android:background="@color/qcloud_player_background"
+            android:visibility="gone">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_marginTop="20dp">
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/qcloud_player_icon_audio_vol_mute"/>
+            <SeekBar
+                    android:id="@+id/qcloud_player_volume_controller"
+                    style="@style/SeekBarAppTheme"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/qcloud_player_icon_audio_vol"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:id="@+id/qcloud_player_brightness_controller_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_marginTop="20dp">
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:padding="5dp"
+                    android:src="@drawable/qcloud_player_icon_brightness"/>
+            <SeekBar
+                    android:id="@+id/qcloud_player_brightness_controller"
+                    style="@style/SeekBarAppTheme"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/qcloud_player_icon_brightness"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:id="@+id/qcloud_player_select_stream_container"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:background="@color/qcloud_player_background"
+            android:visibility="gone">
+        <ListView
+                android:id="@+id/qcloud_player_select_streams_list"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

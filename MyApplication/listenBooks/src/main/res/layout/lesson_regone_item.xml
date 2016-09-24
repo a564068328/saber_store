@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:labelView="http://schemas.android.com/apk/res/com.icloud.listenbook"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:textColor="#7000" />
+
+    <com.icloud.listenbook.base.view.lableview.LabelTextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:minHeight="35dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/tv_date"
+        android:gravity="center_vertical"
+        android:textColor="#b000"
+        android:textSize="14sp"
+        labelView:label_backgroundColor="#03A9F4"
+        labelView:label_distance="15dp"
+        labelView:label_height="16dp"
+        labelView:label_orientation="RIGHT_TOP"
+        labelView:label_text="推荐"
+        labelView:label_textSize="12sp" />
+
+    <TextView
+        android:textColor="#cfff"
+        android:gravity="center"
+        android:id="@+id/tv_gotit"
+        android:background="@drawable/button_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_result"
+        android:layout_below="@+id/tv_result"
+        android:text="查看详情" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/line"
+        
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv_gotit"
+        android:layout_margin="4dp"
+        android:background="@color/line" />
+
+
+</RelativeLayout>

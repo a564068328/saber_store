@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="HardcodedDebugMode">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="MissingTranslation" severity="ignore">
+        <ignore path="res/values/download_strings.xml" />
+        <ignore path="res/values/download_ui_strings.xml" />
+    </issue>
+    <issue id="PropertyEscape">
+        <ignore path="local.properties" />
+    </issue>
+</lint>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="4dp"
+        android:textSize="9sp"
+        android:textColor="#8000" />
+
+    <RelativeLayout
+        android:background="@drawable/chant"
+        android:layout_margin="4dp"
+        android:layout_toRightOf="@+id/tv_date"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.icloud.listenbook.unit.JustifyTextView
+            android:lineSpacingMultiplier="1.3"
+            android:id="@+id/tv_chant"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:textColor="#c000"
+            android:textSize="14sp" />
+        <TextView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_chant"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:text="在线朗诵"
+            android:layout_margin="5dp"
+            android:padding="1dp"
+            android:background="@drawable/button_blue"
+            android:id="@+id/tv_jump"/>
+    </RelativeLayout>
+
+</RelativeLayout>

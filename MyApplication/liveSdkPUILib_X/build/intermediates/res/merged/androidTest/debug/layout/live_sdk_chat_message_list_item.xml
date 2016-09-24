@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+     android:paddingBottom="4dp"
+    android:paddingLeft="7dp"
+    android:paddingRight="8dp"
+    android:paddingTop="4dp" 
+     >
+ <RelativeLayout
+        android:id="@+id/live_sdk_rl_chat_and_voice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+        
+      <ImageView
+            android:id="@+id/iv_head"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_marginRight="8dp"
+            android:src="@drawable/default_head_icon" />
+		<LinearLayout
+            android:id="@+id/live_sdk_headicon_and_medalicon_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/iv_head"
+            android:layout_toRightOf="@id/iv_head"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/iv_ranklist_icon"
+                android:layout_width="52dp"
+                android:layout_height="15dp"
+                android:layout_marginRight="1dp"
+                android:scaleType="fitCenter" />
+
+            <TextView
+                android:id="@+id/live_sdk_nick_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="小马："
+                android:textColor="@color/live_sdk_gray"
+                android:textSize="@dimen/live_sdk_text_size_12" />
+        </LinearLayout>
+        
+   <TextView
+            android:id="@+id/live_sdk_txt_nickname_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/live_sdk_headicon_and_medalicon_ll"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="2dp"
+            android:text="聊天聊天聊天"
+            android:textColor="@color/live_sdk_dark"
+            android:textSize="@dimen/live_sdk_text_size_13"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/live_sdk_layout_chat_message_content_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/live_sdk_headicon_and_medalicon_ll"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="2dp"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_picture_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/live_sdk_btn_voice_left"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@drawable/live_sdk_voice_message_bg"
+                android:drawableLeft="@drawable/live_sdk_sound_wave"
+                android:gravity="right|center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/live_sdk_white"
+                android:textSize="@dimen/live_sdk_text_size_15"
+                android:visibility="visible" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/live_sdk_rl_show_gif_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:visibility="gone" >
+ 		<LinearLayout
+            android:id="@+id/live_sdk_gift_headicon_and_medalicon_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_gift_user_headicon"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/default_head_icon"
+                android:visibility="visible" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/live_sdk_gift_tv_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:layout_toRightOf="@id/live_sdk_gift_headicon_and_medalicon_ll"
+           android:text="小刘送了 "
+            android:textColor="@color/live_sdk_white"
+            android:textSize="@dimen/live_sdk_text_size_13"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/live_sdk_iv_gif_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+             android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/live_sdk_gift_tv_nickname"
+            android:scaleType="fitCenter"
+            />
+
+        <TextView
+            android:id="@+id/live_sdk_tv_gif_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/live_sdk_iv_gif_icon"
+            android:gravity="center_vertical"
+            android:text="X10"
+            android:textColor="@color/live_sdk_white"
+            android:textSize="@dimen/live_sdk_text_size_13"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/live_sdk_rl_show_car_gift_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/live_sdk_cargift_headicon_and_medalicon_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_car_gift_head_icon"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginRight="6dp"
+                android:src="@drawable/default_head_icon"
+                android:visibility="visible" />
+            <ImageView
+                android:id="@+id/live_sdk_cargift_medal_icon_iv"
+                android:layout_width="52dp"
+                android:layout_height="15dp"
+                android:layout_marginRight="1dp"
+                android:scaleType="fitCenter" />
+
+            <TextView
+                android:id="@+id/live_sdk_car_user_nick_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="小马："
+                android:textColor="@color/live_sdk_gray"
+                android:textSize="@dimen/live_sdk_text_size_12" />
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_car_gift_icon"
+                android:layout_width="120dp"
+                android:layout_height="62dp"
+                android:layout_gravity="center_vertical"
+                android:scaleType="fitCenter" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/live_sdk_ll_show_car_gift_desp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/live_sdk_cargift_headicon_and_medalicon_ll"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/live_sdk_come_car_des_tv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="34dp"
+                android:text="奥巴马~开着兰博基尼闪亮登场,四下掌声雷动,惊叫声不断~~~"
+                android:textSize="@dimen/live_sdk_text_size_13"
+                android:visibility="visible" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

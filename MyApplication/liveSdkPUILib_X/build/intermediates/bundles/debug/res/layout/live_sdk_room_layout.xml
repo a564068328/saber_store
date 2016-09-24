@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/live_sdk_main_bg" >
+    
+	<RelativeLayout 
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	    >
+    <RelativeLayout
+        android:id="@+id/live_sdk_relayout_video"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/live_sdk_black" >
+
+        <FrameLayout
+            android:id="@+id/live_sdk_layout_video"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:background="@drawable/live_sdk_video_bg" >
+
+            <com.yunva.live.sdk.interfaces.widget.LiveView
+                android:id="@+id/live_sdk_liveView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <RelativeLayout
+                android:id="@+id/layout_topView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#e5000000"
+                android:gravity="top"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btn_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/btn_channel_chat_back"
+                    android:onClick="onClick" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="56dp"
+                    android:layout_marginRight="56dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/txt_guild_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="频道名称"
+                        android:textColor="@color/live_sdk_white"
+                        android:singleLine="true"
+                        android:textSize="@dimen/live_sdk_text_size_15" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/txt_guild_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:paddingLeft="2dp"
+                            android:paddingRight="2dp"
+                            android:singleLine="true"
+                            android:textColor="@color/live_sdk_white"
+                            android:textSize="@dimen/live_sdk_text_size_11" />
+
+                        <TextView
+                            android:id="@+id/txt_people_num"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:drawableLeft="@drawable/people_num_icon"
+                            android:drawablePadding="5dp"
+                            android:gravity="center"
+                            android:singleLine="true"
+                            android:text="1人"
+                            android:textColor="@color/live_sdk_white"
+                            android:textSize="@dimen/live_sdk_text_size_11" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/btn_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/btn_channel_chat_menu"
+                    android:onClick="onClick" />
+            </RelativeLayout>
+        </FrameLayout>
+        
+  		   <Button
+	        android:id="@+id/live_sdk_btn_max_video"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="66dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_alignRight="@id/live_sdk_layout_video"
+	        android:layout_alignBottom="@id/live_sdk_layout_video"
+	        android:background="@drawable/live_sdk_btn_max_video" />
+        
+        <RelativeLayout
+            android:id="@+id/layout_chair_info"
+            android:layout_width="match_parent"
+            android:layout_height="66dp"
+            android:layout_alignBottom="@id/live_sdk_layout_video"
+            android:gravity="bottom" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentBottom="true"
+                android:background="#e5000000"
+                android:paddingLeft="74dp" >
+
+                <TextView
+                    android:id="@+id/txt_chair_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:singleLine="true"
+                    android:textColor="@color/live_sdk_white"
+                    android:textSize="@dimen/live_sdk_text_size_18" />
+
+                <TextView
+                    android:id="@+id/txt_chair_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt_chair_name"
+                    android:singleLine="true"
+                    android:textColor="#d3dbf1"
+                    android:textSize="@dimen/live_sdk_text_size_13" />
+
+                <Button
+                    android:id="@+id/btn_pack_up"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/btn_pack_up2_bg" />
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/iv_chair_icon"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:padding="2dp"
+                android:src="@drawable/default_head_icon" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_chair_info_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#434b5e"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:visibility="gone"
+             >
+
+            <ImageView
+                android:id="@+id/iv_chair_icon_2"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:layout_marginLeft="10dp"
+                android:padding="2dp"
+                android:src="@drawable/default_head_icon" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/txt_chair_name_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="@color/live_sdk_white"
+                    android:textSize="@dimen/live_sdk_text_size_18" />
+
+                <TextView
+                    android:id="@+id/txt_chair_id_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#d3dbf1"
+                    android:textSize="@dimen/live_sdk_text_size_13" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_pull_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_pull_down_bg" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/live_sdk_layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/chat_room_footer_top_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/live_sdk_btn_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:background="@drawable/btn_voice_bg" />
+
+        <Button
+            android:id="@+id/live_sdk_btn_keyboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_keyboard_bg"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/live_sdk_relayout_edit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center_vertical"
+                 android:layout_marginLeft="20dp"
+                android:orientation="horizontal" >
+
+                <com.yunva.live.sdk.ui.channel.widgt.YayaEditText
+                    android:id="@+id/live_sdk_edit_message"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                   
+                    android:layout_weight="1"
+                    android:background="@drawable/edit_chat_message_box"
+                    android:hint="请输入聊天内容"
+                    android:longClickable="false"
+                    android:maxLength="25"
+                    android:singleLine="true" />
+
+                <Button
+                    android:id="@+id/live_sdk_btn_face"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_open_bg" />
+
+                <Button
+                    android:id="@+id/live_sdk_btn_send"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_send_bg" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/live_sdk_btn_send_voice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_down_talk_bg"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="按住说话"
+            android:textColor="@color/live_sdk_black"
+            android:textSize="@dimen/live_sdk_text_size_15"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/live_sdk_list_chat_message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/live_sdk_layout_bottom"
+        android:layout_below="@id/live_sdk_relayout_video"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/line_1"
+        android:fadingEdge="none"
+        android:listSelector="@color/live_sdk_transparent"
+        android:scrollingCache="false"	
+        android:transcriptMode="alwaysScroll" />
+
+    <include
+        layout="@layout/live_sdk_record_voice_state_layout"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/live_sdk_ll_gif_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignTop="@id/live_sdk_list_chat_message"
+        android:background="@drawable/live_sdk_gift_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/live_sdk_tv_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="笑笑"
+            android:textColor="#0c2947"
+            android:textSize="@dimen/live_sdk_text_size_14" />
+
+        <ImageView
+            android:id="@+id/live_sdk_iv_gif_show"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/live_sdk_gift_default_icon" />
+
+        <TextView
+            android:id="@+id/live_sdk_tv_gif_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="30个"
+            android:textColor="#ff0000"
+            android:textSize="@dimen/live_sdk_text_size_16" />
+            <ImageView
+                android:id="@+id/live_sdk_multiple_sinal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/live_sdk_combo_multiple_signal"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/live_sdk_multiple_10_position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/live_sdk_combo_1"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/live_sdk_multiple_1_position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/live_sdk_combo_0"
+                android:visibility="gone" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/live_sdk_rl_room_wealth_gift_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_above="@id/live_sdk_layout_bottom" 
+        >
+            
+    <Button
+        android:id="@+id/live_sdk_btn_gift"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/live_sdk_btn_gift_bg" />
+    <Button
+        android:id="@+id/live_sdk_btn_wealth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/live_sdk_wealth_rank_icon"
+        android:layout_marginTop="3dp"
+        android:layout_below="@id/live_sdk_btn_gift"  />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/live_sdk_btn_gift_full_screen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:visibility="gone"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/live_sdk_btn_gift_bg" />
+     <Button
+	   android:id="@+id/live_sdk_btn_min_video"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:layout_marginTop="50dp"
+	   android:visibility="gone"
+	   android:layout_marginRight="10dp"
+	   android:layout_alignParentRight="true"
+	   android:background="@drawable/live_sdk_btn_min_video" />
+</RelativeLayout>
+	<LinearLayout
+        android:id="@+id/live_sdk_ll_car_anim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+      <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+            >
+
+        <TextView
+            android:id="@+id/live_sdk_car_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="屌丝开"
+            android:textColor="@color/live_sdk_yellow"
+            android:textSize="@dimen/live_sdk_text_size_14" />
+          <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开着"
+            android:textColor="@color/live_sdk_black"
+            android:textSize="@dimen/live_sdk_text_size_14" />
+      <TextView
+            android:id="@+id/live_sdk_show_comecar_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="法拉利"
+            android:textColor="@color/live_sdk_red1"
+            android:textSize="@dimen/live_sdk_text_size_14" />
+      <TextView
+            android:id="@+id/live_sdk_show_comecar_last_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="进入了房间。"
+            android:textSize="@dimen/live_sdk_text_size_14" />
+      
+      </LinearLayout>
+        <ImageView
+            android:id="@+id/live_sdk_iv_car_anim"
+            android:layout_width="76dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="48dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/luxury_farrari" />
+    </LinearLayout>
+</FrameLayout>

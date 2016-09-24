@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="live_sdk_gift_num_1_describe">一心一意</string>
+    <string name="live_sdk_gift_num_10_describe">十全十美</string>
+    <string name="live_sdk_gift_num_30_describe">想你..</string>
+    <string name="live_sdk_gift_num_66_describe">一切顺利</string>
+    <string name="live_sdk_gift_num_188_describe">要抱抱</string>
+    <string name="live_sdk_gift_num_520_describe">我爱你</string>
+    <string name="live_sdk_gift_num_1314_describe">一生一世</string>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+        android:id="@+id/layout_login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+	    <EditText 
+	        android:id="@+id/edit_yunvaId"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="请输入云娃账号"
+	        android:inputType="numberSigned"
+	        />
+	    <EditText 
+	        android:id="@+id/edit_password"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="请输入密码"
+	        android:singleLine="true"
+	        />
+	    <Button
+	        android:id="@+id/btn_login"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="登录云娃账号" />
+	    <Button
+	        android:id="@+id/btn_auto_login"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="自动登录" />
+	    
+	    <EditText 
+	        android:id="@+id/edit_tt"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="请输入令牌密令"
+	        android:layout_marginTop="15dp"
+	        />
+	    <Button
+	        android:id="@+id/btn_binding"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="绑定云娃账号" />
+	    
+    </LinearLayout>
+
+    
+    <Button
+        android:id="@+id/btn_show_room_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="房间列表"
+        android:visibility="gone" />
+    
+
+</LinearLayout>

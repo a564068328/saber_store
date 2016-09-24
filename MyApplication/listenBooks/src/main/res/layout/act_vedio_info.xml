@@ -1,0 +1,259 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="160dp" >
+
+        <com.qcloud.player.ui.QCloudVideoView
+            android:id="@+id/qcloud_video_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <RelativeLayout
+            android:id="@+id/vedioManageLay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/gray" >
+
+            <ImageView
+                android:id="@+id/vedioManage"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/icon_vedio_play" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tv_progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="努力加载中"
+                android:textColor="#fff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_jump"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_marginLeft="5dp"
+            android:background="@color/gray"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_jump"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/checkbox_dafult"
+                android:scaleType="centerInside" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="24dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:background="#fff" />
+
+            <TextView
+                android:id="@+id/tv_jump_report"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="记录您上次看到11分12秒"
+                android:textColor="#fff"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="24dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:background="#fff" />
+
+            <TextView
+                android:id="@+id/tv_jump_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="跳转播放"
+                android:textColor="@color/orange"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_playerror"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_play_error"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_error" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="视频获取失败"
+                android:textColor="#fff" />
+
+            <TextView
+                android:id="@+id/tv_reobtain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textview_orange"
+                android:text="重新获取"
+                android:textColor="#FFA500"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@android:color/white"
+        android:checkedButton="@+id/dataBtn"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <RadioButton
+            android:id="@+id/dataBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="选集" />
+
+        <RadioButton
+            android:id="@+id/commentsBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="评论详情" />
+    </RadioGroup>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="4dp" >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/commlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" />
+
+        <RelativeLayout
+            android:id="@+id/data_l"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/datalist"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/function"
+                android:scrollbars="none" />
+
+            <LinearLayout
+                android:id="@+id/function"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_alignParentBottom="true"
+                android:background="@android:color/white"
+                android:gravity="center_vertical" >
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/collection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:drawableLeft="@drawable/icon_collection"
+                    android:drawablePadding="4dp"
+                    android:gravity="center"
+                    android:text="@string/collect"
+                    android:textColor="@color/item_chip_title"
+                    android:textSize="16sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/share"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:drawableLeft="@drawable/icon_share"
+                    android:drawablePadding="4dp"
+                    android:gravity="center"
+                    android:text="分享"
+                    android:textColor="@color/item_chip_title"
+                    android:textSize="16sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:id="@+id/down_l"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="40dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <com.icloud.listenbook.base.view.CusView
+                        android:id="@+id/downPos"
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp" />
+
+                    <TextView
+                        android:id="@+id/down"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:layout_marginLeft="2dp"
+                        android:drawablePadding="4dp"
+                        android:gravity="center"
+                        android:text="@string/download"
+                        android:textColor="@color/item_chip_title"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

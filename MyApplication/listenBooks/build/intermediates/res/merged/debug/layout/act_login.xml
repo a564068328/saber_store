@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/titleTxt"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="登陆" />
+
+        <TextView
+            android:id="@+id/registerTxt"
+            style="@style/base_txt"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:text="注册"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/title_top_l"
+        android:orientation="vertical"
+        android:paddingBottom="12dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="6dp" >
+
+        <EditText
+            android:id="@+id/account"
+            style="@style/acc_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="账号"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/password"
+            style="@style/pwd_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="密码"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/autoLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:button="@drawable/base_checkbox"
+                android:checked="true"
+                android:text="自动登陆"
+                android:textColor="@color/cyangrey"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/forgetPwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="忘记密码"
+                android:textColor="@color/cyangrey"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/orange"
+            android:gravity="center"
+            android:text="登陆"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/tourist_login"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="游客登陆"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.icloud.listenbook.ui.TablesActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <com.icloud.listenbook.base.view.ViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="57dp" />
+
+    <RadioGroup
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/table_bottom_bg"
+        android:checkedButton="@+id/home"
+        android:gravity="bottom"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/home"
+            style="@style/table_rg_btn_style"
+            android:drawableTop="@drawable/tables_tab_home"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/boutique"
+            style="@style/table_rg_btn_style"
+            android:drawableTop="@drawable/tables_tab_boutique"
+            android:text="精选" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="6dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/table_bottom_play_bg" />
+
+            <ImageView
+                android:id="@+id/music_play_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/table_bottom_play_listen" />
+
+            <ImageView
+                android:id="@+id/music_play_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/table_bottom_play_play" />
+        </RelativeLayout>
+
+        <RadioButton
+            android:id="@+id/download"
+            style="@style/table_rg_btn_style"
+            android:drawableTop="@drawable/tables_tab_download"
+            android:text="下载" />
+
+        <RadioButton
+            android:id="@+id/userinfo"
+            style="@style/table_rg_btn_style"
+            android:drawableTop="@drawable/tables_tab_userinfo"
+            android:text="我的" />
+    </RadioGroup>
+
+</RelativeLayout>

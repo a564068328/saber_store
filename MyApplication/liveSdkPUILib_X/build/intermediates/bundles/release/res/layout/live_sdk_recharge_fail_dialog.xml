@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/recharge_success_bg"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        >
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/recharge_fail_icon"
+            />
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            >
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffdf0000"
+                android:textSize="12sp"
+                android:text="对不起，充值失败！"
+                />
+            <LinearLayout 
+                android:id="@+id/layout_order_info"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:orientation="horizontal"
+	            android:gravity="center_vertical"
+	            android:layout_marginTop="10dp"
+	            >
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="#ff898989"
+	                android:textSize="12sp"
+	                android:text="订单号 : "
+	                />
+	            <TextView 
+	                android:id="@+id/txt_recharge_order_id"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="#ffff4242"
+	                android:textSize="12sp"
+	                android:text="123456789"
+	                />
+	        </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/txt_fail_reason"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff898989"
+        android:textSize="13sp"
+        android:text="卡号密码错误"
+        />
+    
+    <Button 
+        android:id="@+id/btn_determine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_determine_bg"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff5d5d5d"
+        android:textSize="15sp"
+        android:text="确定"
+        android:layout_marginTop="30dp"
+        />
+
+</LinearLayout>

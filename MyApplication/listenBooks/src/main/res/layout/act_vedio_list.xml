@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/base_title"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" />
+
+</LinearLayout>

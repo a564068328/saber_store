@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:toggle="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="新消息提醒设置" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/advertising"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_advertising"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fff"
+        android:paddingBottom="4dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2dp"
+            android:text="聊天室新消息通知"
+            android:textColor="#c000"
+            android:textSize="18sp" />
+
+        <com.zcw.togglebutton.ToggleButton
+            android:id="@+id/toggleBtn1"
+            android:layout_width="45dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:scaleType="centerInside"
+            toggle:borderWidth="2dp"
+            toggle:offBorderColor="#BEBEBE"
+            toggle:offColor="#D4D4D4"
+            toggle:onColor="#63B8FF"
+            toggle:spotColor="#fff" >
+        </com.zcw.togglebutton.ToggleButton>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toggleBtn1"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="2dp"
+            android:text="若关闭，当收到聊天室在线消息时，不会发送通知提示。"
+            android:textColor="#7000"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#3000" />
+
+    <RelativeLayout
+        android:id="@+id/rl_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2dp"
+            android:text="通知显示聊天室消息详情"
+            android:textColor="#c000"
+            android:textSize="18sp" />
+
+        <com.zcw.togglebutton.ToggleButton
+            android:id="@+id/toggleBtn2"
+            android:layout_width="45dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:scaleType="centerInside"
+            toggle:borderWidth="2dp"
+            toggle:offBorderColor="#BEBEBE"
+            toggle:offColor="#D4D4D4"
+            toggle:onColor="#63B8FF"
+            toggle:spotColor="#fff" >
+        </com.zcw.togglebutton.ToggleButton>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toggleBtn2"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="2dp"
+            android:text="若关闭，当收到聊天室在线消息时，通知提示将不显示发信人和内容摘要。"
+            android:textColor="#7000"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="#fff"
+         >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2dp"
+            android:text="通知声音"
+            android:textColor="#c000"
+            android:paddingBottom="4dp"
+            android:textSize="18sp" />
+
+        <com.zcw.togglebutton.ToggleButton
+            android:layout_marginBottom="6dp"
+            android:id="@+id/toggleBtn3"
+            android:layout_width="45dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:scaleType="centerInside"
+            toggle:borderWidth="2dp"
+            toggle:offBorderColor="#BEBEBE"
+            toggle:offColor="#D4D4D4"
+            toggle:onColor="#63B8FF"
+            toggle:spotColor="#fff" >
+        </com.zcw.togglebutton.ToggleButton>
+
+        <TextView
+            android:layout_below="@+id/toggleBtn3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#3000" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_3"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:background="#fff"
+        android:paddingBottom="4dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2dp"
+            android:text="通知振动"
+            android:textColor="#c000"
+            android:textSize="18sp" />
+
+        <com.zcw.togglebutton.ToggleButton
+            android:id="@+id/toggleBtn4"
+            android:layout_width="45dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:scaleType="centerInside"
+            toggle:borderWidth="2dp"
+            toggle:offBorderColor="#BEBEBE"
+            toggle:offColor="#D4D4D4"
+            toggle:onColor="#63B8FF"
+            toggle:spotColor="#fff" >
+        </com.zcw.togglebutton.ToggleButton>
+    </RelativeLayout>
+
+</LinearLayout>

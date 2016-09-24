@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/live_sdk_main_bg"
+    android:orientation="horizontal" >
+    <LinearLayout 
+        android:id="@+id/ll_ranklist_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+    	android:background="@drawable/layout_boder"> 
+	    <ImageView 
+	        android:id="@+id/iv_ranklist_order"
+	        android:layout_width="42dp"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_vertical"
+	        android:src="@drawable/channel_ranklist_order1"
+	        android:visibility="gone"/>
+	    <TextView 
+	        android:id="@+id/tv_ranklist_order"
+	        android:layout_width="42dp"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_vertical"
+	        android:gravity="center"
+	        android:text="5"
+	        android:textColor="@color/live_sdk_gray"
+	        android:textSize="@dimen/live_sdk_text_size_15"/>
+	    <TextView
+	        android:id="@+id/tv_ranklist_name"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:layout_gravity="center_vertical"
+	        android:paddingTop="8dp"
+	        android:paddingBottom="8dp"
+	        android:singleLine="true"
+	        android:text="安利"
+	        android:textColor="@color/live_sdk_black"
+	        android:textSize="@dimen/live_sdk_text_size_15" />
+	
+	    <ImageView
+	        android:id="@+id/iv_ranklist_icon"
+	        android:layout_width="52dp"
+	        android:layout_height="12dp" />
+    </LinearLayout>
+</LinearLayout>

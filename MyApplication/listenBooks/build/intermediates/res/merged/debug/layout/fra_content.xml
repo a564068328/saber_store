@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        card_view:cardBackgroundColor="@color/cardview_light_background"
+        card_view:cardCornerRadius="5dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:background="#ff6BA761"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="反省项目" >
+                </TextView>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="20dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="功" >
+                </TextView>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="20dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="过" >
+                </TextView>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="事件备注" >
+                </TextView>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="改正或期许" >
+                </TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title1"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="起心动念" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn1"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im1"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn2"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im2"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et1"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et2"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title2"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="言语态度" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn3"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im3"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn4"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im4"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et3"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et4"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title3"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="行为处事" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn5"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im5"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn6"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im6"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et5"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et6"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title4"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="待人接物" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn7"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im7"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn8"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im8"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et7"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et8"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title5"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="工作事业" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn9"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im9"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn10"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im10"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et9"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et10"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title6"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="信仰修为" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn11"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im11"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn12"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im12"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et11"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et12"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_title7"
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="其他" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/btn13"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im13"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn14"
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <ImageView
+                        android:id="@+id/im14"
+                        style="@style/table_imageview" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/et13"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/et14"
+                    style="@style/table_editview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:text="合计" >
+                </TextView>
+
+                <RelativeLayout
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <TextView
+                        android:id="@+id/tv_total1"
+                        style="@style/table_numberview" >
+                    </TextView>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1"
+                    android:background="#fff" >
+
+                    <TextView
+                        android:id="@+id/tv_total2"
+                        style="@style/table_numberview" >
+                    </TextView>
+                </RelativeLayout>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" >
+                </TextView>
+
+                <TextView
+                    style="@style/table_textview"
+                    android:layout_width="30dp"
+                    android:layout_margin="0.8dip"
+                    android:layout_weight="1" >
+                </TextView>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_orange"
+        android:gravity="center"
+        android:text="提交"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/submit_wait"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tab_bg"
+        android:gravity="center"
+        android:padding="4dp"
+        android:singleLine="true"
+        android:text="正在提交中，请稍等。。。"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+</LinearLayout>

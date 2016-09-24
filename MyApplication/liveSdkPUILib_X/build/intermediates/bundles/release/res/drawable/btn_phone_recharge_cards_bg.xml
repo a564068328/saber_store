@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_window_focused="false" android:drawable="@drawable/btn_phone_recharge_cards" />
+	<item android:state_pressed="true" android:drawable="@drawable/btn_phone_recharge_cards_press" />
+	
+</selector>

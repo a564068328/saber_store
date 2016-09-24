@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="cyangrey">#ff666c77</color>
+    <color name="fineline">#5fD8DADF</color>
+    <color name="gray">#ff6E717A</color>
+    <color name="green">#ff6BA761</color>
+    <color name="greyblack">#ff26283A</color>
+    <color name="guide_bg">#6000</color>
+    <color name="item_chip_title">#ff9299a6</color>
+    <color name="item_foot">#ff72757f</color>
+    <color name="item_title">#e0000098</color>
+    <color name="line">#ffD8DADF</color>
+    <color name="litter_orange">#ef8263</color>
+    <color name="orange">#ddee6744</color>
+    <color name="orangebg">#ffee6744</color>
+    <color name="red">#FF0000</color>
+    <color name="tab_bg">#ffe1e8ed</color>
+    <color name="table_font">#ff00ffff</color>
+    <color name="thingrey">#6f6E717A</color>
+    <color name="transparent">#00000000</color>
+    <color name="txt_bg">#FFF8DC</color>
+    <color name="txt_blue">#ff000098</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_bg">#99dcdcdc</color>
+    <string name="got_it_button_text">继续</string>
+    <string name="skip_button_text">跳过</string>
+    <style name="TutorialActivityTheme" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

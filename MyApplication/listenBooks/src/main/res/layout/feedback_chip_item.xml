@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="6dp"
+    android:paddingBottom="4dp"
+    android:background="#fff8fbfb"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/thingrey"
+        android:paddingLeft="8dp"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginTop="2dp"
+        android:drawablePadding="8dp"
+        android:gravity="center"
+        android:textColor="@color/item_title"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/reply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:gravity="right"
+        android:padding="4dp"
+        android:text="&lt;回复>"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reply"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/edit_feedback"
+        android:gravity="left"
+        android:hint="请输入"
+        android:imeOptions="actionSend"
+        android:inputType="text"
+        android:padding="4dp"
+        android:singleLine="true"
+        android:textColorHint="#ffB0B4BB"
+        android:textSize="16sp" />
+
+</RelativeLayout>

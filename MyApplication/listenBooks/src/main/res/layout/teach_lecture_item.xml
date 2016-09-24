@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:labelView="http://schemas.android.com/apk/res/com.icloud.listenbook"
+    android:id="@+id/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:paddingBottom="4dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="4dp" >
+
+    <com.icloud.listenbook.base.view.lableview.LableNetworkImageView     
+        android:id="@+id/icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        labelView:label_backgroundColor="#03A9F4"
+        labelView:label_distance="15dp"
+        labelView:label_orientation="LEFT_TOP"
+        labelView:label_height="14dp"
+        labelView:label_text="推荐"
+        labelView:label_textSize="10sp" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/icon"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:layout_toLeftOf="@+id/tv_prompt"
+        android:layout_toRightOf="@+id/icon"
+        android:drawablePadding="4dp"
+        android:text="标题"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_prompt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/title"
+        android:drawablePadding="4dp"
+        android:text="尚未开放"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@+id/icon"
+        android:drawablePadding="4dp"
+        android:textColor="@color/greyblack"
+        android:textSize="16sp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/topic"
+        style="@style/TeachLectureItem"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@+id/icon"
+        android:text="课题预告" />
+
+    <TextView
+        android:id="@+id/intro"
+        style="@style/TeachLectureItem"
+        android:layout_alignTop="@+id/topic"
+        android:layout_toRightOf="@+id/topic"
+        android:text="内容介绍" />
+
+    <TextView
+        android:id="@+id/pptid"
+        style="@style/TeachLectureItem"
+        android:layout_alignTop="@+id/topic"
+        android:layout_toRightOf="@+id/intro"
+        android:text="PPT课件" />
+
+    <TextView
+        android:id="@+id/uri"
+        style="@style/TeachLectureItem"
+        android:layout_alignTop="@+id/topic"
+        android:layout_toRightOf="@+id/pptid"
+        android:text="观看视频"
+        android:visibility="invisible" >
+    </TextView>
+
+</RelativeLayout>

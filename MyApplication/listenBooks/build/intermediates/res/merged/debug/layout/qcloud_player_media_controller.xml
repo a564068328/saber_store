@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="34dp"
+    android:background="@color/qcloud_player_background"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/qcloud_player_pause_btn"
+            style="@android:style/MediaButton.Play"
+            android:layout_width="30dip"
+            android:layout_height="26dip" />
+
+        <TextView
+            android:id="@+id/qcloud_player_time_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+
+        <SeekBar
+            android:id="@+id/qcloud_player_mediacontroller_progress"
+            style="@style/SeekBarAppTheme"
+            android:layout_width="0dip"
+            android:layout_height="32dip"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/qcloud_player_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="4dp"
+            android:textColor="@android:color/white"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/qcloud_player_select_streams_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:text="标清"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+
+        <ImageButton
+            android:id="@+id/qcloud_player_full_screen_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/transparent"
+            android:paddingBottom="4dip"
+            android:paddingLeft="6dip"
+            android:paddingRight="10dip"
+            android:paddingTop="4dip" />
+    </LinearLayout>
+
+</LinearLayout>

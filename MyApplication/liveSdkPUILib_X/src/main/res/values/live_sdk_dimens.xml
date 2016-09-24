@@ -1,0 +1,22 @@
+<resources>
+
+    <dimen name="live_sdk_padding_small">8dp</dimen>
+    <dimen name="live_sdk_padding_medium">8dp</dimen>
+    <dimen name="live_sdk_padding_large">16dp</dimen>
+     <dimen name="live_sdk_text_size_2">2.0dip</dimen>
+    <dimen name="live_sdk_text_size_9">9.0dip</dimen>
+    <dimen name="live_sdk_text_size_10">10.0dip</dimen>
+    <dimen name="live_sdk_text_size_11">11.0dip</dimen>
+    <dimen name="live_sdk_text_size_12">12.0dip</dimen>
+    <dimen name="live_sdk_text_size_13">13.0dip</dimen>
+    <dimen name="live_sdk_text_size_14">14.0dip</dimen>
+    <dimen name="live_sdk_text_size_15">15.0dip</dimen>
+    <dimen name="live_sdk_text_size_16">16.0dip</dimen>
+    <dimen name="live_sdk_text_size_18">18.0dip</dimen>
+
+    <dimen name="live_sdk_indicator_right_padding">10dp</dimen>
+    <dimen name="live_sdk_indicator_corner_radius">12dp</dimen>
+    <dimen name="live_sdk_indicator_internal_padding">4dp</dimen>
+    <dimen name="live_sdk_header_footer_left_right_padding">24dp</dimen>
+    <dimen name="live_sdk_header_footer_top_bottom_padding">12dp</dimen>
+</resources>

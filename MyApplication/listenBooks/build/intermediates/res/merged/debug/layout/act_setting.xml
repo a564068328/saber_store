@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="设置" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/userInfo_l"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp" >
+
+        <ImageView
+            android:id="@+id/userInfoIco"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/act_acc_info" />
+
+        <TextView
+            android:id="@+id/accInfoTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/userInfoIco"
+            android:text="@string/acc_complete"
+            android:textColor="@color/greyblack"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/userInfoBtn"
+            android:layout_width="7dp"
+            android:layout_height="17dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_item_left" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/help_l"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp" >
+
+        <ImageView
+            android:id="@+id/helpIco"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_help" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/helpIco"
+            android:text="帮助中心"
+            android:textColor="@color/greyblack"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/helpBtn"
+            android:layout_width="7dp"
+            android:layout_height="17dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_item_left" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/about_l"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="-1dp"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@color/fineline" />
+
+        <ImageView
+            android:id="@+id/aboutIco"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_about" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/aboutIco"
+            android:text="关于"
+            android:textColor="@color/greyblack"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/aboutBtn"
+            android:layout_width="7dp"
+            android:layout_height="17dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_item_left" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/up_versions_l"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="-1dp"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@color/fineline" />
+
+        <ImageView
+            android:id="@+id/up_versions"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_up_versions" />
+
+        <TextView
+            android:id="@+id/versions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/up_versions"
+            android:text="获取最新版本"
+            android:textColor="@color/greyblack"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/up_versions_Btn"
+            android:layout_width="7dp"
+            android:layout_height="17dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_item_left" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/up_acc"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_margin="12dp"
+        android:background="@drawable/l_ellipse_green"
+        android:gravity="center"
+        android:text="切换账号"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:background="@drawable/l_ellipse"
+        android:gravity="center"
+        android:text="注销登陆"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

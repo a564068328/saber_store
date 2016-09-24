@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="4dp"
+    android:background="#fff8fbfb"
+    
+    android:orientation="vertical" >
+<!--  android:background="@drawable/function_qianlv" -->
+    <View
+        android:layout_width="2dp"
+        android:layout_height="13dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/icon_left_line" />
+
+    <com.icloud.listenbook.unit.JustifyTextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="4dp"
+        android:drawablePadding="8dp"
+        android:singleLine="true"
+        android:gravity="center|left"
+        android:textColor="@color/item_title"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/name"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:background="@color/fineline" />
+
+</RelativeLayout>

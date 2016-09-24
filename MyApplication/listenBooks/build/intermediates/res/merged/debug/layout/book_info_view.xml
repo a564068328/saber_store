@@ -1,0 +1,232 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/white"
+        android:padding="10dp" >
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/gray"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@+id/type"
+            android:gravity="left|center"
+            android:lines="2"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@+id/icon"
+            android:singleLine="true"
+            android:textColor="@color/greyblack"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/aAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/type"
+            android:layout_below="@+id/name"
+            android:singleLine="true"
+            android:textColor="@color/item_chip_title"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/heat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/type"
+            android:layout_below="@+id/aAuthor"
+            android:singleLine="true"
+            android:textColor="@color/item_chip_title"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/goPlay"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/icon"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/orange_tab"
+            android:gravity="center"
+            android:height="40dp"
+            android:singleLine="true"
+            android:text="看书"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/vip"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_below="@+id/goPlay"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0dp"
+            android:text="开通VIP免费看书>"
+            android:textColor="#ff489c1D"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/below_line"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/vip"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/fineline" />
+
+        <RelativeLayout
+            android:id="@+id/collection_l"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/below_line"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/middle_line" >
+
+            <TextView
+                android:id="@+id/collection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableLeft="@drawable/icon_collection"
+                android:drawablePadding="4dp"
+                android:gravity="center"
+                android:text="收藏"
+                android:textColor="@color/item_chip_title"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/middle_line"
+            android:layout_width="1px"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/collection_l"
+            android:layout_alignTop="@+id/collection_l"
+            android:layout_below="@+id/vip"
+            android:layout_centerHorizontal="true"
+            android:background="@color/fineline" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/below_line"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/middle_line" >
+
+            <TextView
+                android:id="@+id/share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableLeft="@drawable/icon_share"
+                android:drawablePadding="4dp"
+                android:gravity="center"
+                android:text="分享"
+                android:textColor="@color/item_chip_title"
+                android:textSize="17sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/white"
+        android:paddingBottom="6dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="6dp" >
+
+        <TextView
+            android:id="@+id/content_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="内容介绍"
+            android:textColor="@color/item_chip_title"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/content_tip"
+            android:layout_alignParentRight="true"
+            android:text="时间"
+            android:textColor="@color/item_chip_title"
+            android:textSize="12sp" />
+
+        <View
+            android:id="@+id/content_line"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/content_tip"
+            android:layout_margin="2dp"
+            android:background="@color/fineline" />
+
+        <TextView
+            android:id="@+id/content_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/content_line"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/content_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/content_txt"
+            android:layout_marginRight="6dp"
+            android:layout_marginTop="6dp"
+            android:drawableRight="@drawable/icon_arrow_down"
+            android:text="全部 "
+            android:textColor="@color/item_chip_title"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/send_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/l_message"
+        android:drawableLeft="@drawable/icon_pen"
+        android:drawablePadding="4dp"
+        android:gravity="left|center_vertical"
+        android:hint="发表评论"
+        android:imeOptions="actionSend"
+        android:maxLength="120"
+        android:paddingLeft="8dp"
+        android:singleLine="true"
+        android:textColorLink="@color/item_chip_title"
+        android:textSize="14sp" />
+
+</LinearLayout>

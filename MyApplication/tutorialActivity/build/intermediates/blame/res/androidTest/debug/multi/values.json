@@ -1,0 +1,503 @@
+[
+    {
+        "outputFile": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 44,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 44,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 44,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 44,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 40,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 40,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 41,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 41,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 45,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 45,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 40,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 40,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 51,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 51,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 45,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 45,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 46,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 46,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 40,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 40,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 47,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 47,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 42,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 42,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 44,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 44,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 37,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 37,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 42,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 42,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 46,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 46,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 44,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 44,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 47,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 47,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 40,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 900,
+                        "endColumn": 40,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 44,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 44,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 41,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 41,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 44,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 44,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 49,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 49,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 47,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 47,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1565
+                    }
+                }
+            }
+        ]
+    }
+]

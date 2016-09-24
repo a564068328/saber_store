@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/live_sdk_main_bg"
+    android:orientation="vertical" >
+
+  <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:fadingEdge="none"
+        >
+   <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+ 
+
+       
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" > 
+          <include layout="@layout/live_list_head_layout" />
+            <com.yunva.live.sdk.ui.channel.widgt.MyGridView
+                android:id="@+id/grid_view"
+            	android:layout_width="match_parent"
+            	android:layout_height="match_parent"
+                android:numColumns="2"
+                android:horizontalSpacing="2dp"
+                android:listSelector="@color/live_sdk_transparent"
+                android:scrollingCache="false"
+                android:fadingEdge="none"
+                android:verticalSpacing="2dp"
+                android:scrollbars="none"/>
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/txt_no_data"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150dp"
+            android:drawablePadding="15dp"
+            android:drawableTop="@drawable/no_data_icon"
+            android:gravity="center"
+            android:text="亲，频道列表为空."
+            android:textColor="#ff201919"
+            android:textSize="@dimen/live_sdk_text_size_13"
+            android:visibility="visible" />
+    </FrameLayout>
+        </ScrollView>
+
+        
+</LinearLayout>

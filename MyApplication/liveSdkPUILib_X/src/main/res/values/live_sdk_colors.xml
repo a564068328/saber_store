@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="live_sdk_transparent">#00000000</color>
+    <color name="live_sdk_black">#ff000000</color>
+    <color name="live_sdk_white">#ffffffff</color>
+     <color name="live_sdk_main_bg">#f8f9fa</color>
+     <color name="live_sdk_yellow">#ffbe3f</color>
+      <color name="live_sdk_red">#ff6b6b</color>
+      <color name="live_sdk_iv_face_pressed">#461e17</color>
+      <color name="live_sdk_pure_blue">#2d94e2</color>
+      <color name="live_sdk_dark">#040404</color>
+      <color name="live_sdk_btn_dialog_default_bg_p">#d7d7d7</color>
+      <color name="live_sdk_dialog_main_color">#1085ed</color>
+      <color name="live_sdk_red1">#ff0000</color>
+      <color name="live_sdk_blue1">#5ab2f5</color>
+      <color name="live_sdk_gray">#808080</color>
+      <color name="live_sdk_recharge_main_bg">#fffaf5f5</color>
+       <color name="live_sdk_dark_gray">#5a6378</color>
+       <color name="live_sdk_blue">#1085ed</color>
+       <color name="dialog_tiltle_blue">#2277BB</color>
+</resources>

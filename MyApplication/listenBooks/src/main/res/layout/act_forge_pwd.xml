@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/titleTxt"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="重置密码" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/title_top_l"
+        android:orientation="vertical"
+        android:paddingBottom="12dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="6dp" >
+
+        <EditText
+            android:id="@+id/account"
+            style="@style/acc_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="请输入账号"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/password"
+            style="@style/pwd_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="输入重置密码[由6-10位数字英文组成]"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/confirm_password"
+            style="@style/pwd_edit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="确认密码"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="输入手机"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:paddingLeft="4dp"
+            android:singleLine="true"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/smsCode"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/edit_feedback"
+                android:gravity="left|center"
+                android:hint="输入验证码"
+                android:inputType="textEmailAddress"
+                android:maxLength="4"
+                android:paddingLeft="4dp"
+                android:singleLine="true"
+                android:textColorHint="@color/thingrey"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/smsGet"
+                android:layout_width="100dp"
+                android:layout_height="36dp"
+                android:layout_margin="6dp"
+                android:background="@color/green"
+                android:text="@string/get_code"
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/orange"
+            android:gravity="center"
+            android:text="重置"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

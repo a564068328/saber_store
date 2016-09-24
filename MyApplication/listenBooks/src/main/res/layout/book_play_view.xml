@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chapter_l"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="8dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/list_l"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp"
+        android:background="#fff8fbfb"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="13dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/icon_left_line" />
+
+        <TextView
+            android:id="@+id/chapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="4dp"
+            android:drawablePadding="8dp"
+            android:gravity="center"
+            android:textColor="@color/item_title"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/anthology"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:layout_toLeftOf="@+id/all_down"
+            android:drawableLeft="@drawable/icon_anthology"
+            android:drawablePadding="6dp"
+            android:text="选集"
+            android:textColor="@color/item_title"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/all_down"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:drawableLeft="@drawable/icon_down"
+            android:drawablePadding="6dp"
+            android:text="批量下载"
+            android:textColor="@color/item_title"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/line_down"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/chapter"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@color/fineline" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/chapter_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/line_down"
+            android:scrollbars="none" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/live_sdk_layout_gift_item"
+        android:layout_width="62dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center"
+        android:background="@drawable/live_sdk_gift_item_bg"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="62dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_gift_icon"
+                android:layout_margin="1dp"
+                android:layout_width="58dp"
+                android:layout_height="40dp"
+                android:scaleType="fitCenter"
+                android:layout_centerInParent="true"
+                android:src="@drawable/live_sdk_gift_default_icon" />
+
+            <ImageView
+                android:id="@+id/live_sdk_iv_parent_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/live_sdk_is_gift_parent_icon" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/live_sdk_txt_gift_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="超级跑车"
+            android:textColor="@color/live_sdk_black"
+            android:textSize="@dimen/live_sdk_text_size_12" />
+
+        <TextView
+            android:id="@+id/live_sdk_txt_gift_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="1.0金币"
+            android:textColor="#ffe73737"
+            android:textSize="@dimen/live_sdk_text_size_10" />
+    </LinearLayout>
+
+</LinearLayout>

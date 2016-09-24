@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Application theme. -->
+    <style name="myAppTheme" parent="AppBaseTheme">
+      <item name="android:listDivider">@drawable/divider_bg</item>  
+    </style>
+</resources>

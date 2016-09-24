@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">融通智慧学</string>
+    <string name="home_tip">融通智慧学</string>
+    <string name="recommend">推荐</string>
+    <string name="medium_type">分类</string>
+    <string name="ranking">排行</string>
+    <string name="chatroom">聊天室</string>
+    <string name="teach">大讲堂</string>
+    <string name="gongguo">功过格</string>
+    <string name="loading">加载中...</string>
+    <string name="loading_err_refresh_book">文章加载失败,请点击刷新</string>
+    <string name="null_datas">没有更多了</string>
+    <string name="zero_datas">暂无</string>
+    <string name="register_complete_tip">修改昵称，上传照片，个性签名全部完善赠送20个金币</string>
+    <string name="idea_tip">是否给予意见反馈？ 反馈意见有机会获得金币哦</string>
+    <string name="complete">完善</string>
+    <string name="feedback">反馈</string>
+    <string name="type_to">[%s]</string>
+    <string name="status_to">状态:&#160;%s</string>
+    <string name="aAuthor_to">作者:&#160;%s</string>
+    <string name="chapterNum_to">章节:&#160;%s</string>
+    <string name="musicaAuthor_to">播音:&#160;%s</string>
+    <string name="heat_to">人气:&#160;%s</string>
+    <string name="time_to">上传时间:&#160;%s</string>
+    <string name="search">搜索</string>
+    <string name="cancel">取消</string>
+    <string name="comments_erro">发表评论失败</string>
+    <string name="collect">收藏</string>
+    <string name="un_collect">取消收藏</string>
+    <string name="download_manage">下载管理</string>
+    <string name="download_no_wifi">当前不是WIFI环境是否下载</string>
+    <string name="download_del">是否删除</string>
+    <string name="download_all">删除所有下载</string>
+    <string name="del">删除</string>
+    <string name="close">关闭</string>
+    <string name="download_runing">下载中</string>
+    <string name="download">下载</string>
+    <string name="download_pause">暂停</string>
+    <string name="download_succe">完成</string>
+    <string name="download_failed">下载失败</string>
+    <string name="currency_tip_vedio">观看本视频将会扣费%.0f金币</string>
+    <string name="currency_tip_book">阅读本章节将会扣费%.0f金币</string>
+    <string name="currency_tip_voice">听这首音乐将会扣费%.0f金币</string>
+    <string name="buy">购买</string>
+    <string name="currency">%.0f金币</string>
+    <string name="currency_expend">消耗%.0f金币</string>
+    <string name="currency_un">金币不足</string>
+    <string name="currency_un_tip">%1$s需要%2$.0f金币,目前您只有%3$.0f金币</string>
+    <string name="bind_acc">绑定账号</string>
+    <string name="acc_complete">完善账号</string>
+    <string name="system_info">消息通告</string>
+    <string name="acc_up_bind">修改绑定</string>
+    <string name="up_user_info">修改用户信息</string>
+    <string name="tip">提示</string>
+    <string name="add_friend">加为好友</string>
+    <string name="del_friend">删除好友</string>
+    <string name="signature_tip">签名:%s</string>
+    <string name="submit">提交</string>
+    <string name="compile">编辑</string>
+    <string name="network_erro">网络异常</string>
+    <string name="get_code">获取验证码</string>
+    <string name="delay_get_code">%s秒后再获取</string>
+    <string name="no_room">没有房间</string>
+    <string name="request_login">请登录</string>
+    <string name="share_defa">我正在融通智慧App观看《%s》</string>
+    <string name="version_tip">检测到新版本</string>
+    <string name="version_msg">是否更新</string>
+    <string name="updata">更新</string>
+    <string name="confirm">确定</string>
+    <string name="warning">警告</string>
+    <string name="continue_tip">继续</string>
+    <string name="no_tip">不再提示</string>
+    <string name="no_wifi_warning">当前不是WIFI环境,请注意流量的使用！</string>
+    <string name="tts_no_wifi_warning">暂只支持在线语音朗诵，当前不是WIFI环境,请注意流量的使用！</string>
+    <string name="voices_no_wifi_warning">当前不是WIFI环境,是否还要继续播放？</string>
+    <string name="no_network_warning">请连接网络!</string>
+    <string name="toast_info_no_sdcard">请先安装SD卡</string>
+    <string name="toast_info_pic_title">头像设置</string>
+    <string name="toast_style_pic_title">图片上传</string>
+    <string name="toast_info_pic_tip">禁止上传黄色,暴力等违法图片,否则将做封号处理!</string>
+    <string name="toast_info_pic_pic">相册</string>
+    <string name="toast_info_pic_photo">拍照</string>
+    <string name="recommended">推荐</string>
+    <string name="copy">复制</string>
+    <string name="pop_share_past_tip">分享内容已经复制</string>
+    <string name="pop_share_desc">是一款能增长学问的听书app, 成功下载本app, 系统将赠送您和您的推荐人各100金币.</string>
+    <string name="pop_share_tip">\t\t每成功推荐一位新用户加入%1$s,系统将赠送您100金币,新玩家也能获取100金币，多推多得金币。</string>
+    <string name="pop_share_title_tip">推荐得大奖</string>
+    <string name="gold">金币:%.0f</string>
+    <string name="uidStr">uid:%s</string>
+    <string name="MembersList">会员风采</string>
+    <string name="GreatMaster">中外精英人物</string>
+    <string name="aboutInfo">\t 深圳心时空文化发展有限公司是一个以“融通智慧学”学问体系为核心，
+        以"顿悟式教育"在线教育平台与线下培训为核心业务，传播大智慧文化的公司。
+公司在认知科学（心智科学）领域，在高效学习、高效领悟、贯通各类专业学问，及思维力源头修炼的心智开发方面引领全球。拥有全球最具智慧性的“融通智慧学”学问体系知识产权。 
+以“融通智慧学”为核心的“顿悟式教育”是将人类最深妙学问——“禅宗”的顿悟学原理普及于世道社会和现代文明。亦是人类未来学习的主要方式和教育变革的必然趋势，具完全空白的蓝海市场，欢迎有志于社会心智教育和传播大智慧文化的仁人志士加盟。
+\n
+李老师  13632795817(微信liwenjuan082020)\n
+任老师 13510200793（微信liushuobinlaoshi）</string>
+    <string name="helpInfo">\t 
+        1.在游戏商店内购买金币。  \n\t
+        2.完善资料或者意见反馈有概率获取到金币。\n\t
+        3.每成功推荐一位新用户加入,系统将赠送您100金币,新玩家也能获取100金币，多推多得金币。</string>
+    <string name="input_friend_uid">输入好友UID</string>
+    <string name="add">添加</string>
+    <string name="voice_notification_title">融通智慧学</string>
+    <string name="voice_notification_msg">正在播放%s</string>
+    <string name="task">{\"feedback\": { \"title\": \"是否给予意见反馈？反馈意见有机会获得金币哦\",\"conut\": 5 },\"complete\": {\"title\": \"修改昵称，上传照片，个性签名全部完善赠送20个金币\"}}</string>
+    <string name="SystemMsg">消息通告</string>
+    <string name="versionsTip">获取最新版[当前版本%s]</string>
+    <string name="yy_load_01">大讲堂登录中,请稍等.</string>
+    <string name="yy_load_02">大讲堂播放列表初始化,请稍等.</string>
+    <string name="yy_load_03">大讲堂列表加载完毕!</string>
+    <string name="yy_load_erro">大讲堂加载失败请稍后!</string>
+    <string name="MeritTable">人生福报富贵修为</string>
+    <string name="SecondTop">\t\t\t人生成功与家运昌盛的真正原因——福德和智慧资粮</string>
+    <string name="SecondBody">中华几千年的命理智慧揭示：人生的成功与家运昌盛决定于生命的福报，福报将造就我们先、后天机遇与成功的大小。术数虽可以暂时催运或暂时避凶，终究与福报无关。培植福报只有一条途径：利他，即利益社会、利益他人、利益环境。利他或克己即是功，损他或为我即是过。欠下的终究要还，付出的终究受益。天地万物，事无巨细，因果不虚。\n
+真心付出自己的精力、时间，努力进取是功；\n
+认真做事，凡事有责任心，敢于担当是功；\n
+财布施、法布施、无畏布施是功；\n
+真心赞赏、欣赏他人，常看他人长处是功；\n
+爱护环境、爱护花草树木，爱护一切生灵是功；\n
+尊重社会规范，恭敬对待一切，真心待人，诚实守信是功；\n
+起心动念首先为他人考虑，常怀善心是功；\n
+认真反省自己，忏悔自己过失，善言善行善待一切是功；\n
+谦虚谨慎，沉稳踏实，不妄言谄语，清净是功；\n
+尊师重道，诚心于学问，真心探究生命真实宇宙真理是功；\n
+正心、正念、正识、正见、正信是功；\n
+时刻觉醒觉悟，时刻内省、内观、內证修行是功；\n
+……\n
+反之，皆是过。</string>
+    <string name="SecondFoot">每日认真填写功过格，检视自己功过，反省自己，本身即是培植福报与开启心智的根本修为。遵守者每日奖励20金币，填好后在表格末点击领奖按钮。</string>
+    <string name="ThirdTop">每日功过记录统计表</string>
+    <string name="ThirdTop2">（检视当日心有所感事件）</string>
+    <string name="edittitle">请输入内容</string>
+    <string name="sumbit">提交</string>
+    <string name="txsearch">请用下列按钮按日期搜索历史功过数据</string>
+    <string name="del_chatmsg_warning">清空聊天室记录后，聊天记录将不可恢复，您确定要继续删除吗？</string>
+
+    <!-- 合成 -->
+    <string-array name="engine_entries">
+        <item>本地合成</item>
+        <item>在线合成</item>
+    </string-array>
+    <string-array name="engine_values">
+        <item>local</item>
+        <item>cloud</item>
+    </string-array>
+    <string-array name="voicer_cloud_entries">
+        <item>小燕—女青、中英、普通话</item>
+        <item>小宇—男青、中英、普通话</item>
+        <item>小新—男童、中、普通话</item>
+        <item>楠楠—女童、中、普通话</item>
+        <item>老孙—男老、中、普通话</item>
+    </string-array>
+    <string-array name="voicer_cloud_values">
+        <item>xiaoyan</item>
+        <item>xiaoyu</item>
+        <item>xiaoxin</item>
+        <item>nannan</item>
+        <item>vils</item>
+    </string-array>
+    <string-array name="emot_entries">
+        <item>正常</item>
+        <item>高兴</item>
+        <item>悲伤</item>
+        <item>生气</item>
+    </string-array>
+    <string-array name="emot_values">
+        <item>neutral</item>
+        <item>happy</item>
+        <item>sad</item>
+        <item>angry</item>
+    </string-array>
+    <string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>
+    <string name="tv_speed" formatted="false">语速范围为0至100，当前为%d</string>
+    <string name="tv_volume" formatted="false">音量范围为0至100，当前为%d</string>
+    <string name="mrkmr">打开心智，顿悟智慧！——《迷人看名人》频道\n是刘硕斌（法喜）老师以深厚的国学功底，\n从当前名人的相格、心智及其对应的成功、富贵，\n进行综合点评的一个前沿级智慧解析频道。\n如何智慧识人？\n什么才是人生成功的真相？\n如何知命？\n如何转变先天命数？\n
+如何掌控后天运数？\n
+随着频道的不断推出，在各位大佬级的印证和解析中很容易看清真相，敬请关注！</string>
+
+</resources>

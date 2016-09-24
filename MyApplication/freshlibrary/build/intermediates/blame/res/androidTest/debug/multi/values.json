@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 63,
+                    "endOffset": 1656
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 63,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1661,
+                    "endColumn": 63,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 63,
+                        "endOffset": 1720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 54,
+                    "endOffset": 1775
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 1725,
+                        "endColumn": 54,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1780,
+                    "endColumn": 56,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 56,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endColumn": 54,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endColumn": 54,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endColumn": 37,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 37,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 39,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1930,
+                        "endColumn": 39,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 36,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 36,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endColumn": 101,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 101,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 113,
+                    "endOffset": 2218
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 113,
+                        "endOffset": 2218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2223,
+                    "endColumn": 107,
+                    "endOffset": 2326
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2223,
+                        "endColumn": 107,
+                        "endOffset": 2326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2331,
+                    "endColumn": 71,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2331,
+                        "endColumn": 71,
+                        "endOffset": 2398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 69,
+                    "endOffset": 2468
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2403,
+                        "endColumn": 69,
+                        "endOffset": 2468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2473,
+                    "endColumn": 77,
+                    "endOffset": 2546
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\freshlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2473,
+                        "endColumn": 77,
+                        "endOffset": 2546
+                    }
+                }
+            }
+        ]
+    }
+]

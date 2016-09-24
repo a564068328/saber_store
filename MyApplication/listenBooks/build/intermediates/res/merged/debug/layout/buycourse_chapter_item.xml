@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/button_transparent" >
+
+    <TextView
+        android:id="@+id/tv_chapter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="7dp"
+        android:layout_toLeftOf="@+id/tv_buy_status"
+        android:textColor="#a000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_buy_status"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/tv_chapter"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/tv_go"
+        android:background="@drawable/textview_blue"
+        android:text="未购买"
+        android:textColor="@color/blue"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_go"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/tv_chapter"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/icon_item_left" />
+
+    <TextView
+        android:visibility="gone"
+        android:textColor="#9000"
+        android:textSize="12sp"
+        android:id="@+id/tv_tip"
+        android:layout_alignLeft="@+id/tv_chapter"
+        android:layout_below="@+id/tv_chapter"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

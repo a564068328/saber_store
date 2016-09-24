@@ -1,0 +1,25 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 9
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/eventbus-2.2.0.jar')
+    compile files('libs/yaya_gson.jar')
+    compile files('libs/yaya_livesdk_1.5.7_201602251142_release_android.jar')
+    compile files('libs/yaya_livesdk_p_ui_x_1.2.2_201602251409_release_android.jar')
+}

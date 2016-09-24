@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="国学精髓公益课堂" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@android:color/white"
+        android:checkedButton="@+id/msgBtn"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <RadioButton
+            android:id="@+id/chantBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="经典诵读" />
+
+        <RadioButton
+            android:id="@+id/lessonBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="顿悟功课" />
+    </RadioGroup>
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="4dp" >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tv_end"
+            android:scrollbars="none" />
+
+        <include layout="@layout/chant_view" />
+
+        <TextView
+            android:id="@+id/tv_end"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_orange"
+            android:gravity="center"
+            android:text="查看往期顿悟功课"
+            android:textColor="#dfff"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="#fff"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <com.icloud.listenbook.ui.custom.CustomProgressBar
+                android:layout_gravity="center_horizontal"
+                style="@style/mycustomprocessbar" />
+
+            <TextView
+                android:id="@+id/tv_progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="努力加载中,请稍候"
+                android:textColor="@color/gray" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/base_title"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@android:color/white"
+        android:checkedButton="@+id/msgBtn"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <RadioButton
+            android:id="@+id/msgBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="详情.评论" />
+
+        <RadioButton
+            android:id="@+id/dataBtn"
+            style="@style/boutique_rg_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="内容" />
+    </RadioGroup>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="4dp" >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" />
+
+        <include layout="@layout/book_play_view" />
+    </RelativeLayout>
+
+</LinearLayout>

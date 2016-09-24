@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dlg_bg"
+    android:orientation="vertical" >
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="adasd"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:maxLength="100"
+            android:hint="该项无记录~"
+            android:id="@+id/msg"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:singleLine="false"
+            android:enabled="false"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="top"
+            android:maxLines="6"
+            android:minLines="5"
+            android:scrollbars="vertical"
+            android:background="@drawable/edit_feedback"
+            android:textColor="#e000"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:id="@+id/bottom"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_margin="4dp"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="8dp"
+                android:layout_height="match_parent" />
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/dlg_btn"
+                android:gravity="center"
+                android:text="确定"
+                android:textColor="@color/greyblack"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="8dp"
+                android:layout_height="match_parent" />
+
+            
+        </LinearLayout>
+    
+
+</LinearLayout>

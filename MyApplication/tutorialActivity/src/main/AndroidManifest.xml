@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.braunster.tutorialview" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <application>
+        <activity
+            android:name="com.braunster.tutorialview.TutorialActivity"
+            android:theme="@style/TutorialActivityTheme" />
+    </application>
+
+</manifest>

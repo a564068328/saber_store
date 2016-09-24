@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/live_sdk_main_bg" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TabWidget 
+            android:id="@android:id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/main_header_bg">
+            <Button 
+                android:id="@+id/btn_richlist_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_back_bg"/>
+            <TextView 
+                android:id="@+id/tv_list_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:text="富豪榜"  
+                android:textColor="@color/live_sdk_white"
+                android:textSize="@dimen/live_sdk_text_size_15"/>
+        </RelativeLayout>
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+            <Button 
+                android:id="@+id/btn_tab_day"
+                style="@style/live_sdk_frame_button"
+                android:text="日榜"/>
+            <Button 
+                android:id="@+id/btn_tab_week"
+                style="@style/live_sdk_frame_button"
+                android:text="周榜"/>
+            <Button 
+                android:id="@+id/btn_tab_month"
+                style="@style/live_sdk_frame_button"
+                android:text="月榜"/>  
+            <!-- <Button 
+                android:id="@+id/btn_tab_all"
+                style="@style/frame_button"
+                android:text="总榜"/> --> 
+        </LinearLayout>
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line_1"/>
+        <FrameLayout 
+            android:id="@android:id/tabcontent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</TabHost>

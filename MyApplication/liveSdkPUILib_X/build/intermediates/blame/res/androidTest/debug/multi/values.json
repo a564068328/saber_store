@@ -1,0 +1,950 @@
+[
+    {
+        "outputFile": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 50,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 50,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 47,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 47,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 48,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 48,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 66,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 66,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 47,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 47,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 52,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 52,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 60,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 60,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 47,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 47,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 58,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 58,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 50,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 50,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 52,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 52,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 61,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 61,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 46,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 46,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 47,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 47,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 56,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 56,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 50,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 50,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 49,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 49,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 72,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 72,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 72,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 72,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endColumn": 63,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 63,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 65,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 65,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 63,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1287,
+                        "endColumn": 63,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 53,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 53,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 53,
+                    "endOffset": 1454
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 53,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1459,
+                    "endColumn": 52,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 52,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 55,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1512,
+                        "endColumn": 55,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endColumn": 55,
+                    "endOffset": 1619
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 55,
+                        "endOffset": 1619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1624,
+                    "endColumn": 55,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1624,
+                        "endColumn": 55,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endColumn": 55,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 55,
+                        "endOffset": 1731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 55,
+                    "endOffset": 1787
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1736,
+                        "endColumn": 55,
+                        "endOffset": 1787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1792,
+                    "endColumn": 55,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1792,
+                        "endColumn": 55,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 55,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1848,
+                        "endColumn": 55,
+                        "endOffset": 1899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1904,
+                    "endColumn": 55,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1904,
+                        "endColumn": 55,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 53,
+                    "endOffset": 2009
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1960,
+                        "endColumn": 53,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2014,
+                    "endColumn": 53,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2014,
+                        "endColumn": 53,
+                        "endOffset": 2063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 62,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2068,
+                        "endColumn": 62,
+                        "endOffset": 2126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2131,
+                    "endColumn": 64,
+                    "endOffset": 2191
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2131,
+                        "endColumn": 64,
+                        "endOffset": 2191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2196,
+                    "endColumn": 62,
+                    "endOffset": 2254
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2196,
+                        "endColumn": 62,
+                        "endOffset": 2254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2259,
+                    "endColumn": 61,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 61,
+                        "endOffset": 2316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 62,
+                    "endOffset": 2379
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2321,
+                        "endColumn": 62,
+                        "endOffset": 2379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endColumn": 62,
+                    "endOffset": 2442
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2384,
+                        "endColumn": 62,
+                        "endOffset": 2442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2447,
+                    "endColumn": 62,
+                    "endOffset": 2505
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2447,
+                        "endColumn": 62,
+                        "endOffset": 2505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2510,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2714
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2510,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2719,
+                    "endLine": 58,
+                    "endColumn": 9,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2719,
+                        "endLine": 58,
+                        "endColumn": 9,
+                        "endOffset": 3295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endLine": 69,
+                    "endColumn": 9,
+                    "endOffset": 3882
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3300,
+                        "endLine": 69,
+                        "endColumn": 9,
+                        "endOffset": 3882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3887,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 4432
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3887,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 4432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4437,
+                    "endLine": 87,
+                    "endColumn": 12,
+                    "endOffset": 4981
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4437,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 4981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4986,
+                    "endLine": 96,
+                    "endColumn": 9,
+                    "endOffset": 5477
+                },
+                "from": {
+                    "file": "E:\\GitStore\\ListenbookApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4986,
+                        "endLine": 96,
+                        "endColumn": 9,
+                        "endOffset": 5477
+                    }
+                }
+            }
+        ]
+    }
+]

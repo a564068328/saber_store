@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_bg_orange.xml",
+        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_bg_orange.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_edge_blue_dark.xml",
+        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_edge_blue_dark.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_blue.xml",
+        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_blue.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_edge_blue_right.xml",
+        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_edge_blue_right.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_edge.xml",
+        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_edge.xml"
+    }
+]

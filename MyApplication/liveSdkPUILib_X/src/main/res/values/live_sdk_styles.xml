@@ -1,0 +1,58 @@
+<resources>
+    
+    <style name="live_sdk_GiftMianMenuDialog" parent="@android:style/Theme.Dialog">  
+		<item name="android:baselineAlignBottom">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">false</item>  
+		<item name="android:backgroundDimEnabled">false</item> 
+    	<item name="android:windowAnimationStyle">@style/live_sdk_BottomMenuPanel</item> 
+	</style>
+	
+    <style name="live_sdk_GiftSubitemMenuDialog" parent="@android:style/Theme.Dialog">  
+		<item name="android:baselineAlignBottom">true</item>
+		<item name="android:windowBackground">@color/live_sdk_transparent</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowIsFloating">true</item>
+		
+		<item name="android:windowIsTranslucent">true</item>  
+		<item name="android:backgroundDimEnabled">false</item> 
+    	<item name="android:windowAnimationStyle">@style/live_sdk_BottomMenuPanel</item> 
+	</style>
+	
+    <style name="live_sdk_BottomMenuPanel">
+        <item name="android:windowEnterAnimation">@anim/slide_in_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_down</item>
+    </style>
+    
+	 <style name="live_sdk_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/live_sdk_transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+    <style name="live_sdk_frame_button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/frame_button_bg</item>
+        <item name="android:textColor">@drawable/frame_button_text_light</item>
+        <item name="android:textSize">@dimen/live_sdk_text_size_15</item>
+        <!-- <item name="android:drawableBottom">@drawable/frame_button_bottom_bg</item> -->
+    </style>
+     <style name="live_sdk_live_dialog" parent="@android:style/Theme.Dialog">  
+		<!-- <item name="android:baselineAlignBottom">false</item> -->
+		<item name="android:windowBackground">@color/live_sdk_transparent</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">true</item>  
+		<item name="android:backgroundDimEnabled">true</item> 
+	</style>
+</resources>

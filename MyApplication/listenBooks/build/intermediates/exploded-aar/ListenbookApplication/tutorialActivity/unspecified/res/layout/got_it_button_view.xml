@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/got_it_button_view"
+    android:layout_width="60dp"
+    android:layout_height="40dp"
+    android:background="@drawable/button_blue"
+    android:fontFamily="sans-serif-condensed"
+    android:padding="5dp"
+    android:text="@string/got_it_button_text"
+    android:textColor="@color/orange"
+    android:textSize="20sp" />
+
+<!-- android:background="@drawable/button_edge" -->
