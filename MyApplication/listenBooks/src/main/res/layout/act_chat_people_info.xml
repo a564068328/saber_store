@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="在线人员详情" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/advertising"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_advertising"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/onlinecount"
+        android:layout_width="match_parent"
+        android:layout_height="18dp"
+        android:background="#fff"
+        android:gravity="center"
+        android:textColor="#9000"
+        android:layout_margin="1dp"
+        android:textSize="12sp" />
+
+  
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#ffff0000"
+            android:dividerHeight="10dp" >
+        </android.support.v7.widget.RecyclerView>
+
+        <RelativeLayout
+            android:id="@+id/ll_progress"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff" >
+
+            <ProgressBar
+                android:id="@+id/pb_progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="5dp"
+                android:indeterminateDrawable="@drawable/custom_progress" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_below="@id/pb_progress"
+                android:layout_centerInParent="true"
+                android:ellipsize="end"
+                android:padding="4dp"
+                android:text="正在拼命加载中。。。"
+                android:textColor="@color/orange"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

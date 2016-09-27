@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/query_l"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/title_top_l"
+    android:orientation="horizontal"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp" >
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="2dp"
+        android:layout_toLeftOf="@+id/search"
+        android:background="@drawable/txt_box"
+        android:hint="书名/作者"
+        android:paddingLeft="6dp"
+        android:paddingRight="24dp"
+        android:singleLine="true"
+        android:textColor="@color/greyblack"
+        android:textColorHint="@color/item_chip_title"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/clear"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignRight="@+id/edit"
+        android:layout_alignTop="@+id/edit"
+        android:padding="6dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_empty" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="6dp"
+        android:background="@drawable/txt_box"
+        android:text="@string/cancel"
+        android:textColor="@color/orange"
+        android:textSize="16sp" />
+
+</RelativeLayout>

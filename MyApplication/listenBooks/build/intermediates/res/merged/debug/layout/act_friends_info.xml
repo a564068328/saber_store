@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical"
+    tools:ignore="MergeRootFrame" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:background="@drawable/user_l_bg" >
+
+        <TextView
+            android:id="@+id/userState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="8dp"
+            android:background="@drawable/txt_white_box"
+            android:padding="4dp"
+            android:text="加为好友"
+            android:textColor="@android:color/white"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_white_back" />
+
+        <com.android.volley.toolbox.CircleNetworkImageView
+            android:id="@+id/userIcon"
+            android:layout_width="49dp"
+            android:layout_height="49dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/user_defa_icon" />
+
+        <TextView
+            android:id="@+id/uid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/userIcon"
+            android:layout_marginLeft="33dp"
+            android:text="uid:"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/userIcon"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@+id/userIcon"
+            android:drawablePadding="4dp"
+            android:text="name"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/signature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/userName"
+            android:layout_below="@+id/userName"
+            android:layout_marginLeft="2dp"
+            android:singleLine="true"
+            android:text="签名:暂无"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:paddingBottom="8dp"
+        android:paddingTop="6dp" >
+
+        <TextView
+            android:id="@+id/collectConut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/middle"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/cyangrey"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/collectTip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/collectConut"
+            android:layout_marginTop="4dp"
+            android:layout_toLeftOf="@+id/middle"
+            android:gravity="center"
+            android:text="收藏"
+            android:textColor="@android:color/black"
+            android:textSize="17sp" />
+
+        <View
+            android:id="@+id/middle"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:layout_centerInParent="true" />
+
+        <TextView
+            android:id="@+id/friendsConut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/middle"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/cyangrey"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/friendsTip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/friendsConut"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@+id/middle"
+            android:gravity="center"
+            android:text="好友"
+            android:textColor="@android:color/black"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/sendMessage"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:visibility="invisible" >
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="17dp"
+            android:background="@drawable/icon_message" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="给TA发信息"
+            android:textColor="@color/greyblack"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</LinearLayout>

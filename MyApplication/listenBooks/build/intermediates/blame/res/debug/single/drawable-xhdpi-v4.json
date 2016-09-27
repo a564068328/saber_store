@@ -1,922 +1,970 @@
 [
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_on.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\btn_check_on.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_00.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_item_tip_00.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_help.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_help.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_play.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_vedio_play.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_ellipse_green.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\l_ellipse_green.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_tab.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\orange_tab.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\enter_gyk.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\enter_gyk.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_stop.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_stop.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_qianlv.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\function_qianlv.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_btn.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\dlg_btn.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gongguo_bg.jpg",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\gongguo_bg.jpg"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_go_right.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_go_right.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_logo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ico_logo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_message.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\l_message.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_recent_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_right_pressed.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_symbols_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_symbols_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_top_l.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\title_top_l.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_symbols_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_symbols_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\child_image.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\child_image.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_down.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_down.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_pressed.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\checkbox_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_up.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_arrow_up.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_medium_type.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ico_medium_type.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_play.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_play.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_pressed_holo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_pressed_holo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_defa_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\user_defa_icon.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kong.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\kong.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_defa_icon.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\user_defa_icon.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_dafult.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\checkbox_dafult.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_search.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ico_search.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_msg_red.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_msg_red.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_02.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_item_tip_02.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_pressed_holo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_pressed_holo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_tab.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\download_tab.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_white_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_white_back.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_default.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_left_default.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pen.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_pen.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_lllbutton_normal.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\function_lllbutton_normal.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_refresh.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_refresh.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_box.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\txt_box.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_list_more.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ic_list_more.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_buy.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_buy.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\foxiang.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\foxiang.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_greenbutton_normal.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\function_greenbutton_normal.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_buy.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_buy.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_people_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_people_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_chapter_del.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_chapter_del.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_anthology.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_anthology.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\keyboard_background_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\keyboard_background_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_idea.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_idea.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb2.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\seek_thumb2.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_reduce_size.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\text_reduce_size.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_moreoverflow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_moreoverflow.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_box.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\txt_box.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_objects_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_objects_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_empty.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_empty.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\checkbox_pressed.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_nature_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_nature_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\local_lilte_popup_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\local_lilte_popup_bg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_btn.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\dlg_btn.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_up_versions.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_up_versions.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\seek.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_up.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_up.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_track_holo_dark.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_track_holo_dark.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_loading_ad.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_loading_ad.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_box_left.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\msg_box_left.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_collection_ing.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_collection_ing.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left_go.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_left_go.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_secondary_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_secondary_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_recent_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_disabled_holo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_disabled_holo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\num_red_bg.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\num_red_bg.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boutique_tab_checked.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\boutique_tab_checked.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_logo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_logo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_music.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_item_music.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_envelop.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_envelop.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_primary_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_primary_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_line.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_bluebutton_normal1.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\function_bluebutton_normal1.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_listen.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_listen.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_msg.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_msg.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_add_tip.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\msg_add_tip.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dafult.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\dafult.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_medium_type_clone.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_medium_type_clone.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toast_bg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\toast_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_advertising.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\default_advertising.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_group.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\user_group.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xsearch_loading.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\xsearch_loading.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_normal_holo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_normal_holo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_del.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_del.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_ellipse.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\l_ellipse.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_about.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_about.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_double_arrow.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_double_arrow.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\foxiang.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\foxiang.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_blue2_bg.jpg",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\chat_blue2_bg.jpg"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_setting.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_white_box.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\txt_white_box.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_places_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_places_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_primary_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_primary_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_book.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_item_book.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_logo_samll.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_logo_samll.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_default_voice.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_default_voice.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_add_size.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\text_add_size.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_idea.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_idea.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_members.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_members.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emoj_icon.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\emoj_icon.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_up_head.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_up_head.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_places_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_places_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_feedback.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\edit_feedback.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_like.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_like.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_tab_checked.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\download_tab_checked.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_listview_headview_red_arrow.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\common_listview_headview_red_arrow.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_recent_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\act_acc_info.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\act_acc_info.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\act_acc_info.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\act_acc_info.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_bg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\dlg_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_default.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_right_default.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_box_right.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\msg_box_right.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\security_progress_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\security_progress_bg.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_people_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_people_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\master.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_gray.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\txt_gray.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_00.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_item_00.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_qr_code.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\about_qr_code.jpg"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pic_list_type.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_pic_list_type.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_collection.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_collection.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_moreoverflow.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_moreoverflow.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_video.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_item_video.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white_grey.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\white_grey.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emoj_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\emoj_icon.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_setting.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\md_nav_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable-xhdpi-v4\\md_nav_back.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_yellowbutton_normal.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\function_yellowbutton_normal.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_msg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_msg.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\master.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gong.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\gong.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_about.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_about.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_nature_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_nature_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_left.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_item_left.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_brightness.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_brightness.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_white_box.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\txt_white_box.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chant.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\chant.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_nature_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_nature_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\enter_gyk.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\enter_gyk.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\play_error.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\play_error.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_back.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_vedio_back.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_bg.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\seek.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_great_master.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_great_master.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_ab_back_holo_dark.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_ab_back_holo_dark.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_down.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_vedio_down.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\play_error.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\play_error.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chant.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\chant.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_anthology.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_anthology.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\seek_thumb.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\local_popup_bg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\local_popup_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_add_size.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\text_add_size.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_go_right.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_go_right.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\security_progress.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\security_progress.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boutique_tab_checked.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\boutique_tab_checked.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_track_holo_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_track_holo_dark.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\security_progress_bg.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\security_progress_bg.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vip.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_vip.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\seek_thumb2.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_tab_checked.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_tab_checked.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_fullscreen_shrink.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_fullscreen_shrink.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_audio_vol.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\userinfo_tab_checked.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\userinfo_tab_checked.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_down.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_arrow_down.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_default_voice.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_default_voice.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_reading.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_reading.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_places_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_places_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\seek_thumb.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_left.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_item_left.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\local_lilte_popup_bg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\local_lilte_popup_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\date.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_pressed.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_right_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_down.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_down.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_play.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_vedio_play.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_recommended.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_recommended.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_qianlv.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\function_qianlv.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\widget_bg_portrait_child_divider.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_brightness.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_brightness.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_ellipse_green.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\l_ellipse_green.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_media_pause.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_media_pause.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\child_image.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\child_image.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_media_play.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_media_play.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_down.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_down.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_l_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\user_l_bg.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\userinfo_tab_checked.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\userinfo_tab_checked.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol_mute.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_audio_vol_mute.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_start.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\progress_start.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tip_red.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tip_red.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_stop.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_stop.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xsearch_loading.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\xsearch_loading.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_fullscreen_shrink.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_fullscreen_shrink.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_tab.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\download_tab.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_greenbutton_normal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\function_greenbutton_normal.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_item_selected.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\action_item_selected.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gongguo_bg.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\gongguo_bg.jpg"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_envelop.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_envelop.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_empty.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_empty.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\date.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_list_more.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ic_list_more.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\local_popup_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\local_popup_bg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_symbols_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_symbols_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_down.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_vedio_down.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_message.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\l_message.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white_grey.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\white_grey.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_play.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_play.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_l_bg.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\user_l_bg.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\guo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_bg.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_bg.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qclouid_player_control_focused_holo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qclouid_player_control_focused_holo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_collection_ing.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_collection_ing.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\keyboard_background_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\keyboard_background_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_up.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_up.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_group.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\user_group.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gong.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\gong.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ate_check.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\drawable-xhdpi-v4\\ate_check.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_line_discard.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_line_discard.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_01.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_item_tip_01.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qclouid_player_control_focused_holo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qclouid_player_control_focused_holo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_music.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_item_music.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_msg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\edit_msg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_default_img.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_default_img.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_tab_checked.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\download_tab_checked.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_advertising.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\default_advertising.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_end.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\progress_end.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_members.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_members.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_down.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_down.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_dafult.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\checkbox_dafult.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_up.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_arrow_up.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pic_list_type.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_pic_list_type.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\dlg_bg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_nature_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_nature_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_all_del.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_all_del.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_01.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_item_tip_01.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_down.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_arrow_down.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\guo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_left_pressed.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boutique_tab.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\boutique_tab.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_search.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_search.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\userinfo_tab.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\userinfo_tab.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_msg_red.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_msg_red.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_fullscreen_stretch.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_fullscreen_stretch.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_fullscreen_stretch.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_fullscreen_stretch.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_start.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\progress_start.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_reading.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_reading.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_qr_code.jpg",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\about_qr_code.jpg"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_tab.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\orange_tab.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\popup.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_share.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_share.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_audio_vol.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\txt_gray.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\txt_gray.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_video.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_item_video.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_00.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_item_00.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_all_del.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_all_del.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_normal_holo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_normal_holo.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_bkg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\seek_bkg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_tab.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_tab.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_feedback.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\edit_feedback.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sym_keyboard_delete_holo_dark.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\sym_keyboard_delete_holo_dark.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vip.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_vip.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\table_bottom_bg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_tab_checked.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_tab_checked.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_end.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\progress_end.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_play.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_play.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_bg.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\table_bottom_bg.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tip_red.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tip_red.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\popup.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left_line.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_left_line.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_symbols_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_symbols_light_normal.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_recommended.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_recommended.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_pressed.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_left_pressed.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_box_left.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\msg_box_left.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_message.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_message.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_blue2_bg.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\chat_blue2_bg.jpg"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_ranking.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ico_ranking.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_yellowbutton_normal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\function_yellowbutton_normal.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_share.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_music_share.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_default.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_left_default.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_teach.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_teach.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_secondary_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_secondary_holo.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_del.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_del.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_people_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_people_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\num_red_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\num_red_bg.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_objects_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_objects_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_bluebutton_normal1.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\function_bluebutton_normal1.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sym_keyboard_delete_holo_dark.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\sym_keyboard_delete_holo_dark.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_ranking.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_ranking.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\freshlibrary\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_off.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\btn_check_off.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_default.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_right_default.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_chapter_del.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_chapter_del.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\userinfo_tab.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\userinfo_tab.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_recent_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_great_master.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_great_master.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_double_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_double_arrow.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_control_disabled_holo.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_control_disabled_holo.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_media_play.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_media_play.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_00.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_item_tip_00.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_objects_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_objects_light_activated.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_add_tip.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\msg_add_tip.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_vedio_back.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_refresh.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_refresh.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_item_book.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_item_book.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_play.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_play.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toast_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\toast_bg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_line.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\tab_line.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_share.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_share.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_off.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\btn_check_off.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_share.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_share.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_message.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_message.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_tab.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\home_tab.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\function_lllbutton_normal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\function_lllbutton_normal.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_list_more_selected.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ic_list_more_selected.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_stop.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\progress_stop.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_collection.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_collection.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_teach.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_teach.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_places_light_activated.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_places_light_activated.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_on.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\btn_check_on.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\security_progress.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\security_progress.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pen.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_pen.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_list_more_selected.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ic_list_more_selected.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_loading_ad.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_loading_ad.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_help.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_help.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol_mute.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_audio_vol_mute.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_media_pause.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_media_pause.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\widget_bg_portrait_child_divider.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\widget_bg_portrait_child_divider.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kong.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\kong.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_top_l.9.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\title_top_l.9.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_msg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\edit_msg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_medium_type_clone.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\ico_medium_type_clone.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_bkg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\seek_bkg.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_white_back.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_white_back.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_left_line.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_people_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_people_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_listview_headview_red_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\common_listview_headview_red_arrow.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\table_bottom_play_listen.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\table_bottom_play_listen.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_box_right.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\msg_box_right.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_objects_light_normal.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable-xhdpi-v4\\ic_emoji_objects_light_normal.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boutique_tab.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\boutique_tab.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left_go.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_left_go.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_stop.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\progress_stop.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_music_like.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_music_like.png"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_up_versions.png",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable-xhdpi\\icon_up_versions.png"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_medium_type.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ico_medium_type.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_default_img.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_default_img.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dafult.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\dafult.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_up_head.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\icon_up_head.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_item_tip_02.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\home_item_tip_02.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_item_selected.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\action_item_selected.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qcloud_player_icon_ab_back_holo_dark.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\qcloud_player_icon_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_line_discard.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\tab_line_discard.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l_ellipse.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\l_ellipse.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_reduce_size.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-xhdpi\\text_reduce_size.png"
     }
 ]

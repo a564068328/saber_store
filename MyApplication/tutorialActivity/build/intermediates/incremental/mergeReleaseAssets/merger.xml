@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\GitStore\MyApplication\tutorialActivity\src\main\assets"><file name="fonts/roboto_light.ttf" path="E:\GitStore\MyApplication\tutorialActivity\src\main\assets\fonts\roboto_light.ttf"/></source></dataSet><dataSet config="release"><source path="E:\GitStore\MyApplication\tutorialActivity\src\release\assets"/></dataSet></merger>

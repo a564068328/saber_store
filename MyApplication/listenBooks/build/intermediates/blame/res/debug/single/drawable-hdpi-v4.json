@@ -1,0 +1,1214 @@
+[
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_default_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_default_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_active.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_active.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_back_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_location_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_location_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recharge_success_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\recharge_success_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_use_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_use_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_recent_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_recent_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_sound_wave.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_sound_wave.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_send_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_search_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_search_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_photo_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_photo_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_search_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_search_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_footer_top_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\chat_room_footer_top_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xinhao_0.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\xinhao_0.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_min_video.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_min_video.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_close_mv_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_close_mv_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_cut_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\dialog_cut_line.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_room_icon.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\default_room_icon.jpg"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_front_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_front_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_give_gift_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_give_gift_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_sub_item_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_sub_item_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk_single_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\talk_single_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line3.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\line3.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_back_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_back_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_back_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_sound_wave2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_sound_wave2.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\line_1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_ranklist_order3.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_ranklist_order3.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_msg_pay_dialog_up.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_msg_pay_dialog_up.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_close_mv_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_close_mv_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_charmlist.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_charmlist.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_keyboard_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_gift_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_gift_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_buy_gift.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_buy_gift.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_use.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_use.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_sub_item.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_sub_item.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_chat_back_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_chat_back_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg_click.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\dialog_bg_click.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_page_indicator.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_page_indicator.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_send_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_paypal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_paypal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_2.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_txt_count_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_txt_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_delete_holo_dark.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\sym_keyboard_delete_holo_dark.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_places_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_places_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_default_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_default_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_msg_pay_dialog_down.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_msg_pay_dialog_down.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_down_talk_p.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_down_talk_p.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_back_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_back_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_network_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\no_network_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_2.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_indicator.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\page_indicator.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_item.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_item.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_7.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_7.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_voice_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_voice_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_voice_message_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_voice_message_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\refresh.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_chat_back_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_chat_back_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_objects_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_objects_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_6.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_6.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_colse_web_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_colse_web_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_ranklist_order1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_ranklist_order1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_pay_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_pay_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attachments_arrow_reversed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attachments_arrow_reversed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\pay_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_recharge_return_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_recharge_return_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_chat_message_box.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\edit_chat_message_box.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_pressed.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_item_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_item_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_msg_buy_btn.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_msg_buy_btn.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next_step_ext.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_next_step_ext.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_charm.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_charm.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_divider_vertical.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_divider_vertical.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bank_cards_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_bank_cards_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_is_gift_parent_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_is_gift_parent_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_divider_horizontal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_divider_horizontal.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_line.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_line_ver.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_line_ver.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orange_divider.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\orange_divider.jpg"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_ranklist_order2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_ranklist_order2.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pack_up2_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_pack_up2_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_modify_nickname_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_modify_nickname_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_wealth_rank_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_wealth_rank_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_push.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\refresh_push.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_people_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_people_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\double_button_dialog_divider.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\double_button_dialog_divider.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_open_mv_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_open_mv_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_phone_recharge_cards.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_phone_recharge_cards.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userinfo_edit_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\userinfo_edit_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_voice_message.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_voice_message.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attachments_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attachments_arrow.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\account_balance_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\account_balance_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_head_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\default_head_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_4.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_4.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_active_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_active_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_charmlist_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_charmlist_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_header_bg1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\main_header_bg1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bank_cards.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_bank_cards.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_open_voice_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_open_voice_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\search_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_paypal_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_paypal_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_0.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_0.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_data_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\no_data_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_select_spinner.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_select_spinner.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_sub_item.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_sub_item.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_gift.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_gift.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_red_bg_p.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_red_bg_p.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_exit_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_recent_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_recent_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\luxury_farrari.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\luxury_farrari.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_objects.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_objects.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ranklist_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_ranklist_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_open_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_open_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_places_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_places_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\is_gift_parent_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\is_gift_parent_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg.jpg",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\default_bg.jpg"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_determine.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_determine.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_active_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_active_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_sound_wave1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_sound_wave1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_item.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_item.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_using.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_using.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_3.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_3.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg_p.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\tab_bg_p.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_data_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\loading_data_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg_n.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\tab_bg_n.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_msg_cancel_buy_btn.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_msg_cancel_buy_btn.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk_sing_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\talk_sing_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_video_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_video_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recharge_fail_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\recharge_fail_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_dark.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_property_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_property_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_zuo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_zuo.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_camera_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_face_del_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_face_del_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_p1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_back_p1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next_step_ext_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_next_step_ext_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_nature_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_nature_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_down_talk2_n.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_down_talk2_n.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_5.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_5.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line4.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\line4.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_background.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_people_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_people_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_max_video.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_max_video.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_red_bg_n.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_red_bg_n.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_ml_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_ml_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_recharge_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\edit_recharge_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_open_voice_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_open_voice_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ranklist.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_ranklist.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_background_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_create_team_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_create_team_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_exit_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_using_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_using_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_close_voice_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_close_voice_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_open_mv_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_open_mv_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_open_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_open_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_8.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_8.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_objects_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_objects_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_voice_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_voice_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_5.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_5.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\title.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_header_black_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\main_header_black_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_chat_menu_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_chat_menu_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_face_del.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_face_del.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_d1.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_d1.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_property_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_property_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pull_down_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_pull_down_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_sub_item_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_sub_item_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\md_nav_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable-hdpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_front_pressed.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_front_pressed.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_game_cards.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_game_cards.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_nature_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_nature_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_split_v.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\dialog_split_v.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_front_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_front_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_chat_menu_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\channel_chat_menu_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_game_cards_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_game_cards_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_symbols_light_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_symbols_light_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuo.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\zuo.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_loading.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_split_h.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\dialog_split_h.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_nature.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_nature.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_punctuation.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_punctuation.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_determine_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_determine_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pull_down_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_pull_down_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_top_divider.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_top_divider.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_people.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_people.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_6.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_6.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\search_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_front_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_front_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_keyboard_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_keyboard_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_d2.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_d2.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_people_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\room_people_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_select_spinner_press.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_select_spinner_press.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_recharge_return.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_recharge_return.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wa_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\wa_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_buy_gift_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_buy_gift_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_multiple_signal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_multiple_signal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_rich.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_rich.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_4.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_4.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_colse_web_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_colse_web_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_page_indicator_focused.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\you.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\you.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_recharge.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\edit_recharge.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gift_title_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\gift_title_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_camera_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_camera_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_close_voice_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_close_voice_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_line_hor.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_line_hor.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_symbols_light_activated.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_symbols_light_activated.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_sound_wave3.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_sound_wave3.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_3.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_3.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_xinhao_0.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_xinhao_0.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_btn_give_gift.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_btn_give_gift.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\spinner_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_header_bg.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\main_header_bg.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_combo_9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_combo_9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_indicator_focused.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\double_button_dialog_split_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\double_button_dialog_split_line.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_create_team_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_create_team_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_cars.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_cars.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_photo_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_photo_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_line.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\tab_line.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pack_up2_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_pack_up2_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\people_num_icon.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\people_num_icon.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_line_discard.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\tab_line_discard.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg_normal.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\dialog_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_ml_icon_rank_p.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_ml_icon_rank_p.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_modify_nickname_n.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_modify_nickname_n.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_help_d.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\menu_help_d.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_item_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_item_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_gift_count_select_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_gift_count_select_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_location_normal.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_location_normal.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_phone_recharge_cards_press.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\btn_phone_recharge_cards_press.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\double_button_dialog_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\double_button_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_sdk_you.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable-hdpi-v4\\live_sdk_you.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ate_check.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\drawable-hdpi-v4\\ate_check.png"
+    }
+]

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dummy.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\dummy.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tutorial_info_view_fade_out.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\tutorial_info_view_fade_out.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tutorial_info_view_fade_out.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\tutorial_info_view_fade_out.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tutorial_info_view_fade_in.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\tutorial_info_view_fade_in.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tutorial_info_view_fade_in.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\tutorial_info_view_fade_in.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dummy.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\anim\\dummy.xml"
     }
 ]

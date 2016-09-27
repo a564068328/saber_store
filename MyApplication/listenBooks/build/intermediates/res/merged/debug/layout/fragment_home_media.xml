@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="根本性的字词知识融通" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/advertising"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_advertising"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/tabList"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_toLeftOf="@+id/go_right"
+            android:background="@drawable/title_top_l"
+            android:paddingLeft="6dp" />
+
+        <ImageView
+            android:id="@+id/go_right"
+            android:layout_width="35dp"
+            android:layout_height="42dp"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_go_right" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tabList"
+            android:background="@android:color/white"
+
+        />
+
+
+        <LinearLayout
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="#fff"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <com.icloud.listenbook.ui.custom.CustomProgressBar
+                style="@style/mycustomprocessbar"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/tv_progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="努力加载中,请稍候"
+                android:textColor="@color/gray" />
+
+            <TextView
+                android:id="@+id/tip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/thingrey"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="@string/zero_datas"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

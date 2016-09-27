@@ -2,9 +2,8 @@
 <!-- 主界面的主条目 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:background="#fff8fbfb"
-    android:gravity="center"
     android:orientation="vertical"
     android:id="@+id/ll_core"
     android:paddingBottom="2dp"
@@ -40,5 +39,5 @@
         android:singleLine="true"
         android:textColor="@color/item_chip_title"
         android:textSize="11sp" />
-     "
+
 </LinearLayout>

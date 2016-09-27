@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ate_check.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\drawable-ldpi-v4\\ate_check.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    }
+]

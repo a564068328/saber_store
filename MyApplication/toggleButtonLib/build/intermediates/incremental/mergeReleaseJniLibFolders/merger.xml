@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\GitStore\ListenbookApplication\toggleButtonLib\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="E:\GitStore\ListenbookApplication\toggleButtonLib\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\GitStore\MyApplication\toggleButtonLib\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="E:\GitStore\MyApplication\toggleButtonLib\src\release\jniLibs"/></dataSet></merger>

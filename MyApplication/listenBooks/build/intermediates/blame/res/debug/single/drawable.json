@@ -1,530 +1,630 @@
 [
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_white.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_white.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_list_selector_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_list_selector_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_close_mv.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_close_mv.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style_rect.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\seekbar_style_rect.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_horizontal.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_progress_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\voice_progress_horizontal.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_recharge_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\edit_recharge_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_symbols_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_channel_chat_back.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_channel_chat_back.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_selector_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_boutique.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\tables_tab_boutique.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_item_background.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\selectable_item_background.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_userinfo.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\tables_tab_userinfo.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_voice_play_left.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_voice_play_left.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_voice_play_left.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_voice_play_left.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_use_property_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_use_property_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_submit.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\dialog_button_submit.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_places_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_orange.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\textview_orange.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recharge_return_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_recharge_return_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_blue_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_edge_blue_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\divider_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_white.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_white.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_download.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\tables_tab_download.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\qcloud_player_control_selector_holo_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\qcloud_player_control_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\vedio_progress_horizontal.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\vedio_progress_horizontal.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_blue.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_blue.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_down_talk_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_down_talk_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_home.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\tables_tab_home.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\boutique_tab_line.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\boutique_tab_line.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_userinfo.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\tables_tab_userinfo.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_channel_chat_menu.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_channel_chat_menu.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_selection.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\radiobutton_selection.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_blue.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_blue.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_search_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_open_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_open_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\state_compile_edit.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\state_compile_edit.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\white.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\white.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_tab_indicator.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\viewpager_tab_indicator.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_recent_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_keyboard_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_title_textcolor.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\viewpager_title_textcolor.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order3.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order3.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_text_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\frame_button_text_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_withbackground.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable_withbackground.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_gift_item_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_gift_item_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_use_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_use_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_keyboard_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_blue_right.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_edge_blue_right.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_determine_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_determine_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_button.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\refresh_button.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bank_cards_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_bank_cards_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_orange_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_edge_orange_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style_rect.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\seekbar_style_rect.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_close_voice.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_close_voice.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_transparent.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pull_down_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_pull_down_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\qcloud_player_progress_horizontal_holo_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\qcloud_player_progress_horizontal_holo_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_open_voice.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_open_voice.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\frame_button_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_down_talk_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_down_talk_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_charmlist_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_charmlist_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pack_up2_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_pack_up2_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_gift_item_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_gift_item_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_orange_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_edge_orange_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_list_selector_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_list_selector_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_tab_indicator.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\viewpager_tab_indicator.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order2.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order2.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_face.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\iv_face.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_open_mv.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_open_mv.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_give_gift_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_give_gift_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\bg_edittext.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order2.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order2.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_withbackground_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable_withbackground_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_submit.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\dialog_button_submit.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_home.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\tables_tab_home.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_selector.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\progress_bar_states.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_objects_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_create_team.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_create_team.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\freshlibrary\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\drawable\\gray_circle.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_symbols_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_gift_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_gift_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_btn_selected.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_colorlist.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\dialog_button_colorlist.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_transparent.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_transparent.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_orange_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_edge_orange_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\progress_horizontal.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_channel_chat_back.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_channel_chat_back.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_nature_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_channel_chat_menu.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_channel_chat_menu.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_places_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_open_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_open_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\state_select_submit_btn.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\state_select_submit_btn.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\custom_progress.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\number_edge.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\number_edge.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\white.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\white.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_people_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_btn.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\action_item_btn.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_item_selected_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_gift_sub_item_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_gift_sub_item_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_charmlist_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_charmlist_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\qcloud_player_control_selector_holo_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\qcloud_player_control_selector_holo_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\boutique_tab_line.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\boutique_tab_line.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_use_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_use_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\boutique_tab_colors.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\boutique_tab_colors.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pull_down_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_pull_down_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_voice_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_voice_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_recent_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_modify_nickname_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_modify_nickname_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_black.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable_black.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_using_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_using_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_create_team.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_create_team.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_spinner_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_select_spinner_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_edge.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_voice_message_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_voice_message_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_buy_gift_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_buy_gift_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_transparent.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_transparent.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\gift_item_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\gift_item_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\divider_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed_bg_orange.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_pressed_bg_orange.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_btn_selector.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_game_cards_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_game_cards_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_out.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_out.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_send_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_close_voice.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_close_voice.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\custom_progress.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed_bg_orange.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_pressed_bg_orange.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_white.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_medium_white.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_edge.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_send_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_face_del_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_face_del_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_back_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_buy_gift_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_buy_gift_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ranklist_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_ranklist_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_ml_icon.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_ml_icon.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_withbackground_black.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable_withbackground_black.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order1.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order1.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_red_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_transparent_re.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_transparent_re.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_blue.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\textview_blue.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\gift_sub_item_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\gift_sub_item_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_record_state_anim.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_record_state_anim.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\freshlibrary\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog_default_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_dialog_default_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_step_ext_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_next_step_ext_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_selection.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\radiobutton_selection.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_determine_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_determine_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_btn_selector_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_phone_recharge_cards_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_phone_recharge_cards_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_colse_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_colse_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_open_voice.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_open_voice.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_orange.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_orange.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\color_cursor.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_orange_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_edge_orange_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\state_compile_edit.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\state_compile_edit.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\seekbar_horizontal.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bank_cards_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_bank_cards_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog_default_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_dialog_default_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\frame_button_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\home_textview_edge.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\home_textview_edge.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_recharge_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\edit_recharge_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_progress_horizontal.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\voice_progress_horizontal.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_white.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\progress_medium_white.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_colorlist.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\dialog_button_colorlist.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_open_mv.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_open_mv.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_horizontal.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\seekbar_horizontal.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_search_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_btn_selected_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\bg_edittext.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_face_del_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_face_del_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_btn.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\action_item_btn.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\vedio_progress_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\vedio_progress_horizontal.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_gift_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_gift_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\home_textview_edge.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\home_textview_edge.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_objects_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_step_ext_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_next_step_ext_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_paypal_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_paypal_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_out.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_out.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\qcloud_player_progress_horizontal_holo_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\qcloud_player_progress_horizontal_holo_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_colse_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_colse_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\gift_item_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\gift_item_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recharge_return_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_recharge_return_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_ml_icon.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_ml_icon.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\boutique_tab_colors.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\boutique_tab_colors.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_blue.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\textview_blue.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_give_gift_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_give_gift_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\base_checkbox.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\base_checkbox.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_modify_nickname_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_modify_nickname_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_use_property_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_use_property_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_back_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_paypal_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_paypal_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_spinner_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_select_spinner_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pack_up2_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_pack_up2_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order1.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order1.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_red_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_voice_message_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_voice_message_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_blue_right.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_edge_blue_right.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\color_cursor.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_orange.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_orange.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_orange.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_bg_orange.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_button.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\refresh_button.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\button_edge_blue_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\button_edge_blue_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_orange.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\textview_orange.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_boder_order3.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\layout_boder_order3.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\progress_bar_states.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\gift_sub_item_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\gift_sub_item_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\base_checkbox.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\drawable\\base_checkbox.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_gift_sub_item_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_gift_sub_item_bg.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_record_state_anim.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\ListenbookApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_record_state_anim.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_game_cards_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_game_cards_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sdk_btn_using_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\live_sdk_btn_using_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ranklist_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_ranklist_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_download.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\tables_tab_download.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\state_select_submit_btn.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\state_select_submit_btn.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\tables_tab_boutique.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\tables_tab_boutique.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\progress_drawable_dark.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_title_textcolor.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\viewpager_title_textcolor.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_voice_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_voice_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_close_mv.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\menu_close_mv.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_text_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\frame_button_text_light.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\number_edge.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\number_edge.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_transparent_re.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_transparent_re.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_phone_recharge_cards_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\btn_phone_recharge_cards_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_orange.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\drawable\\button_bg_orange.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_face.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\drawable\\iv_face.xml"
     }
 ]

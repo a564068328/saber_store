@@ -1,0 +1,1110 @@
+[
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\friend_left_msg_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\friend_left_msg_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\homemedia_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\homemedia_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_right_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_grid_right_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\feedback_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\medium_top_merge.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\medium_top_merge.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_comments_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_comments_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_bind_accout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_bind_accout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\homemedia_footer_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\homemedia_footer_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_teach_vedio.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_teach_vedio.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_richlist_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_richlist_page.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_buy_tip.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_buy_tip.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\recommen_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\recommen_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\book_info_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\book_info_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_recharge_center_activity.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_recharge_center_activity.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\ate_preference_color.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\layout\\ate_preference_color.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_warning.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_warning.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\pop_query.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\pop_query.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_tts_setting.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_tts_setting.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\book_chapter_info_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\book_chapter_info_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\teach_vedio_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\teach_vedio_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_shart.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_shart.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_left_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_grid_left_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_result.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_result.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_net_selection.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_net_selection.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_grid_left_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_grid_left_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_recharge_type_activity.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_recharge_type_activity.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_children.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_children.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\standard_item_bottom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\standard_item_bottom.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_stub_colorchooser_custom.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_grid.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\article_chapter_info_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\article_chapter_info_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fresh_push_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fresh_push_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_about.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_about.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_ppt.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_ppt.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_myspinner_dropdown_items.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_myspinner_dropdown_items.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\rank_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\rank_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_friends_info.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_friends_info.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_lesson.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_lesson.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_book_info.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_book_info.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\got_it_button_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\got_it_button_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_webview.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_tables.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_tables.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\chant_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\chant_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\search_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_vedio_info.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_vedio_info.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_recommen.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_recommen.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_buy_course.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_buy_course.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_ranklist_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_ranklist_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_recharge_success_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_recharge_success_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\buycourse_abstract_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\buycourse_abstract_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_compeletion_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\lesson_compeletion_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\pinteres_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\pinteres_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_count_select_items.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_count_select_items.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\tts_body_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\tts_body_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_update_userinfo_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_update_userinfo_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_count_select_window.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_count_select_window.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_chapter_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_chapter_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_alert.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_alert.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_forge_pwd.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_forge_pwd.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\recommen_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\recommen_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\item_system_msg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\item_system_msg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_teachabstract.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_teachabstract.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_info_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_info_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\ate_preference_checkbox.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\layout\\ate_preference_checkbox.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_thirdadult.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_thirdadult.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_chat_message_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_chat_message_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_simplelist_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_main_menu_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_main_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_photoview.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_photoview.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\footer_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\footer_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_grid_right_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_grid_right_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\friend_right_msg_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\friend_right_msg_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_list_widget_activity.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_list_widget_activity.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_list_sub_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_list_sub_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_chat_msg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_chat_msg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\boutique_track_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\boutique_track_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_vedio_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_vedio_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_header.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_grid_header.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\emojicons.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\layout\\emojicons.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_members_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_members_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_progress_indeterminate.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_chat_notify_set.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_chat_notify_set.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_recommen_type.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_recommen_type.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_tts.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_tts.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_face_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_face_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\popup_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\popup_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\result_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\result_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_preference_custom.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_friends_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_friends_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_chat_menu.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_chat_menu.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\third_body_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\third_body_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_login.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_login.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_media.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fragment_home_media.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\chat_right_msg_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\chat_right_msg_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_search.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_search.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\frage_boutique_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\frage_boutique_page.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_dialog_colorchooser.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_system_msg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_system_msg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_richlist_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_richlist_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_m_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_grid_m_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_listview_footer.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\refresh_listview_footer.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\teach_lecture_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\teach_lecture_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\qcloud_player_media_controller.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\qcloud_player_media_controller.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\frage_userinfo_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\frage_userinfo_page.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_complete_accout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_complete_accout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_loading.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\ate_preference_switch.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\layout\\ate_preference_switch.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\skip_button_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\skip_button_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_teachabnotify.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_teachabnotify.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_play_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_play_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rank.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fragment_rank.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_book.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_book.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_login_activity.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_login_activity.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_modifypwd.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_modifypwd.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_help.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_help.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\qcloud_player_video_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\qcloud_player_video_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_update_version.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_update_version.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\horiz_separator.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\horiz_separator.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_setting.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_setting.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\tutorial_text.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\tutorial_text.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_vertical.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\action_item_vertical.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\ppt_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\ppt_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\popup_vertical.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\popup_vertical.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_info_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_info_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tutorial_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\activity_tutorial_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\base_top_title.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\base_top_title.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_greatmaster_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_greatmaster_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_chip_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\feedback_chip_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fra_history.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fra_history.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_register.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_register.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_result_detile.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_result_detile.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\standard_item_body.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\standard_item_body.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\qcloud_player_video_player.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\qcloud_player_video_player.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_dialog_alert.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_dialog_alert.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_feedback.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_feedback.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_up_userinfo.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_up_userinfo.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_friend_msg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_friend_msg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\chat_people_info_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\chat_people_info_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_list_middle.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_list_middle.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\voice_line_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\voice_line_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\boutique_book_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\boutique_book_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_voice_info.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_voice_info.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\down_book_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\down_book_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_msecond.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_msecond.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_single_button_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_single_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_recharge_fail_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_recharge_fail_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_edit.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_edit.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\freshlibrary\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_up_phone.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_up_phone.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\recommen_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\recommen_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\friends_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\friends_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\tutorial_text_custom_test.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\tutorial_text_custom_test.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\boutique_collect_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\boutique_collect_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_sumbit_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\lesson_sumbit_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_chant.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_chant.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\recommen_bottom_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\recommen_bottom_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_double_button_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_double_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_line_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\vedio_line_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\title_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\tutorialActivity\\unspecified\\res\\layout\\title_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\hode_type_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\hode_type_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\frage_home_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\frage_home_page.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_listitem.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_message_bug_tip_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_message_bug_tip_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_face_content_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_face_content_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_list_head_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_list_head_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\chant_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\chant_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_top_merge.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_top_merge.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_btn_using_bg.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_btn_using_bg.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\popup_teach_menu.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\popup_teach_menu.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\great_master_recycleview.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\great_master_recycleview.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\homemedia_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\homemedia_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\book_play_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\book_play_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_progress.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_progress.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_car_gift_subitem_menu_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_car_gift_subitem_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_end_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_end_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\status_bar_ongoing_event_progress_bar.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_chat_people_info.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_chat_people_info.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left_msg_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\chat_left_msg_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_regone_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\lesson_regone_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_input.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_input.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_using_car_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_using_car_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_gift_subitem_menu_dialog.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_gift_subitem_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_room_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_room_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\ate_preference_custom.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\theme_engine_numan\\unspecified\\res\\layout\\ate_preference_custom.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_chioce_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\lesson_chioce_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_list_activity.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_list_activity.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\wap_pay_main.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\wap_pay_main.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\qcloud_player_select_streams_list_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\qcloud_player_select_streams_list_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_record_voice_state_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_record_voice_state_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_mypinner_dropdown.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_mypinner_dropdown.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\frage_download_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\frage_download_page.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\fra_content.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\fra_content.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\commons\\0.8.5.3\\res\\layout\\md_stub_inputpref.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_popwin.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\lesson_popwin.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading_ad.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_loading_ad.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_webview.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_webview.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\buycourse_chapter_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\buycourse_chapter_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_showtext.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_showtext.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\tts_title_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\tts_title_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_standard.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_standard.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\home_grid_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\great_master_tab_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\great_master_tab_item.xml"
+    }
+]

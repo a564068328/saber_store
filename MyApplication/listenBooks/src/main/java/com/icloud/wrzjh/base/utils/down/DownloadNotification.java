@@ -16,52 +16,51 @@
 
 package com.icloud.wrzjh.base.utils.down;
 
-import java.util.Collection;
-import java.util.HashMap;
-
 import android.app.Notification;
 import android.app.PendingIntent;
 import android.content.ContentUris;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Build;
 import android.view.View;
 import android.widget.RemoteViews;
 
 import com.icloud.listenbook.R;
+
+import java.util.Collection;
+import java.util.HashMap;
 
 /**
  * This class handles the updating of the Notification Manager for the
  * cases where there is an ongoing download. Once the download is complete
  * (be it successful or unsuccessful) it is no longer the responsibility
  * of this component to show the download in the notification manager.
- *
  */
 class DownloadNotification {
 
     Context mContext;
-    HashMap <String, NotificationItem> mNotifications;
+    HashMap<String, NotificationItem> mNotifications;
     private SystemFacade mSystemFacade;
 
     static final String LOGTAG = "DownloadNotification";
     static final String WHERE_RUNNING =
-        "(" + Downloads.COLUMN_STATUS + " >= '100') AND (" +
-        Downloads.COLUMN_STATUS + " <= '199') AND (" +
-        Downloads.COLUMN_VISIBILITY + " IS NULL OR " +
-        Downloads.COLUMN_VISIBILITY + " == '" + Downloads.VISIBILITY_VISIBLE + "' OR " +
-        Downloads.COLUMN_VISIBILITY +
-            " == '" + Downloads.VISIBILITY_VISIBLE_NOTIFY_COMPLETED + "')";
+            "(" + Downloads.COLUMN_STATUS + " >= '100') AND (" +
+                    Downloads.COLUMN_STATUS + " <= '199') AND (" +
+                    Downloads.COLUMN_VISIBILITY + " IS NULL OR " +
+                    Downloads.COLUMN_VISIBILITY + " == '" + Downloads.VISIBILITY_VISIBLE + "' OR " +
+                    Downloads.COLUMN_VISIBILITY +
+                    " == '" + Downloads.VISIBILITY_VISIBLE_NOTIFY_COMPLETED + "')";
     static final String WHERE_COMPLETED =
-        Downloads.COLUMN_STATUS + " >= '200' AND " +
-        Downloads.COLUMN_VISIBILITY +
-            " == '" + Downloads.VISIBILITY_VISIBLE_NOTIFY_COMPLETED + "'";
+            Downloads.COLUMN_STATUS + " >= '200' AND " +
+                    Downloads.COLUMN_VISIBILITY +
+                    " == '" + Downloads.VISIBILITY_VISIBLE_NOTIFY_COMPLETED + "'";
 
 
     /**
      * This inner class is used to collate downloads that are owned by
      * the same application. This is so that only one notification line
      * item is used for all downloads of a given application.
-     *
      */
     static class NotificationItem {
         int mId;  // This first db _id for the download for the app
@@ -93,6 +92,7 @@ class DownloadNotification {
 
     /**
      * Constructor
+     *
      * @param ctx The context to use to obtain access to the
      *            Notification Service
      */
@@ -170,7 +170,7 @@ class DownloadNotification {
                 n.number = item.mTitleCount;
                 if (item.mTitleCount > 2) {
                     title.append(mContext.getString(R.string.notification_filename_extras,
-                            new Object[] { Integer.valueOf(item.mTitleCount - 2) }));
+                            new Object[]{Integer.valueOf(item.mTitleCount - 2)}));
                 }
             } else {
                 expandedView.setTextViewText(R.id.description,
@@ -212,9 +212,6 @@ class DownloadNotification {
             if (!isCompleteAndVisible(download)) {
                 continue;
             }
-            // Add the notifications
-            Notification n = new Notification();
-            n.icon = android.R.drawable.stat_sys_download_done;
 
             long id = download.mId;
             String title = download.mTitle;
@@ -223,7 +220,7 @@ class DownloadNotification {
                         R.string.download_unknown_title);
             }
             Uri contentUri =
-                ContentUris.withAppendedId(Downloads.ALL_DOWNLOADS_CONTENT_URI, id);
+                    ContentUris.withAppendedId(Downloads.ALL_DOWNLOADS_CONTENT_URI, id);
             String caption;
             Intent intent;
             if (Downloads.isStatusError(download.mStatus)) {
@@ -243,15 +240,36 @@ class DownloadNotification {
                     DownloadReceiver.class.getName());
             intent.setData(contentUri);
 
-            n.when = download.mLastMod;
-            n.setLatestEventInfo(mContext, title, caption,
-                    PendingIntent.getBroadcast(mContext, 0, intent, 0));
+            // Add the notifications
+            Notification n=null;
+            if (Build.VERSION.SDK_INT >= 11 && Build.VERSION.SDK_INT < 16) {
+                Notification.Builder builder = new Notification.Builder(mContext)
+                        .setAutoCancel(true)
+                        .setContentTitle(title)
+                        .setContentText(caption)
+                        .setContentIntent(PendingIntent.getBroadcast(mContext, 0, intent, 0))
+                        .setSmallIcon(android.R.drawable.stat_sys_download_done)
+                        .setWhen(download.mLastMod)
+                        .setOngoing(true);
+                n=builder.getNotification();
+            } else if (Build.VERSION.SDK_INT >= 16) {
+                n = new Notification.Builder(mContext).setAutoCancel(true)
+                        .setContentTitle(title)
+                        .setContentText(caption)
+                        .setContentIntent(PendingIntent.getBroadcast(mContext, 0, intent, 0))
+                        .setSmallIcon(android.R.drawable.stat_sys_download_done)
+                        .setWhen(download.mLastMod).build();
+            }
+//            n.icon = android.R.drawable.stat_sys_download_done;
+//            n.when = download.mLastMod;
+//            n.setLatestEventInfo(mContext, title, caption,
+//                    PendingIntent.getBroadcast(mContext, 0, intent, 0));
 
-            intent = new Intent(Constants.ACTION_HIDE);
-            intent.setClassName(mContext.getPackageName(),
+            Intent nameintent = new Intent(Constants.ACTION_HIDE);
+            nameintent.setClassName(mContext.getPackageName(),
                     DownloadReceiver.class.getName());
-            intent.setData(contentUri);
-            n.deleteIntent = PendingIntent.getBroadcast(mContext, 0, intent, 0);
+            nameintent.setData(contentUri);
+            n.deleteIntent = PendingIntent.getBroadcast(mContext, 0, nameintent, 0);
 
             mSystemFacade.postNotification(download.mId, n);
         }

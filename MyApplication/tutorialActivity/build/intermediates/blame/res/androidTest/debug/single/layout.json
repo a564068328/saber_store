@@ -1,26 +1,26 @@
 [
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_tutorial_layout.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_tutorial_layout.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\title_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\title_view.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\skip_button_view.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\skip_button_view.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tutorial_text.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tutorial_text.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\title_view.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\title_view.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tutorial_text_custom_test.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tutorial_text_custom_test.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\got_it_button_view.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\got_it_button_view.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\got_it_button_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\got_it_button_view.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tutorial_text_custom_test.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tutorial_text_custom_test.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_tutorial_layout.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_tutorial_layout.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tutorial_text.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tutorial_text.xml"
+        "merged": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\skip_button_view.xml",
+        "source": "E:\\GitStore\\MyApplication\\tutorialActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\skip_button_view.xml"
     }
 ]

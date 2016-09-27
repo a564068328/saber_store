@@ -1,28 +1,13 @@
 package com.icloud.listenbook.ui.fragment;
 
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Iterator;
-import java.util.List;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import android.R.integer;
-import android.R.string;
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.text.InputType;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.android.volley.Response.ErrorListener;
@@ -30,23 +15,23 @@ import com.android.volley.Response.Listener;
 import com.android.volley.VolleyError;
 import com.icloud.listenbook.R;
 import com.icloud.listenbook.base.BaseFragement;
-import com.icloud.listenbook.dialog.AlertDlg;
 import com.icloud.listenbook.dialog.DialogManage;
-import com.icloud.listenbook.dialog.EditDlg;
 import com.icloud.listenbook.dialog.ShowTextDlg;
-import com.icloud.listenbook.entity.AdultInfo;
-import com.icloud.listenbook.entity.ResultItemInfo;
 import com.icloud.listenbook.entity.UserInfo;
 import com.icloud.listenbook.http.HttpUtils;
-import com.icloud.listenbook.recyclerplus.FullyLinearLayoutManager;
-import com.icloud.listenbook.ui.adapter.ResultItemAdapet;
-import com.icloud.listenbook.ui.chipAct.ThirdAdult;
-import com.icloud.listenbook.unit.AdultUtils;
 import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.ToastUtil;
 import com.listenBook.greendao.MeritTableAdult;
 import com.listenBook.greendao.MeritTableChildren;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Iterator;
+
+@SuppressLint("ValidFragment")
 public class lastFrag extends BaseFragement implements OnClickListener,
 		Listener<JSONObject>, ErrorListener {
 	private final int NO = 0;

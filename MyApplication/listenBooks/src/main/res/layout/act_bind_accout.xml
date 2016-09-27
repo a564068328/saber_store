@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <ImageView
+            android:id="@+id/back"
+            style="@style/base_back" />
+
+        <TextView
+            android:id="@+id/titleTxt"
+            style="@style/base_title"
+            android:layout_centerInParent="true"
+            android:text="绑定账号" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/title_top_l"
+        android:orientation="vertical"
+        android:paddingBottom="12dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="6dp" >
+
+        <EditText
+            android:id="@+id/account"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="登陆账号"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="登陆密码"
+            android:inputType="textPassword"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/confirm_password"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_feedback"
+            android:gravity="left|center"
+            android:hint="确认密码"
+            android:inputType="textPassword"
+            android:paddingLeft="4dp"
+            android:textColorHint="@color/thingrey"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/bind"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/orange"
+            android:gravity="center"
+            android:text="绑定"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

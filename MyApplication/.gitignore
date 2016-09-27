@@ -35,7 +35,6 @@ slidingmenulibrary/build/intermediates/lint/
 slidingmenulibrary/build/intermediates/manifest/tmp/
 slidingmenulibrary/build/intermediates/rs/
 slidingmenulibrary/build/intermediates/transforms/
-slidingmenulibrary/build/tmp/
 viewPagerIndicatorLibrary/build/generated/res/
 viewPagerIndicatorLibrary/build/generated/source/aidl/
 viewPagerIndicatorLibrary/build/generated/source/rs/
@@ -54,4 +53,3 @@ viewPagerIndicatorLibrary/build/intermediates/lint/
 viewPagerIndicatorLibrary/build/intermediates/manifest/tmp/
 viewPagerIndicatorLibrary/build/intermediates/rs/
 viewPagerIndicatorLibrary/build/intermediates/transforms/
-viewPagerIndicatorLibrary/build/tmp/

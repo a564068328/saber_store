@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qcloud_player_dialog_video_loading">正在加载...</string>
+    <string name="qcloud_player_video_load_time_out">加载超时</string>
+    <string name="qcloud_player_network_connection_failed">网络连接失败</string>
+</resources>

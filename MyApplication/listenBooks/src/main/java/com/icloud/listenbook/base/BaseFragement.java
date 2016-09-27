@@ -11,7 +11,7 @@ public abstract class BaseFragement extends Fragment implements ICommFragment {
 	protected boolean isVisiableToUser = false;
 	protected Activity act;
 	protected View view;
-
+	protected String Tag = this.getClass().getName();
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
@@ -21,9 +21,11 @@ public abstract class BaseFragement extends Fragment implements ICommFragment {
 		findViews();
 		setListeners();
 		setData();
+		getDatas();
 		return view;
 	}
-
+	public void getDatas() {
+	}
 	public void setData() {
 
 	}

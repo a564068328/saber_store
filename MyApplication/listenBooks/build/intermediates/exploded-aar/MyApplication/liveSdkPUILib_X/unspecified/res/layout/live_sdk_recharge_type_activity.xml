@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/live_sdk_recharge_main_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_header_bg"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/btn_return"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_recharge_return_bg" />
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textColor="@color/live_sdk_white"
+            android:textSize="22dp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fadingEdgeLength="0dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/account_balance_bg"
+                android:padding="5dp" >
+
+                <TextView
+                    android:id="@+id/txt_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="充值账号 : "
+                    android:textColor="#ff686868"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txt_recharge_account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/txt_1"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="追风少年"
+                    android:textColor="#ff181818"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txt_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt_1"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center_vertical"
+                    android:text="账户余额 : "
+                    android:textColor="#ff686868"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txt_balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt_1"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@id/txt_2"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="..."
+                    android:textColor="#ffe42928"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt_1"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@id/txt_balance"
+                    android:gravity="center_vertical"
+                    android:text=" 豆芽"
+                    android:textColor="#ff686868"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_other_recharge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="请选择充值金额（1元=1个豆芽）"
+                    android:textColor="#ff7c6b6b"
+                    android:textSize="11sp" />
+
+                <Button
+                    android:id="@+id/btn_recharge_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/btn_select_spinner_bg"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:text="10元兑换10豆芽"
+                    android:textColor="@color/live_sdk_black"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_cards_recharge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/txt_card_source_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="请选择充值卡供应商"
+                    android:textColor="#ff7c6b6b"
+                    android:textSize="11sp" />
+
+                <Button
+                    android:id="@+id/btn_recharge_card_source"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/btn_select_spinner_bg"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:text="中国移动充值卡"
+                    android:textColor="@color/live_sdk_black"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/txt_card_amount_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="请选择充值卡的面值（1元=1个豆芽）"
+                    android:textColor="#ff7c6b6b"
+                    android:textSize="11sp" />
+
+                <Button
+                    android:id="@+id/btn_recharge_card_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/btn_select_spinner_bg"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="20dp"
+                    android:text="面值10元"
+                    android:textColor="@color/live_sdk_black"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/txt_card_id_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="充值卡号"
+                    android:textColor="#ff7c6b6b"
+                    android:textSize="11sp" />
+
+                <EditText
+                    android:id="@+id/edit_recharge_card_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/edit_recharge_bg"
+                    android:gravity="center_vertical"
+                    android:hint="请输入充值卡号"
+                    android:inputType="none"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/live_sdk_black"
+                    android:textColorHint="#ffaaaaaa"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/txt_password_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="充值卡密码"
+                    android:textColor="#ff7c6b6b"
+                    android:textSize="11sp" />
+
+                <EditText
+                    android:id="@+id/edit_recharge_card_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/edit_recharge_bg"
+                    android:gravity="center_vertical"
+                    android:hint="请输入充值卡密码"
+                    android:padding="10dp"
+                    android:password="true"
+                    android:textColor="@color/live_sdk_black"
+                    android:textColorHint="#ffaaaaaa"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_next_step"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/btn_next_step_ext_bg"
+                android:gravity="center"
+                android:text="下一步"
+                android:textColor="@color/live_sdk_white"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/txt_select_other_recharge_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableRight="@drawable/right_arrow"
+                android:gravity="right|center_vertical"
+                android:text="选择其它充值方式"
+                android:textColor="@color/live_sdk_black"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:id="@+id/layout_recharge_tips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="温馨提示："
+                    android:textColor="#ff686868"
+                    android:textSize="11sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1、请务必选择您手中充值卡一样的面值，避免导致充值失败。"
+                    android:textColor="#ffe1302f"
+                    android:textSize="11sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2、全部为一次性充值，不支持分次充值。"
+                    android:textColor="#ff686868"
+                    android:textSize="11sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3、充值提交后需要1到2分钟的处理，请您耐心等待。"
+                    android:textColor="#ff686868"
+                    android:textSize="11sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/txt_paypal_tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="您将转到支付宝官方页面进行充值"
+        android:textColor="#ff686868"
+        android:textSize="11sp"
+        android:visibility="gone" />
+
+</LinearLayout>

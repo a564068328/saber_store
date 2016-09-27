@@ -1,18 +1,8 @@
 package com.icloud.listenbook.ui;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.List;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Handler;
-import android.support.v4.view.ViewPager.OnPageChangeListener;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -24,31 +14,25 @@ import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
 
 import com.icloud.listenbook.R;
-import com.icloud.listenbook.base.BaseFragmentActivity;
-import com.icloud.listenbook.base.GameApp;
+import com.icloud.listenbook.base.BaseAppCompatActivity;
 import com.icloud.listenbook.base.view.ViewPager;
-import com.icloud.listenbook.dialog.DialogManage;
-import com.icloud.listenbook.entity.UserInfo;
 import com.icloud.listenbook.http.datas.Login;
-import com.icloud.listenbook.io.IoUtils;
 import com.icloud.listenbook.service.MPManage;
 import com.icloud.listenbook.service.MPManage.MediaPlayerStateListener;
-import com.icloud.listenbook.socket.pro.objectbuffer;
 import com.icloud.listenbook.ui.adapter.TablesAdapter;
 import com.icloud.listenbook.ui.chipAct.BookInfoAct;
 import com.icloud.listenbook.ui.chipAct.VedioInfoAct;
 import com.icloud.listenbook.ui.chipAct.VoiceInfoAct;
 import com.icloud.listenbook.ui.chipFrage.HomePageFrage;
+import com.icloud.listenbook.unit.ATEUtils;
 import com.icloud.listenbook.unit.AccUtils;
 import com.icloud.listenbook.unit.Configuration;
 import com.icloud.listenbook.unit.JsonUtils;
 import com.icloud.wrzjh.base.utils.LoadingTool;
-import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.SharedPreferenceUtil;
 import com.listenBook.greendao.Article;
-import com.listenBook.greendao.MeritTableAdult;
-import com.listenBook.greendao.MeritTableChildren;
-import com.yaya.live.android.util.Log;
+
+import org.json.JSONObject;
 
 /*
  * 
@@ -74,7 +58,7 @@ import com.yaya.live.android.util.Log;
  *               佛祖保佑       永无BUG
  */
 
-public class TablesActivity extends BaseFragmentActivity implements
+public class TablesActivity extends BaseAppCompatActivity implements
 		OnCheckedChangeListener, MediaPlayerStateListener, OnClickListener {
 	public static final String OPEN_MEDIA = "com.icloud.listenbook.open.media";
 	private TablesAdapter adapter;
@@ -184,6 +168,7 @@ public class TablesActivity extends BaseFragmentActivity implements
 		super.onResume();
 		upPlayIcon();
 		mPManage.addMusicList(this);
+		ATEUtils.setStatusColorForKitlat(this);
 		if (!SharedPreferenceUtil.getReiver_Guide_Notify()) {
 			new Thread() {
 				public void run() {
@@ -193,7 +178,6 @@ public class TablesActivity extends BaseFragmentActivity implements
 						try {
 							Thread.sleep(50);
 						} catch (InterruptedException e) {
-							// TODO Auto-generated catch block
 							e.printStackTrace();
 						}
 						// 引导事件的广播
@@ -346,26 +330,5 @@ public class TablesActivity extends BaseFragmentActivity implements
 		}
 	}
 
-	public class MyOnPageChangeListener implements OnPageChangeListener {
 
-		@Override
-		public void onPageScrollStateChanged(int state) {
-
-		}
-
-		@Override
-		public void onPageScrolled(int position, float positionOffset,
-				int positionOffsetPixels) {
-			LogUtil.e("TAG", "position:" + position + "positionOffset:"
-					+ positionOffset + "positionOffsetPixels"
-					+ positionOffsetPixels);
-		}
-
-		@Override
-		public void onPageSelected(int position) {
-			pager.setCurrentItem(position, true);
-			LogUtil.e("TAG", "position:" + position);
-		}
-
-	}
 }

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.icloud.listenbook"
-    android:versionCode="160914"
-    android:versionName="1.4.6" >
+    android:versionCode="160926"
+    android:versionName="1.4.6-debug" >
 
     <uses-sdk
         android:minSdkVersion="11"
-        android:targetSdkVersion="22" />
+        android:targetSdkVersion="23" />
     <!-- Allows access to the Download Manager -->
     <permission
         android:name="com.permission.ACCESS_DOWNLOAD_MANAGER"
@@ -100,6 +100,7 @@
             android:configChanges="keyboardHidden|orientation"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.FullScreen.Light"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
         </activity>
         <activity
@@ -133,19 +134,7 @@
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
         </activity>
         <activity
-            android:name="com.icloud.listenbook.ui.chipAct.MediumAct"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
-        </activity>
-        <activity
             android:name="com.icloud.listenbook.ui.chipAct.RecommendTypeAct"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
-        </activity>
-        <activity
-            android:name="com.icloud.listenbook.ui.chipAct.RankingAct"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
@@ -511,10 +500,11 @@
         <service android:name="com.icloud.listenbook.service.playerService" >
         </service>
         <service android:name="com.yunva.live.sdk.interfaces.service.VioceService" />
-        <service android:name="com.zywx.myepay.MyEPayDefrayService" >
-        </service>
-        <service android:name="com.zywx.myepay.flow.InitService" >
-        </service>
+        <!-- <service android:name="com.zywx.myepay.MyEPayDefrayService" > -->
+        <!-- </service> -->
+        <!-- <service android:name="com.zywx.myepay.flow.InitService" > -->
+        <!-- </service> -->
+
 
         <!-- 移动统计分析 -->
 

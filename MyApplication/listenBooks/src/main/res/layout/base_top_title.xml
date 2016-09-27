@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/top_l"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/title_top_l" >
+
+    <ImageView
+        android:id="@+id/back"
+        style="@style/base_back" />
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/base_title"
+        android:layout_centerInParent="true"
+        android:text="" />
+
+</RelativeLayout>

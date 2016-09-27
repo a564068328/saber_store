@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v17\\values-v17.xml",
+        "outputFile": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v17\\values-v17.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 526
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 766
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 916
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1088
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 1316
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 1558
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 1729
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -180,7 +180,7 @@
                     "endOffset": 1903
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 2072
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 2345
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -243,7 +243,7 @@
                     "endOffset": 2545
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
+                    "file": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v17\\values.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,

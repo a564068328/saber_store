@@ -6,39 +6,6 @@
     tools:context="com.icloud.listenbook.ui.TablesActivity"
     tools:ignore="MergeRootFrame" >
 
-    <RelativeLayout
-        android:id="@+id/top_l"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="@drawable/title_top_l" >
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_centerVertical="true"
-            android:padding="4dp"
-            android:scaleType="fitCenter"
-            android:src="@drawable/ico_logo" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerInParent="true"
-            android:text="@string/home_tip"
-            android:textColor="@color/txt_blue"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <ImageView
-            android:id="@+id/search"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="14dp"
-            android:background="@drawable/ico_search" />
-    </RelativeLayout>
-
     <com.icloud.listenbook.base.view.RecyclerView
         android:padding="4dp"
         android:id="@+id/list"
@@ -46,6 +13,6 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/top_l" />
 
-    
+
 
 </RelativeLayout>

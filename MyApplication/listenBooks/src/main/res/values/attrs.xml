@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <attr name="ate_key" format="string" />
     <!-- 圆形配置 -->
     <declare-styleable name="CircleImageView">
         <attr name="border_width" format="dimension" />

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="19"
-    density="xxhdpi"
+    density="hdpi"
     format="7"
-    timestamp="26710519677770" >
+    timestamp="27746144078341" >
 
     <task
         name="javac"
@@ -19,6 +19,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="26710519677770" />
+    <artifact
+        location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="27326617263571" >
+        <artifact
+            location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="27746144078341" >
+        <artifact
+            location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>

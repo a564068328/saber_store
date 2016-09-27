@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tab_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_top_l" >
+
+        <RadioGroup
+            android:id="@+id/tabs"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dp"
+            android:layout_toLeftOf="@+id/search"
+            android:checkedButton="@+id/music"
+            android:gravity="center_vertical|left"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/music"
+                style="@style/boutique_rg_btn"
+                android:text="下载列表" />
+
+            <RadioButton
+                android:id="@+id/video"
+                style="@style/boutique_rg_btn"
+                android:text="视频"
+                android:visibility="gone" />
+
+            <RadioButton
+                android:id="@+id/book"
+                style="@style/boutique_rg_btn"
+                android:text="阅读"
+                android:visibility="gone" />
+        </RadioGroup>
+
+        <ImageView
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="14dp"
+            android:background="@drawable/ico_search"
+            android:visibility="gone" />
+
+        <include
+            layout="@layout/pop_query"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="6dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="8dp"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none" />
+
+</LinearLayout>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -33,14 +33,14 @@
                     "endOffset": 603
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 301,
-                        "endLine": 9,
+                        "startOffset": 55,
+                        "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 715
+                        "endOffset": 469
                     }
                 }
             },
@@ -54,14 +54,14 @@
                     "endOffset": 1028
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 720,
-                        "endLine": 15,
+                        "startOffset": 474,
+                        "endLine": 13,
                         "endColumn": 12,
-                        "endOffset": 1140
+                        "endOffset": 894
                     }
                 }
             },
@@ -75,14 +75,14 @@
                     "endOffset": 1456
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1145,
-                        "endLine": 21,
+                        "startOffset": 899,
+                        "endLine": 19,
                         "endColumn": 12,
-                        "endOffset": 1568
+                        "endOffset": 1322
                     }
                 }
             },
@@ -96,14 +96,14 @@
                     "endOffset": 1882
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1573,
-                        "endLine": 27,
+                        "startOffset": 1327,
+                        "endLine": 25,
                         "endColumn": 12,
-                        "endOffset": 1994
+                        "endOffset": 1748
                     }
                 }
             },
@@ -114,17 +114,17 @@
                     "startOffset": 1887,
                     "endLine": 34,
                     "endColumn": 12,
-                    "endOffset": 2311
+                    "endOffset": 2309
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1999,
-                        "endLine": 33,
+                        "startOffset": 1753,
+                        "endLine": 31,
                         "endColumn": 12,
-                        "endOffset": 2423
+                        "endOffset": 2175
                     }
                 }
             },
@@ -132,20 +132,20 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2316,
+                    "startOffset": 2314,
                     "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 2736
+                    "endOffset": 2734
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 2428,
-                        "endLine": 39,
+                        "startOffset": 2180,
+                        "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 2848
+                        "endOffset": 2600
                     }
                 }
             },
@@ -153,18 +153,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2741,
+                    "startOffset": 2739,
                     "endColumn": 88,
-                    "endOffset": 2825
+                    "endOffset": 2823
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 3094,
+                        "startOffset": 2605,
                         "endColumn": 88,
-                        "endOffset": 3178
+                        "endOffset": 2689
                     }
                 }
             },
@@ -172,18 +172,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2830,
+                    "startOffset": 2828,
                     "endColumn": 100,
-                    "endOffset": 2926
+                    "endOffset": 2924
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 43,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 3183,
+                        "startOffset": 2694,
                         "endColumn": 100,
-                        "endOffset": 3279
+                        "endOffset": 2790
                     }
                 }
             },
@@ -191,20 +191,20 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2931,
+                    "startOffset": 2929,
                     "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 3334
+                    "endOffset": 3332
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 44,
+                        "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 3284,
-                        "endLine": 48,
+                        "startOffset": 2795,
+                        "endLine": 44,
                         "endColumn": 12,
-                        "endOffset": 3687
+                        "endOffset": 3198
                     }
                 }
             },
@@ -212,20 +212,20 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3339,
+                    "startOffset": 3337,
                     "endLine": 52,
                     "endColumn": 12,
-                    "endOffset": 3754
+                    "endOffset": 3752
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 49,
+                        "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 3692,
-                        "endLine": 53,
+                        "startOffset": 3203,
+                        "endLine": 49,
                         "endColumn": 12,
-                        "endOffset": 4107
+                        "endOffset": 3618
                     }
                 }
             },
@@ -233,20 +233,20 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3759,
+                    "startOffset": 3757,
                     "endLine": 54,
                     "endColumn": 12,
-                    "endOffset": 3861
+                    "endOffset": 3859
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 56,
+                        "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 4353,
-                        "endLine": 57,
+                        "startOffset": 3623,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 4455
+                        "endOffset": 3725
                     }
                 }
             },
@@ -254,20 +254,20 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3866,
+                    "startOffset": 3864,
                     "endLine": 56,
                     "endColumn": 12,
-                    "endOffset": 3990
+                    "endOffset": 3988
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 58,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 4460,
-                        "endLine": 59,
+                        "startOffset": 3730,
+                        "endLine": 53,
                         "endColumn": 12,
-                        "endOffset": 4584
+                        "endOffset": 3854
                     }
                 }
             },
@@ -275,100 +275,140 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 3995,
-                    "endLine": 61,
+                    "startOffset": 3993,
+                    "endLine": 73,
                     "endColumn": 12,
-                    "endOffset": 4354
+                    "endOffset": 5027
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 60,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 4589,
-                        "endLine": 64,
+                        "startOffset": 55,
+                        "endLine": 18,
                         "endColumn": 12,
-                        "endOffset": 4948
+                        "endOffset": 1089
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 4359,
+                    "startOffset": 5032,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 6048
+                },
+                "from": {
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6053,
                     "endColumn": 70,
-                    "endOffset": 4425
+                    "endOffset": 6119
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 67,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 5194,
+                        "startOffset": 3859,
                         "endColumn": 70,
-                        "endOffset": 5260
+                        "endOffset": 3925
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4430,
+                    "startOffset": 6124,
                     "endColumn": 82,
-                    "endOffset": 4508
+                    "endOffset": 6202
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 68,
+                        "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 5265,
+                        "startOffset": 3930,
                         "endColumn": 82,
-                        "endOffset": 5343
+                        "endOffset": 4008
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4513,
-                    "endLine": 114,
+                    "startOffset": 6207,
+                    "endLine": 143,
                     "endColumn": 12,
-                    "endOffset": 8257
+                    "endOffset": 9910
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 69,
+                        "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 5348,
-                        "endLine": 119,
+                        "startOffset": 4013,
+                        "endLine": 106,
                         "endColumn": 12,
-                        "endOffset": 9092
+                        "endOffset": 7716
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 8262,
-                    "endLine": 166,
+                    "startOffset": 9915,
+                    "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 12146
+                    "endOffset": 13758
                 },
                 "from": {
-                    "file": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 120,
+                        "startLine": 107,
                         "startColumn": 4,
-                        "startOffset": 9097,
-                        "endLine": 171,
+                        "startOffset": 7721,
+                        "endLine": 158,
                         "endColumn": 12,
-                        "endOffset": 12981
+                        "endOffset": 11564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 13763,
+                    "endColumn": 90,
+                    "endOffset": 13849
+                },
+                "from": {
+                    "file": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 11569,
+                        "endColumn": 90,
+                        "endOffset": 11655
                     }
                 }
             }

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_down.xml",
+        "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_up.xml",
+        "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_up.xml"
+    }
+]

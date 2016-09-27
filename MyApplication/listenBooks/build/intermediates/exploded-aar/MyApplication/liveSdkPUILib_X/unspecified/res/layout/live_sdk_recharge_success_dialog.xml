@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/recharge_success_bg"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableLeft="@drawable/wa_icon"
+        android:gravity="bottom|center_horizontal"
+        android:text="  充值成功，完成了屌丝到土豪的大蜕变！"
+        android:textColor="#ffffa508"
+        android:textSize="12sp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/txt_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="当前账号 : "
+            android:textColor="#ff898989"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_user_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/txt_1"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textColor="#ff898989"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_1"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:text="账户余额 : "
+            android:textColor="#ff898989"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_1"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/txt_2"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="..."
+            android:textColor="#ffff4242"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_1"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/txt_balance"
+            android:gravity="center_vertical"
+            android:text=" 豆芽"
+            android:textColor="#ff898989"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

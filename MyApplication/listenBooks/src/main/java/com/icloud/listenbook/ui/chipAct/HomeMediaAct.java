@@ -6,18 +6,15 @@ import java.util.List;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import android.R.integer;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.AdapterView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 
@@ -28,23 +25,14 @@ import com.icloud.listenbook.R;
 import com.icloud.listenbook.base.BaseActivity;
 import com.icloud.listenbook.http.HttpUtils;
 import com.icloud.listenbook.io.IoUtils;
-import com.icloud.listenbook.ui.adapter.GreatMasterTabAdapter;
 import com.icloud.listenbook.ui.adapter.HomeMediaAdapter;
 import com.icloud.listenbook.ui.adapter.HomeMediaTabAdapter;
-import com.icloud.listenbook.ui.adapter.PinterestLikeAdapter;
 import com.icloud.listenbook.ui.adapter.entity.ArticleItem;
-import com.icloud.listenbook.ui.adapter.entity.FooterManage;
-import com.icloud.listenbook.ui.adapter.entity.PinterestLikeItem;
-import com.icloud.listenbook.ui.adapter.entity.Type;
 import com.icloud.listenbook.unit.Configuration;
 import com.icloud.listenbook.unit.DataUpManage;
 import com.icloud.listenbook.unit.JsonUtils;
-import com.icloud.listenbook.unit.MethodUtils;
-import com.icloud.wrzjh.base.utils.LogUtil;
-import com.icloud.wrzjh.base.utils.SharedPreferenceUtil;
 import com.icloud.wrzjh.base.utils.ThreadPoolUtils;
 import com.icloud.wrzjh.base.utils.ViewUtils;
-import com.listenBook.greendao.Article;
 
 public class HomeMediaAct extends BaseActivity implements OnClickListener,
 		Listener<JSONObject>, ErrorListener, OnItemClickListener {
@@ -102,7 +90,7 @@ public class HomeMediaAct extends BaseActivity implements OnClickListener,
 	@Override
 	public int getLayout() {
 		// TODO Auto-generated method stub
-		return R.layout.act_home_media;
+		return R.layout.fragment_home_media;
 	}
 
 	@Override

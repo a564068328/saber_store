@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <com.android.volley.toolbox.CircleNetworkImageView
+            android:id="@+id/icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="6dp" />
+
+        <com.icloud.listenbook.unit.JustifyTextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/icon"
+            android:singleLine="true"
+            android:text="name"
+            android:textColor="#212121"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/sex"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/name" />
+
+        <TextView
+            android:id="@+id/friend"
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/sex"
+            android:textColor="@color/orange"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/name"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/iv_extend"
+            android:layout_toRightOf="@id/icon"
+            android:orientation="horizontal" >
+
+            <com.icloud.listenbook.unit.JustifyTextView
+                android:id="@+id/signature"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="name"
+                android:maxLines="2"
+                android:textColor="#aa212121"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="wrap_content" />
+
+            <com.icloud.listenbook.unit.JustifyTextView
+                android:id="@+id/date"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="上线时间"
+                android:textColor="#aa212121"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/iv_extend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="4dp"
+            android:background="@drawable/textview_orange"
+            android:padding="2dp"
+            android:textSize="12sp" 
+            android:text="查看详情"
+            android:textColor="@color/orange" />
+        <!--
+             <ImageView
+            android:id="@+id/iv_extend"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/text_add_size" />
+        -->
+    </RelativeLayout>
+
+</LinearLayout>

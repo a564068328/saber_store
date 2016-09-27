@@ -136,12 +136,12 @@
         "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_traffic_manager.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
-        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_contact.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_black_number.xml",
         "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\dialog_add_black_number.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\layout\\activity_contact.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_set_password.xml",

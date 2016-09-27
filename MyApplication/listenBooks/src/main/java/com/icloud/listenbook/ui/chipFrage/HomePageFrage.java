@@ -1,7 +1,5 @@
 package com.icloud.listenbook.ui.chipFrage;
 
-import java.util.ArrayList;
-
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -10,26 +8,23 @@ import android.support.v7.widget.GridLayoutManager;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-import com.braunster.tutorialview.object.TutorialBuilder;
 import com.icloud.listenbook.R;
 import com.icloud.listenbook.base.BaseFragement;
 import com.icloud.listenbook.base.GameApp;
 import com.icloud.listenbook.base.HandlerUtils;
 import com.icloud.listenbook.base.view.RecyclerView;
 import com.icloud.listenbook.io.IoUtils;
-import com.icloud.listenbook.ui.HomeSampleDivider;
 import com.icloud.listenbook.ui.adapter.HomePageSpanSizeLookup;
 import com.icloud.listenbook.ui.adapter.HomePageTopView;
 import com.icloud.listenbook.ui.adapter.HomeTypeAdapter;
 import com.icloud.listenbook.ui.adapter.entity.RecommendItem;
-import com.icloud.listenbook.ui.chipAct.SearchAct;
 import com.icloud.listenbook.unit.ChatMsgManage;
-import com.icloud.wrzjh.base.utils.LoadingTool;
 import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.SharedPreferenceUtil;
 import com.icloud.wrzjh.base.utils.ThreadPoolUtils;
-import com.icloud.wrzjh.base.utils.ViewUtils;
 import com.listenBook.greendao.Ads;
+
+import java.util.ArrayList;
 
 /*
  * 主界面Fragement
@@ -44,7 +39,6 @@ public class HomePageFrage extends BaseFragement implements OnClickListener {
 	RecyclerView list;
 	public static HomePageFrage instance;
 	GridLayoutManager gridLayoutManager;
-	View search;
 	upReceiver mReceiver;
 	HomePageTopView topView;
 	guideReceiver gReceiver;
@@ -63,14 +57,11 @@ public class HomePageFrage extends BaseFragement implements OnClickListener {
 		list.setHasFixedSize(true);
 		// 添加分割线
 		// list.addItemDecoration(new HomeSampleDivider(list));
-		search.setOnClickListener(this);
-		search.setOnTouchListener(ViewUtils.instance().onTouchListener);
 	}
 
 	@Override
 	public void findViews() {
-		list = (RecyclerView) findViewById(R.id.list);
-		search = findViewById(R.id.search);
+		list = (RecyclerView)view.findViewById(R.id.list);
 	}
 
 	@Override
@@ -168,12 +159,6 @@ public class HomePageFrage extends BaseFragement implements OnClickListener {
 
 	@Override
 	public void onClick(View v) {
-		int id = v.getId();
-		switch (id) {
-		case R.id.search:
-			LoadingTool.launchActivity(this.getActivity(), SearchAct.class);
-			break;
-		}
 
 	}
 

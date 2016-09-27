@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/live_sdk_main_bg" >
+    <View 
+        android:id="@+id/view_middle"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="@color/live_sdk_main_bg"/>
+     <ListView 
+         android:id="@+id/channel_richlist"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:cacheColorHint="@color/live_sdk_transparent" 
+         android:layout_below="@id/view_middle"
+         android:divider="@color/live_sdk_main_bg"
+         android:dividerHeight="6dp"/>
+    <LinearLayout
+        android:id="@+id/channel_empty_layout" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:orientation="vertical">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="8dp"
+            android:src="@drawable/no_data_icon"/>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="亲!请检查您的网络连接"
+            android:textColor="@color/live_sdk_dark"
+            android:textSize="@dimen/live_sdk_text_size_15"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,58 +1,70 @@
 [
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\vedio_chapter_txt.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\color\\vedio_chapter_txt.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\vpi__light_theme.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\state_selector_black.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\state_selector_black.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\vedio_chapter_item.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\color\\vedio_chapter_item.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\color\\vpi__light_theme.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\color\\vpi__dark_theme.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\vedio_chapter_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\vedio_chapter_item.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\state_select_submit_txt.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\src\\main\\res\\color\\state_select_submit_txt.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\vpi__dark_theme.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\state_selector_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\state_selector_dark.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\state_selector_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\state_selector_light.xml"
     },
     {
-        "merged": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\GitStore\\ListenbookApplication\\listenBook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\state_select_submit_txt.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\state_select_submit_txt.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\vedio_chapter_txt.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\color\\vedio_chapter_txt.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     }
 ]

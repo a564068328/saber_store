@@ -1,29 +1,14 @@
 package com.icloud.listenbook.io;
 
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import android.R.integer;
-import android.R.string;
-import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.drawable.Drawable;
 import android.text.TextUtils;
-import android.util.Log;
 
 import com.icloud.listenbook.connector.ImageManage;
 import com.icloud.listenbook.entity.DeductCurrencyInfo;
 import com.icloud.listenbook.entity.LessonItem;
 import com.icloud.listenbook.entity.ReadingTrackItem;
 import com.icloud.listenbook.entity.TabItemInfo;
-import com.icloud.listenbook.entity.UserInfo;
 import com.icloud.listenbook.ui.adapter.entity.ArticleChapterItem;
 import com.icloud.listenbook.ui.adapter.entity.ArticleItem;
 import com.icloud.listenbook.ui.adapter.entity.RecommendItem;
@@ -31,11 +16,9 @@ import com.icloud.listenbook.ui.adapter.entity.Type;
 import com.icloud.listenbook.unit.Configuration;
 import com.icloud.listenbook.unit.JsonUtils;
 import com.icloud.listenbook.unit.ToolUtils;
-import com.icloud.wrzjh.base.utils.DateKit;
 import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.ThreadPoolUtils;
 import com.icloud.wrzjh.base.utils.down.DownloadManager;
-import com.icloud.wrzjh.base.utils.io.IOUtils;
 import com.listenBook.greendao.Ads;
 import com.listenBook.greendao.Article;
 import com.listenBook.greendao.ArticleChapterInfo;
@@ -53,13 +36,17 @@ import com.listenBook.greendao.FreshPush;
 import com.listenBook.greendao.LessonInfo;
 import com.listenBook.greendao.LessonMarksInfo;
 import com.listenBook.greendao.Media;
-import com.listenBook.greendao.MeritTableAdult;
-import com.listenBook.greendao.MeritTableChildren;
 import com.listenBook.greendao.Rank;
 import com.listenBook.greendao.ReadingTrack;
 import com.listenBook.greendao.Recommend;
 
-import de.greenrobot.dao.query.QueryBuilder;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public class IoUtils {
 	public static final int BOUTIQUE = 0;
@@ -175,7 +162,6 @@ public class IoUtils {
 		List<Media> Medias = dbHelper.getAllMedia();
 		List<Category> Categorys = new ArrayList<Category>();
 		Category _Category;
-		datas.add(new TabItemInfo(-1, "", "", 0, Type.TABLE_HEADER));
 		int categorysSize;
 		for (Media _Media : Medias) {
 			long id = _Media.getId();
