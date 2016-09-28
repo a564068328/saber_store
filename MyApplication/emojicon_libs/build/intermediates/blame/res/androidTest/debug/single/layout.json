@@ -36,12 +36,12 @@
         "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",

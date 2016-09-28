@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="19"
-    density="hdpi"
+    density="xxhdpi"
     format="7"
-    timestamp="27746144078341" >
+    timestamp="15238947056931" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1936" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2756" />
     <task
         name="verifier"
-        duration="0" />
+        duration="537" />
 
     <artifact
-        location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="E:\GitStore\MyApplication\listenBooks\build\outputs\apk\listenBooks-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="27326617263571" >
+    <build timestamp="15238947056931" >
         <artifact
-            location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="27746144078341" >
-        <artifact
-            location="E:\GitStore\MyApplication\listenBooks\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
+            location="E:\GitStore\MyApplication\listenBooks\build\outputs\apk\listenBooks-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

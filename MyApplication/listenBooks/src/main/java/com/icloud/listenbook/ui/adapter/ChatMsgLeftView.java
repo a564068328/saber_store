@@ -1,9 +1,15 @@
 package com.icloud.listenbook.ui.adapter;
 
-import com.android.volley.RequestQueue;
+import android.app.Activity;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.text.TextUtils;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.TextView;
+
 import com.android.volley.toolbox.CircleNetworkImageView;
 import com.android.volley.toolbox.ImageLoader;
-import com.android.volley.toolbox.Volley;
 import com.icloud.listenbook.R;
 import com.icloud.listenbook.dialog.DialogManage;
 import com.icloud.listenbook.dialog.WarningDlg;
@@ -13,27 +19,12 @@ import com.icloud.listenbook.ui.chipAct.ChatMsgAct;
 import com.icloud.listenbook.ui.chipAct.ChatNotifySetAct;
 import com.icloud.listenbook.ui.chipAct.ChatPeopleInfoAct;
 import com.icloud.listenbook.ui.chipAct.FeedbackAct;
-import com.icloud.listenbook.ui.chipAct.Msecond;
 import com.icloud.listenbook.ui.chipAct.UpUserInfoAct;
-import com.icloud.listenbook.ui.chipAct.VedioInfoAct;
 import com.icloud.listenbook.unit.ChatMsgManage;
-import com.icloud.listenbook.unit.LruImageCache;
 import com.icloud.wrzjh.base.utils.LoadingTool;
-import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.SharedPreferenceUtil;
 import com.icloud.wrzjh.base.utils.ToastUtil;
 import com.icloud.wrzjh.base.utils.ViewUtils;
-
-import android.app.Activity;
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.text.TextUtils;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.TextView;
 
 public class ChatMsgLeftView implements OnClickListener {
 
@@ -128,8 +119,8 @@ public class ChatMsgLeftView implements OnClickListener {
 			LoadingTool.launchActivity(act, activity, new Intent());
 			break;
 		case R.id.gongguo_l:
-			activity = Msecond.class;
-			LoadingTool.launchActivity(act, activity, new Intent());
+//			activity = Msecond.class;
+//			LoadingTool.launchActivity(act, activity, new Intent());
 			break;
 		case R.id.feedback_l:
 			activity = FeedbackAct.class;

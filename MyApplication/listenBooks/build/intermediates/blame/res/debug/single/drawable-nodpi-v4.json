@@ -520,12 +520,12 @@
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-nodpi-v4\\emoji_26fa.png"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\emoji_1f309.png",
-        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-nodpi-v4\\emoji_1f309.png"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\emoji_1f310.png",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-nodpi-v4\\emoji_1f310.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\emoji_1f309.png",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\emojicon_libs\\unspecified\\res\\drawable-nodpi-v4\\emoji_1f309.png"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\emoji_1f4e7.png",

@@ -91,7 +91,7 @@ public class MainFragment extends Fragment {
         adapter.addFragment(new HomePageFrage(), this.getString(R.string.recommend));
         adapter.addFragment(new MediumFragment(), this.getString(R.string.medium_type));
         adapter.addFragment(new RankingFragment(), this.getString(R.string.ranking));
-//        adapter.addFragment(new AlbumFragment(), this.getString(R.string.albums));
+        adapter.addFragment(new Msecond(), this.getString(R.string.gongguo));
 //        adapter.addFragment(new ArtistFragment(), this.getString(R.string.artists));
         viewPager.setAdapter(adapter);
     }

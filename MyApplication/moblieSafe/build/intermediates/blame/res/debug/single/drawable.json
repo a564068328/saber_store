@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
-        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
         "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "E:\\GitStore\\MyApplication\\moblieSafe\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\moblieSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",

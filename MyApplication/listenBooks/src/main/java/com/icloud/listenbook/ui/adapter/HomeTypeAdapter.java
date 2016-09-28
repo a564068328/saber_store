@@ -1,7 +1,5 @@
 package com.icloud.listenbook.ui.adapter;
 
-import java.util.ArrayList;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
@@ -22,7 +20,6 @@ import com.android.volley.toolbox.Volley;
 import com.icloud.listenbook.R;
 import com.icloud.listenbook.http.ServerIps;
 import com.icloud.listenbook.io.IoUtils;
-import com.icloud.listenbook.ui.adapter.entity.PinterestLikeItem;
 import com.icloud.listenbook.ui.adapter.entity.RecommendItem;
 import com.icloud.listenbook.ui.adapter.entity.Type;
 import com.icloud.listenbook.ui.chipAct.BookInfoAct;
@@ -32,17 +29,17 @@ import com.icloud.listenbook.ui.chipAct.HomeMediaAct;
 import com.icloud.listenbook.ui.chipAct.PhotoViewAct;
 import com.icloud.listenbook.ui.chipAct.RecommendTypeAct;
 import com.icloud.listenbook.ui.chipAct.VedioInfoAct;
-import com.icloud.listenbook.ui.chipAct.VedioListAct;
 import com.icloud.listenbook.ui.chipAct.VoiceInfoAct;
 import com.icloud.listenbook.ui.chipAct.WebAct;
 import com.icloud.listenbook.unit.Configuration;
 import com.icloud.listenbook.unit.JsonUtils;
 import com.icloud.listenbook.unit.LruImageCache;
 import com.icloud.wrzjh.base.utils.LoadingTool;
-import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.ToastUtil;
 import com.icloud.wrzjh.base.utils.ViewUtils;
 import com.listenBook.greendao.Article;
+
+import java.util.ArrayList;
 
 /*
  * 视频推荐，听书推荐，文章推荐的RecyclerView.Adapter
@@ -121,11 +118,11 @@ public class HomeTypeAdapter extends
 				icon.setVisibility(View.INVISIBLE);
 			}
 			if(item.viewType==Type.TABLE_TITLE_CORE){
-				LayoutParams params=new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT);
+				LayoutParams params=new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
 				params.setMargins(0, 0, 0, 15);
 				ll_core.setLayoutParams(params);
 			}else{
-				LayoutParams params=new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT);
+				LayoutParams params=new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
 				params.setMargins(0, 0, 0, 0);
 				ll_core.setLayoutParams(params);
 			}

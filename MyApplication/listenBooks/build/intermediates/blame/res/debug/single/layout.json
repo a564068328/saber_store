@@ -40,24 +40,24 @@
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_teach_vedio.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_richlist_page.xml",
-        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_richlist_page.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\live_sdk_channel_richlist_page.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\MyApplication\\liveSdkPUILib_X\\unspecified\\res\\layout\\live_sdk_channel_richlist_page.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_buy_tip.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\dlg_buy_tip.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
-        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_titleframe_lesspadding.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_titleframe_lesspadding.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\recommen_grid_item.xml",
@@ -100,24 +100,24 @@
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_actionbuttons.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\book_chapter_info_item.xml",
-        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\book_chapter_info_item.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\teach_vedio_item.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\teach_vedio_item.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\book_chapter_info_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\book_chapter_info_item.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\act_shart.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\src\\main\\res\\layout\\act_shart.xml"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
         "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.3\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\listenBooks\\build\\intermediates\\res\\merged\\debug\\layout\\home_grid_left_item.xml",

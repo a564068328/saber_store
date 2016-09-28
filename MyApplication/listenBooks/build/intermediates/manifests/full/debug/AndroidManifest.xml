@@ -360,13 +360,6 @@
             </intent-filter>
         </receiver>
 
-        <!-- 功过表二级页面 -->
-        <activity
-            android:name="com.icloud.listenbook.ui.chipAct.Msecond"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
-        </activity>
         <!-- 功过表三级成人页面 -->
         <activity
             android:name="com.icloud.listenbook.ui.chipAct.ThirdAdult"

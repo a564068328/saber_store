@@ -2456,12 +2456,12 @@
         "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\src\\main\\res\\drawable-nodpi\\emoji_1f3ec.png"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\emoji_1f68e.png",
-        "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\src\\main\\res\\drawable-nodpi\\emoji_1f68e.png"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\emoji_1f4e6.png",
         "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\src\\main\\res\\drawable-nodpi\\emoji_1f4e6.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\emoji_1f68e.png",
+        "source": "E:\\GitStore\\MyApplication\\emojicon_libs\\src\\main\\res\\drawable-nodpi\\emoji_1f68e.png"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\emojicon_libs\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\emoji_1f4b8.png",

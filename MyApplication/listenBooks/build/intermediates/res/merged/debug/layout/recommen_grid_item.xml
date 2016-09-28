@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 主界面的主条目 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="#fff8fbfb"
-    android:orientation="vertical"
-    android:id="@+id/ll_core"
-    android:paddingBottom="2dp"
-    android:paddingLeft="2dp"
-    android:paddingRight="2dp"
-    android:paddingTop="8dp" >
+              android:id="@+id/ll_core"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="?attr/selectableItemBackground"
+              android:orientation="vertical"
+              android:paddingBottom="2dp"
+              android:paddingLeft="2dp"
+              android:paddingRight="2dp"
+              android:paddingTop="8dp">
 
     <com.android.volley.toolbox.NetworkImageView
         android:id="@+id/icon"
         android:layout_width="64dp"
         android:layout_height="64dp"
-        android:scaleType="centerCrop" />
+        android:scaleType="centerCrop"/>
 
     <TextView
         android:id="@+id/name"
@@ -27,7 +27,7 @@
         android:gravity="center"
         android:lines="2"
         android:textColor="@android:color/black"
-        android:textSize="13sp" />
+        android:textSize="13sp"/>
 
     <TextView
         android:id="@+id/aAuthor"
@@ -38,6 +38,6 @@
         android:gravity="center"
         android:singleLine="true"
         android:textColor="@color/item_chip_title"
-        android:textSize="11sp" />
-     
+        android:textSize="11sp"/>
+
 </LinearLayout>

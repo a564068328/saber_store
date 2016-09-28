@@ -1,6 +1,0 @@
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icloud\listenbook\ui\chipFrage\HomePageFrage$1$override.class
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icloud\listenbook\ui\chipFrage\HomePageFrage$upReceiver$override.class
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icloud\listenbook\ui\chipFrage\HomePageFrage$override.class
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icloud\listenbook\ui\chipFrage\HomePageFrage$2$override.class
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icloud\listenbook\ui\chipFrage\HomePageFrage$guideReceiver$override.class
-CHANGED,E:\GitStore\MyApplication\listenBooks\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -428,12 +428,12 @@
         "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\refresh.9.png"
     },
     {
-        "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\recharge_success_bg.9.png",
-        "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\recharge_success_bg.9.png"
-    },
-    {
         "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\live_charm.png",
         "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\live_charm.png"
+    },
+    {
+        "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\recharge_success_bg.9.png",
+        "source": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\recharge_success_bg.9.png"
     },
     {
         "merged": "E:\\GitStore\\MyApplication\\liveSdkPUILib_X\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\live_sdk_ml_icon.png",

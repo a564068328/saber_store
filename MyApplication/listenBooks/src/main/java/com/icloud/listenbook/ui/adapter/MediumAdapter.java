@@ -25,14 +25,13 @@ import com.icloud.listenbook.ui.adapter.entity.Type;
 import com.icloud.listenbook.ui.chipAct.BookListAct;
 import com.icloud.listenbook.ui.chipAct.GreatMaster;
 import com.icloud.listenbook.ui.chipAct.HomeMediaAct;
-import com.icloud.listenbook.ui.chipAct.Msecond;
+import com.icloud.listenbook.ui.fragment.Msecond;
 import com.icloud.listenbook.ui.chipAct.VedioListAct;
 import com.icloud.listenbook.ui.chipAct.VoiceListAct;
 import com.icloud.listenbook.unit.Configuration;
 import com.icloud.listenbook.unit.LruIcoCache;
 import com.icloud.listenbook.unit.LruImageCache;
 import com.icloud.wrzjh.base.utils.LoadingTool;
-import com.icloud.wrzjh.base.utils.LogUtil;
 import com.icloud.wrzjh.base.utils.ViewUtils;
 
 import java.util.ArrayList;
@@ -217,7 +216,6 @@ public class MediumAdapter extends
 		public ViewHolder(View v) {
 			super(v);
 			title = (TextView) v.findViewById(R.id.txt);
-			LogUtil.e("tag","act.getLocalClassName()"+act.getLocalClassName());
 			icon = (NetworkImageView) v.findViewById(R.id.icon);
 			icon.setDefaultImageResId(R.drawable.icon_default_img);
 			icon.setErrorImageResId(R.drawable.icon_default_img);
